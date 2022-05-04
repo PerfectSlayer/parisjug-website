@@ -8,5 +8,4 @@ menu: main
 thumbnail: "img/logo.png" # Thumbnail image
 lead: "Example lead - highlighted near the title" # Lead text
 pager: true # Enable pager navigation (prev/next) for specific page
-sidebar: "right" # Enable sidebar (on the right side) per page
 ---

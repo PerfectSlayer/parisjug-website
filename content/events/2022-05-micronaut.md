@@ -3,7 +3,6 @@ date: 2022-05-03
 draft: false
 tags:
 - micronault
-sidebar: "right"
 summary: "Soirée IRL dans les locaux de Agorapulse"
 title: "10/05/22 - Soirée IRL Micronaut"
 
