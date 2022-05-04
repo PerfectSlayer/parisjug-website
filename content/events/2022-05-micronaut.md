@@ -11,14 +11,13 @@ title: "10/05/22 - Soirée IRL Micronaut"
 
 ## Date et lieu
 
- * Mardi 10 Mai 2022 à 19h30
- * Dans les locaux de Agorapulse
- * Google Calendar
- * Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
- * Les **inscrits** à l'évènement non présents **5 min avant le début de la session**, soit à 19h25, verront leur **place remise à disposition**
-    Les **non inscrits** à l'évènement ne pourront donc y assister que sous réserve de **places disponibles** sur place **5 min avant le début de la session**, soit à 19h25.
-
-    L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. **Toute inscription non confirmée ne sera pas prise en compte !**
+* Mardi 10 Mai 2022 à 19h30
+* Dans les locaux de Agorapulse
+* Google Calendar
+* Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
+* Les **inscrits** à l'évènement non présents **5 min avant le début de la session**, soit à 19h25, verront leur **place remise à disposition**  
+Les **non inscrits** à l'évènement ne pourront donc y assister que sous réserve de **places disponibles** sur place **5 min avant le début de la session**, soit à 19h25.  
+L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. **Toute inscription non confirmée ne sera pas prise en compte !**
 
 ## Détails
 
