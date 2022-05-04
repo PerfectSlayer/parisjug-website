@@ -14,6 +14,7 @@ theme = 'mainroad'
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["events"] # Specify section pages to show on home page and the "Recent articles" widget
+  customCSS = ["css/custom.css"] # Include custom CSS files
 
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color
