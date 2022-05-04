@@ -1,6 +1,5 @@
 ---
 title: "Benoît Hédiard"
-date: 2022-05-03T19:24:59+02:00
 draft: false
 ---
 
