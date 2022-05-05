@@ -38,23 +38,7 @@ Composée de plus de 50 consultants experts passionnés par le développement, n
 * COMPRENDRE - les concepts
 * TRANSMETTRE - notre savoir
 
-[Site Web](https://www.oxiane.com/) 
-
-### Sciam
-
-![Sciam](/img/sponsors/sciam.svg)
-
-SCIAM est une société de conseil en innovation et transformation des organisations fondée sur le dialogue entre technologies et sciences humaines.
-
-**Restez compétitifs dans les interactions avec vos clients ou usagers**
-
-Les 20 dernières années ont bouleversé l’interaction que les consommateurs et usagers entretiennent avec leurs entreprises de biens et de services. Pour rester compétitifs nous aidons nos clients à adopter les techniques et méthodes qui s’imposent comme de nouveaux standards du marché.
-
-**Optimisez votre efficacité opérationnelle collective**
-
-Nous observons que les entreprises qui dominent leurs marchés se reposent sur une vision partagée, des individus divers et engagés, une organisation flexible et efficace.
-
-Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/)
+[Site Web](https://www.oxiane.com/)
 
 ### Red Hat
 
@@ -76,6 +60,32 @@ La Direction des Systèmes d’Information est au cœur de cette transformation.
 Elle doit devenir une communauté d’experts en terme de pratiques digitales, capables d’innover tout en délivrant de manière agile et en apportant le maximum de valeur aux projets informatiques des métiers de l’entreprise.
 
 [Site Web](https://group.renault.com/talents/nos-metiers/digital/)
+
+### Sciam
+
+![Sciam](/img/sponsors/sciam.svg)
+
+SCIAM est une société de conseil en innovation et transformation des organisations fondée sur le dialogue entre technologies et sciences humaines.
+
+**Restez compétitifs dans les interactions avec vos clients ou usagers**
+
+Les 20 dernières années ont bouleversé l’interaction que les consommateurs et usagers entretiennent avec leurs entreprises de biens et de services. Pour rester compétitifs nous aidons nos clients à adopter les techniques et méthodes qui s’imposent comme de nouveaux standards du marché.
+
+**Optimisez votre efficacité opérationnelle collective**
+
+Nous observons que les entreprises qui dominent leurs marchés se reposent sur une vision partagée, des individus divers et engagés, une organisation flexible et efficace.
+
+Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/)
+
+### SOFTEAM
+
+![SOFTEAM](/img/sponsors/softeam.svg)
+
+SOFTEAM Group fédère une communauté de développeurs, d’architectes, de Tech Leader… passionnés par les nouvelles technologies.  
+Le développement des compétences de nos collaborateurs se fait tout au long de la carrière par notre politique dynamique de formations, de certifications (OCJP, Scrum Master, PMP…) et lors de nos soirées de veille technologique.
+Chaque Softeamien(ne) est également suivi(e) par un ancien consultant de SOFTEAM Group, aujourd’hui manager, pour un accompagnement de carrière personnalisé. Partage des connaissances, innovation, enthousiasme définissent notre communauté !
+
+Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SofteamGroup) - [Facebook](https://www.facebook.com/SofteamGroup) - [LinkedIn](https://www.linkedin.com/company/softeam-group/).
 
 ## Devenez sponsors
 
