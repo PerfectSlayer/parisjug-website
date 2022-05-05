@@ -5,7 +5,7 @@ tags:
 - actions
 - aws
 - gradle
-- micronault
+- micronaut
 summary: "Soirée IRL dans les locaux de Agorapulse"
 title: "10/05/22 - Soirée IRL Micronaut"
 
