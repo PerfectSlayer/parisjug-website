@@ -7,16 +7,15 @@ toc: true
 
 ## Sponsors Platinium
 
-### Renault Digital
+### Agorapulse
 
-![Renault Digital](/img/sponsors/renault-digital.svg)
+![Agorapulse](/img/sponsors/agorapulse.svg)
 
-Le développement du digital fait avancer notre métier de constructeur : les véhicules sont de plus en plus connectés et les outils de conception numérique, la robotique, l’analyse des données d’usage de nos véhicules ou des comportements des clients sont autant de moyens pour développer l’entreprise.
-Les outils de travail bénéficient de l’évolution des technologies; ils sont plus connectés, plus collaboratifs.
-La Direction des Systèmes d’Information est au cœur de cette transformation.
-Elle doit devenir une communauté d’experts en terme de pratiques digitales, capables d’innover tout en délivrant de manière agile et en apportant le maximum de valeur aux projets informatiques des métiers de l’entreprise.
+Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
 
-[Site Web](https://group.renault.com/talents/nos-metiers/digital/)
+Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s'appuie sur AWS pour l'infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.
+
+[Site Web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
 
 ### Sciam
 
@@ -32,17 +31,28 @@ Les 20 dernières années ont bouleversé l’interaction que les consommateurs 
 
 Nous observons que les entreprises qui dominent leurs marchés se reposent sur une vision partagée, des individus divers et engagés, une organisation flexible et efficace.
 
-Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/) 
+Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) - [LinkedIn](https://www.linkedin.com/company/sciamfr/)
 
-### Agorapulse
+### Red Hat
 
-![Agorapulse](/img/sponsors/agorapulse.svg)
+![Red Hat](/img/sponsors/red-hat.svg)
 
-Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
+Red Hat est le premier éditeur de solutions Open Source pour les entreprises.
+Notre modèle de souscription simple et économique permet à nos clients de bénéficier de la stabilité et haute performance de nos technologies de cloud, Linux, gestion, middleware, mobilité, stockage et virtualisation.
+Nous offrons également un niveau de support, de formation et de consulting reconnu.
 
-Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme technique s'appuie sur AWS pour l'infra, Angular pour le front et Java pour le back, notamment le framework Micronaut.
+[Site Web](https://www.redhat.com/fr/global/france)
 
-[Site web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
+### Renault Digital
+
+![Renault Digital](/img/sponsors/renault-digital.svg)
+
+Le développement du digital fait avancer notre métier de constructeur : les véhicules sont de plus en plus connectés et les outils de conception numérique, la robotique, l’analyse des données d’usage de nos véhicules ou des comportements des clients sont autant de moyens pour développer l’entreprise.
+Les outils de travail bénéficient de l’évolution des technologies; ils sont plus connectés, plus collaboratifs.
+La Direction des Systèmes d’Information est au cœur de cette transformation.
+Elle doit devenir une communauté d’experts en terme de pratiques digitales, capables d’innover tout en délivrant de manière agile et en apportant le maximum de valeur aux projets informatiques des métiers de l’entreprise.
+
+[Site Web](https://group.renault.com/talents/nos-metiers/digital/)
 
 ## Devenez sponsors
 
