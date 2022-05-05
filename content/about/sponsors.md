@@ -26,6 +26,20 @@ Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou M
 
 Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mirakl.com/).
 
+### Oxiane
+
+![Oxian](/img/sponsors/oxiane.svg)
+
+Oxiane est depuis près de 20 ans une société de services en informatique qui s’attache à constituer une équipe de talents, autocritique et solidaire, animée par des gens qui cherchent à comprendre et à partager ce qu’ils font.  
+Notre activité porte sur l’ingénierie, le conseil et la formation autour des nouvelles technologies informatiques.  
+Composée de plus de 50 consultants experts passionnés par le développement, notre équipe applique chaque jour notre motto :
+
+* ANTICIPER - votre SI
+* COMPRENDRE - les concepts
+* TRANSMETTRE - notre savoir
+
+[Site Web](https://www.oxiane.com/) 
+
 ### Sciam
 
 ![Sciam](/img/sponsors/sciam.svg)
