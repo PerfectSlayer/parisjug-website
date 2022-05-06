@@ -1,6 +1,5 @@
 ---
 date: 2022-05-03
-draft: false
 tags:
 - actions
 - aws
