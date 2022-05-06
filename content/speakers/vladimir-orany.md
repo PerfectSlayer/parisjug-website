@@ -1,6 +1,5 @@
 ---
 title: "Vladimír Oraný"
-draft: false
 ---
 
 Vladimir est un expert Backend Java, dans l'équipe Developer Experience à Agorapulse.

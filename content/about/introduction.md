@@ -1,7 +1,6 @@
 ---
 title: "Présentation"
 date: 2022-05-04
-draft: false
 ---
 
 ## Qu'est-ce que le Paris Java User Group ?

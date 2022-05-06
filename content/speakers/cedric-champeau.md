@@ -1,6 +1,5 @@
 ---
 title: "Cédric Champeau"
-draft: false
 ---
 
 Cédric Champeau est développeur Java chez Oracle Labs, dans l’équipe Micronaut et GraalVM.
