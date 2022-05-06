@@ -12,7 +12,6 @@ theme = 'mainroad'
   readmore = true # Show "Read more" button in list if true
   toc = false # Enable Table of Contents
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
-  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["events"] # Specify section pages to show on home page and the "Recent articles" widget
   customCSS = ["css/custom.css"] # Include custom CSS files
 
