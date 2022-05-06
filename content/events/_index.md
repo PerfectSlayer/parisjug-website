@@ -3,6 +3,7 @@
 title: "Evènements"
 description: "Les évènements du Paris JUG"
 menu: main # Optional, add page to a menu. Options: main, side, footer
+weight: 10
 
 # Theme-Defined params
 thumbnail: "img/logo.png" # Thumbnail image

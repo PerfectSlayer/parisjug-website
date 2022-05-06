@@ -3,6 +3,7 @@
 title: "Speakers"
 description: "Les conférenciers"
 menu: main
+weight: 20
 
 # Theme-Defined params
 thumbnail: "img/logo.png" # Thumbnail image

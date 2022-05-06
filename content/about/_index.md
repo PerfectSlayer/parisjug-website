@@ -3,7 +3,7 @@
 title: "Le Paris JUG"
 description: "Le Paris JUG"
 menu: main
-weight: 100
+weight: 30
 
 # Theme-Defined params
 thumbnail: "img/logo.png" # Thumbnail image
