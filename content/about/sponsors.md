@@ -27,7 +27,7 @@ Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mir
 
 ### Oxiane
 
-![Oxian](/img/sponsors/oxiane.svg)
+![Oxiane](/img/sponsors/oxiane.svg)
 
 Oxiane est depuis près de 20 ans une société de services en informatique qui s’attache à constituer une équipe de talents, autocritique et solidaire, animée par des gens qui cherchent à comprendre et à partager ce qu’ils font.  
 Notre activité porte sur l’ingénierie, le conseil et la formation autour des nouvelles technologies informatiques.  

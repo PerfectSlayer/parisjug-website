@@ -8,7 +8,6 @@ tags:
 - micronaut
 register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
 title: "Soirée IRL Micronaut"
-
 ---
 
 ## Date et lieu
