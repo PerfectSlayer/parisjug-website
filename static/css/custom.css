@@ -1,3 +1,4 @@
+/* Header customization */
 .header__container {
     background-size: cover;
     background-image:
@@ -7,4 +8,12 @@
 
 .logo__tagline {
     color:rgb(255, 255, 255);
+}
+
+/* Sponsor widget */
+.widget-sponsors .widget__list .widget__item {
+    text-align: center;
+}
+.widget-sponsors .widget__list .widget__item img {
+    max-height: 120px;
 }
