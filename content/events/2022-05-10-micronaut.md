@@ -1,12 +1,13 @@
 ---
-date: 2022-05-03
+date: 2022-05-10T19:30:00
+publishDate: 2022-05-03
 tags:
 - actions
 - aws
 - gradle
 - micronaut
-summary: "Soirée IRL dans les locaux de Agorapulse"
-title: "10/05/22 - Soirée IRL Micronaut"
+register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
+title: "Soirée IRL Micronaut"
 
 ---
 

@@ -1,0 +1,49 @@
+<article class="list__item post">
+	{{ partial "post_thumbnail.html" (dict "class" "list" "page" .) }}
+	<header class="list__header">
+		<h2 class="list__title post__title">
+			<a href="{{ .RelPermalink }}" rel="bookmark">
+			 {{ .Title }}
+			</a>
+		</h2>
+		<p class="list__lead post__lead">Le {{ .Date | time.Format ":date_full" }} à {{ .Date | time.Format ":time_short" }}</p>
+		{{ with partial "post_meta.html" . -}}
+		<div class="list__meta meta">{{ . }}</div>
+		{{- end }}
+	</header>
+	<div class="content list__excerpt post__content clearfix">
+		{{/*
+		{{ .Summary }}
+		*/}}
+		{{- if and
+			(gt (.Date | time.AsTime) now)
+			(isset .Params "register")
+		}}
+		<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe src="{{ .Params.register }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" allowtransparency="true" ></iframe>
+		</div>
+		{{ end }}
+		{{- if isset .Params "videos"}}
+		{{- range .Params.videos }}
+		<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe src="{{.}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="" title="Replay"></iframe>
+		</div>
+		{{ end }}
+		{{ end }}
+		{{- if and (not (isset .Params "register")) (not (isset .Params "videos")) }}
+		{{ .Summary }}
+		{{ end }}
+	</div>
+	{{/*
+	{{- if .Site.Params.readmore }}
+	{{- if .Truncated }}
+	<div class="list__footer clearfix">
+		<a class="list__footer-readmore btn" href="{{ .RelPermalink }}">{{ T "read_more" }}</a>
+	</div>
+	{{- end }}
+	{{- end }}
+	*/}}
+	<div class="list__footer clearfix">
+		<a class="list__footer-readmore btn" href="{{ .RelPermalink }}">Consulter tous les détails de l'évènements</a>
+	</div>
+</article>
