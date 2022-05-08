@@ -1,4 +1,5 @@
 baseURL = '/'
+defaultContentLanguage = 'fr'
 languageCode = 'fr-fr'
 title = 'Paris Java User Group'
 theme = 'mainroad'
