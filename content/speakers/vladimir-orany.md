@@ -1,5 +1,6 @@
 ---
 title: "Vladimír Oraný"
+twitter: "musketyr"
 ---
 
 Vladimir est un expert Backend Java, dans l'équipe Developer Experience à Agorapulse.

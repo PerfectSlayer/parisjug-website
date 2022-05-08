@@ -7,13 +7,23 @@
 }
 
 .logo__tagline {
-    color:rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+/* Speakers single page */
+.speaker-profile {
+    border: 3px solid rgb(226, 44, 47);
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+    float: left;
+    margin: 0 16px 16px 0;
 }
 
 /* Sponsor widget */
 .widget-sponsors .widget__list .widget__item {
     text-align: center;
 }
+
 .widget-sponsors .widget__list .widget__item img {
     max-height: 120px;
 }

@@ -1,5 +1,6 @@
 ---
 title: "Zineb Bendhiba"
+twitter: "ZinebBendhiba"
 ---
 
 Zineb Bendhiba est Senior Software Engineer chez Red Hat.
