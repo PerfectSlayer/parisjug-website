@@ -5,7 +5,8 @@ tags:
 - camel
 - quarkus
 title: "Soirée virtuelle Intégration à l'ère du cloud avec Camel Quarkus"
-videos: ['https://www.youtube.com/watch?v=LAFUKrSSa9A']
+videos: 
+- https://www.youtube.com/watch?v=LAFUKrSSa9A
 ---
 
 ## Replay
