@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "Speakers"
+title: "Les speakers"
 description: "Les conférenciers"
 menu: main
 weight: 20
