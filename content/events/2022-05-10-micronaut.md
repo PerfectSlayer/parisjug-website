@@ -48,7 +48,7 @@ Par [Cédric Champeau]({{< ref "/speakers/cedric-champeau.md" >}})
 
 ### 20h30 : Buffet
 
-agorapulse
+[![Agorapulse](/img/sponsors/agorapulse.svg)](https://www.agorapulse.com/)
 
 ### 21h00 : Librairie open source Micronaut (AWS, NewRelic, Console, Workers) Chez Agorapulse,
 
