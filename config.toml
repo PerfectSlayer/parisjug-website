@@ -38,7 +38,7 @@ theme = 'mainroad'
   list = "right"  # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["mailinglist", "sponsors", "recent", "social", "taglist"]
+  widgets = ["mailinglist", "sponsors", "social", "taglist"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
