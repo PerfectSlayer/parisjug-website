@@ -22,6 +22,17 @@
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
 			{{ .Content }}
+			<h2>Évènements associés</h2>
+			<ul>
+			{{- range .Site.Pages }}
+			{{- if and
+				(eq .Type "events") 
+				(strings.Contains .Content $.File.BaseFileName)
+			}}
+				<li><a href="{{ .Permalink }}" title="Consulter les détails l'évènement">{{ .Date | time.Format ":date_short" }} - {{ .Title }}</a></li>
+			{{- end }}
+			{{- end }}
+			</ul>
 		</div>
 		{{- if .Params.tags }}
 		<footer class="post__footer">
