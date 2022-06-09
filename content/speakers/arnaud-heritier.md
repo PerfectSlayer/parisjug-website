@@ -3,12 +3,6 @@ title: "Arnaud Heritier"
 twitter: "aheritier"
 ---
 
-# [Arnaud Héritier](/xwiki/wiki/oldversion/view/Speaker/ArnaudHeritier)
-
-<img
-src="https://www.gravatar.com/avatar/9dec3dd95fe76a6719fae939b368d1a5.png?s=256"
-width="256" alt="Arnaud Héritier" />
-
 Spécialisé dans le développement logiciels et l'automatisation des
 processus, il participe depuis de nombreuses années à divers [projets
 opensource](https://www.ohloh.net/accounts/aheritier) comme

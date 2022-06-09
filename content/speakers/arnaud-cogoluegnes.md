@@ -3,11 +3,6 @@ title: "Arnaud Cogoluegnes"
 twitter: "acogoluegnes"
 ---
 
-# [Arnaud Cogoluegnes](/xwiki/wiki/oldversion/view/Speaker/ArnaudCogoluegnes)
-
-![Arnaud
-Cogoluegnes](/xwiki/wiki/oldversion/download/Speaker/ArnaudCogoluegnes/arno.cogo.jpg)
-
 Arnaud Cogoluègnes est architecte Java EE chez Zenika et expert Spring.
 Il effectue des missions de conseil et de développement auprès de grands
 comptes et dispense pour SpringSource les formations Core Spring, Spring
