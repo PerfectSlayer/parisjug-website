@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+    {{- $data := newScratch }}
+    {{- $data.Set "firstLetter" "" }}
+    {{- $data.Set "listStarted" false }}
+	{{- range .Pages }}
+        {{- $firstLetter := (substr .Title 0 1) }}
+        {{- if ne ($data.Get "firstLetter") $firstLetter }}
+        {{- if ($data.Get "listStarted") }}
+    </ul>
+        {{- else }}
+            {{ $data.Set "listStarted" true }}
+        {{- end}}
+    <h2>{{ $firstLetter }}</h2>
+    <ul class="speaker__list">
+            {{- $data.Set "firstLetter" $firstLetter }}
+        {{- end  }}
+        <li><a href="{{ .RelPermalink }}" rel="bookmark">{{ .Title }}</a></li>
+	{{- end }}
+    </ul>
+</main>
+{{ end }}

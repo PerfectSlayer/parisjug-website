@@ -10,6 +10,17 @@
     color: rgb(255, 255, 255);
 }
 
+/** Speakers list */
+ul.speaker__list {
+    margin-bottom: 1rem;
+}
+ul.speaker__list li {
+    display: inline-block;
+}
+ul.speaker__list li + li::before {
+    content: " | ";
+}
+
 /* Speakers single page */
 .speaker-profile {
     border: 3px solid rgb(226, 44, 47);
