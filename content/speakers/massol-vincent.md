@@ -11,8 +11,6 @@ nombreuses années à créer Cactus chez Apache, Cargo chez Codehaus et
 committer dès le début sur Apache Maven. Il se consacre actuellement
 entièrement à développer le projet open source XWiki. Vincent a
 également écrit et co-écrit 3 livres: JUnit in Action, Maven: A
-Developer's Notebook et Better Builds with Maven. Vous pouvez le
-retrouver sur [son blog](http://massol.net) ou sur Twitter (@vmassol).
+Developer's Notebook et Better Builds with Maven.
 
-**Présentation(s)** : [Soirée anniversaire - L'open source en
-France](/xwiki/wiki/oldversion/view/Meeting/20100209)
+[Blog](http://massol.net)

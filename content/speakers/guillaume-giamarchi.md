@@ -1,5 +1,6 @@
 ---
 title: "Guillaume Giamarchi"
+twitter: "ggiamarchi"
 ---
 
 Guillaume Giamarchi est consultant et formateur pour la société Zenika.

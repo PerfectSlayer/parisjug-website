@@ -1,5 +1,6 @@
 ---
 title: "Florian Douetteau"
+twitter: "fdouetteau"
 ---
 
 Florian Douetteau est le président de Dataiku, éditeur français d'une

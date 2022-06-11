@@ -1,5 +1,6 @@
 ---
 title: "Florent Biville"
+twitter: "fbiville"
 ---
 
 Florent est, paraît-il, co-organisateur d'un certain Spring Meetup

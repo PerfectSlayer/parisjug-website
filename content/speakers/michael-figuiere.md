@@ -11,6 +11,3 @@ NoSQL, les moteurs de recherche, ou encore le data mining.
 
 Sur le blog de Xebia, Michaël est un contributeur actif des revues de
 presse ainsi que l'auteur de nombreux articles. 
-
-**Présentation(s)** : [Soirée
-NoSQL](/xwiki/wiki/oldversion/view/Meeting/20100914)

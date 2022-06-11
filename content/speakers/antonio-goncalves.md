@@ -15,6 +15,6 @@ Quarkus et Java EE. Il est le co-fondateur du [Paris Java User
 Group](https://www.parisjug.org/), [Devoxx
 France](https://www.devoxx.fr), [Voxxed
 Microservices](https://voxxeddays.com/microservices), et co-animateur
-des [Cast Codeurs](http://lescastcodeurs.com/).  
-Suivez-le sur son [blog](https://antoniogoncalves.org) ou sur
-[Twitter](https://twitter.com/agoncal).
+des [Cast Codeurs](http://lescastcodeurs.com/).
+
+[Blog](https://antoniogoncalves.org)

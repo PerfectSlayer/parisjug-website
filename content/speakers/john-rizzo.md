@@ -12,6 +12,3 @@ passé par beaucoup de rôles IT : programmation, support, administration
 système, éducation, coaching, analyse, direction d'équipe, architecture,
 recrutement et même ventes & marketing. John est le fondateur de la
 communauté [JavaBlackBelt](http://www.javablackbelt.com/).
-
-**Présentation(s)** : [Meilleurs
-Développeurs](/xwiki/wiki/oldversion/view/Meeting/20080612)

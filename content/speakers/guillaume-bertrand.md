@@ -14,4 +14,4 @@ Je suis aujourd'hui en poste chez Valtech en tant que consultant :
     ...)
 -   Donne des formations sur Java et Spring.
 
-[LinkedIn](https://www.linkedin.com/pub/guillaume-bertrand/99/471/921/) - [Viadeo](http://fr.viadeo.com/fr/profile/guillaume.bertrand16343)
+[LinkedIn](https://www.linkedin.com/pub/guillaume-bertrand/99/471/921/)

@@ -1,5 +1,6 @@
 ---
 title: "Benjamin Nothdurft"
+twitter: "DataDuke"
 ---
 
 Benjamin has a long-term and hands-on experience with introducing,

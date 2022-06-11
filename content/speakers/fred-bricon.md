@@ -1,5 +1,6 @@
 ---
 title: "Fred Bricon"
+twitter: "fbricon"
 ---
 
 Fred Bricon bidouille dans l'open-source en tant que "Principal Software

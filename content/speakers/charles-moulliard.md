@@ -1,5 +1,6 @@
 ---
 title: "Charles Moulliard"
+twitter: "cmoulliard"
 ---
 
 Charles Moulliard is a Senior Solution Architect with more than 15 years

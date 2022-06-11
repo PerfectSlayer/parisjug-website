@@ -1,5 +1,5 @@
 ---
-title: "Andre Nicolas"
+title: "Nicolas André"
 ---
 
 Nicolas André est associé et co-fondateur de la société Zenika, un

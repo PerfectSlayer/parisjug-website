@@ -1,5 +1,6 @@
 ---
 title: "David Pequegnot"
+twitter: "foxlegend"
 ---
 
 David est développeur Java et Python au sein de Worldline depuis 2012.

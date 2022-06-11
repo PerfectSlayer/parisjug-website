@@ -1,5 +1,6 @@
 ---
 title: "Alexis Hassler"
+twitter: "AlexisHassler"
 ---
 
 Alexis Hassler est développeur Java depuis la fin du siècle dernier. Il

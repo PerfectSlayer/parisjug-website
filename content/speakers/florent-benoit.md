@@ -3,15 +3,15 @@ title: "Florent Benoit"
 twitter: "florentbenoit"
 ---
 
-### Interests
+## Interests
 
 OSGi, Java, JavaScript
 
-### Job title
+## Job title
 
 Team Leader
 
-### Bio
+## Bio
 
 Florent Benoit is working at Codenvy. He’s working on the SaaS developer
 environment Codenvy by bringing support of JavaScript technologies like

@@ -1,5 +1,6 @@
 ---
 title: "Gregory Boissinot"
+twitter: "gboissinot"
 ---
 
 Grégory Boissinot est actuellement Directeur Technique de Zenika Pairs,

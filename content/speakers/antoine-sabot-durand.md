@@ -1,5 +1,6 @@
 ---
 title: "Antoine Sabot Durand"
+twitter: "antoine_sd"
 ---
 
 Après avoir travaillé pendant plus de 15 ans dans différentes société de

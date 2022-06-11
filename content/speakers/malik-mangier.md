@@ -3,8 +3,6 @@ title: "Malik Mangier"
 twitter: "MalikMangier"
 ---
 
-# Malik Mangier
-
 Malik est un Ingénieur Logiciel reconverti en Product Advocate pour
 Atlassian. La position de Product Advocate consiste à être au plus
 proche des développeurs et des outils Atlassian, afin d'offrir des

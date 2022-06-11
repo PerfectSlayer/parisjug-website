@@ -1,5 +1,6 @@
 ---
 title: "Alexandre Gallice"
+twitter: "AlexGallice"
 ---
 
 Je suis membre du PMC du projet Open Source [Apache

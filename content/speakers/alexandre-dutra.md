@@ -1,5 +1,6 @@
 ---
 title: "Alexandre Dutra"
+twitter: "alexdut"
 ---
 
 Alexandre Dutra est développeur Driver & Tools chez Datastax,

@@ -1,9 +1,9 @@
 ---
 title: "Alain Duval"
+twitter: "aduval93"
 ---
 
-Compagnon de
-[Cédric](/xwiki/wiki/oldversion/view/Speaker/BeurtheretCedric) depuis
+Compagnon de [Cédric]({{< ref "/speakers/cedric-beurtheret.md" >}}) depuis
 leurs débuts, Alain Duval est directeur technique chez
 [OBJECTIF](http://www.objectif-informatique.fr/). Intervenant en conseil
 & expertise JAVA EE, il se partage entre le développement des offres

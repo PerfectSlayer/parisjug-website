@@ -1,5 +1,6 @@
 ---
 title: "Brice Dutheil"
+twitter: "BriceDutheil"
 ---
 
 Brice Dutheil est un ingénieur logiciel à Datadog, il vit à Paris. Sur

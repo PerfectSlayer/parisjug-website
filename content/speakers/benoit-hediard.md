@@ -1,5 +1,6 @@
 ---
 title: "Benoit Hediard"
+twitter: "benorama"
 ---
 
 Benoit est le CTO et co-fondateur "Nerd-en-Chef" d'Agorapulse, une
