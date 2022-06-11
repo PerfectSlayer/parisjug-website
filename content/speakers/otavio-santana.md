@@ -3,8 +3,6 @@ title: "Otavio Santana"
 twitter: "otaviojava"
 ---
 
-<>
-
 Software Engineer and Software Architect in State of São Paulo, Brazil  
 Otavio Santana is a passionate software engineer focused on Java
 technology. He has experience mainly in persistence polyglot and
