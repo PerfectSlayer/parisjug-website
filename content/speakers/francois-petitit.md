@@ -1,5 +1,5 @@
 ---
-title: "Francois Petitit"
+title: "François Petitit"
 twitter: "francoispetitit"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Laurent Doguin"
+twitter: "ldoguin"
 ---
 
 Laurent is a Paris based Developer Advocate where he focuses on helping

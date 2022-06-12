@@ -1,5 +1,5 @@
 ---
-title: "Gregory Boissinot"
+title: "Grégory Boissinot"
 twitter: "gboissinot"
 ---
 

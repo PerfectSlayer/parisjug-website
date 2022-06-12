@@ -1,5 +1,5 @@
 ---
-title: "Marc Antoine Garrigue"
+title: "Marc-Antoine Garrigue"
 ---
 
 Mag est architecte chez [OCTO Technology](http://www.octo.com/) depuis

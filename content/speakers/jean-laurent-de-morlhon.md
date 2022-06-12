@@ -1,5 +1,5 @@
 ---
-title: "Jean Laurent De Morlhon"
+title: "Jean-Laurent De Morlhon"
 twitter: "morlhon"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Jose Paumard"
+title: "José Paumard"
 twitter: "JosePaumard"
 ---
 

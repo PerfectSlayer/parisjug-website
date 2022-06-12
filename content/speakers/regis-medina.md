@@ -1,5 +1,6 @@
 ---
 title: "Regis Medina"
+twitter: "regis_medina"
 ---
 
 I'm a Lean coach specialized in IT projects. I help IT teams better

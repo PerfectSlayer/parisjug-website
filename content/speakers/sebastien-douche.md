@@ -1,5 +1,5 @@
 ---
-title: "Sebastien Douche"
+title: "Sébastien Douche"
 twitter: "sdouche"
 ---
 

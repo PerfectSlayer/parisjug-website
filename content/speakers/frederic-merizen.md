@@ -1,5 +1,5 @@
 ---
-title: "Frederic Merizen"
+title: "Frédéric Merizen"
 twitter: "fredZen"
 ---
 

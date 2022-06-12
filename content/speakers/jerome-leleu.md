@@ -1,5 +1,6 @@
 ---
-title: "Jerome Leleu"
+title: "Jérôme Leleu"
+twitter: "leleuj"
 ---
 
 Profil technique passionné, voilà 15 ans que Jérôme Leleu travaille dans

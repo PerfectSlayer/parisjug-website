@@ -1,5 +1,5 @@
 ---
-title: "Remy Maucherat"
+title: "Rémy Maucherat"
 ---
 
 Principal Software Engineer, Red Hat Rémy a passé de nombreuses années à

@@ -1,5 +1,5 @@
 ---
-title: "Frederic Menou"
+title: "Frédéric Menou"
 twitter: "ptit_fred"
 ---
 

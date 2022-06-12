@@ -1,5 +1,5 @@
 ---
-title: "Stephane Lietard"
+title: "Stéphane Lietard"
 ---
 
 Stéphane est aujourd'hui Président d'Oxiane, cabinet de Conseil et de

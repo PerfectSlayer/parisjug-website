@@ -1,5 +1,5 @@
 ---
-title: "Jean Louis Monteiro"
+title: "Jean-Louis Monteiro"
 twitter: "@jlouismonteiro"
 ---
 

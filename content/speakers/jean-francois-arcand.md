@@ -1,5 +1,5 @@
 ---
-title: "Jean Francois Arcand"
+title: "Jean François Arcand"
 twitter: "jfarcand"
 ---
 

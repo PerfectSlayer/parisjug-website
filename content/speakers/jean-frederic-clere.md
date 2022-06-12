@@ -1,5 +1,5 @@
 ---
-title: "Jean Frederic Clere"
+title: "Jean-Frédéric Clere"
 ---
 
 Jean-Frédéric a passé plus de 20 ans à écrirer des logiciels client /

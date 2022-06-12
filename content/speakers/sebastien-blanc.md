@@ -1,5 +1,5 @@
 ---
-title: "Sebastien Blanc"
+title: "Sébastien Blanc"
 twitter: "sebi2706"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sebastien Deleuze"
+title: "Sébastien Deleuze"
 twitter: "sdeleuze"
 ---
 

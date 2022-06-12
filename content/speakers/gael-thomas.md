@@ -1,5 +1,5 @@
 ---
-title: "Gael Thomas"
+title: "Gaël Thomas"
 ---
 
 Depuis 2014, Gaël Thomas est professeur à Telecom SudParis. 

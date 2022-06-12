@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Winandy"
+twitter: "ahoy_jon"
 ---
 
 Jonathan est ingénieur Data et co-­fondateur de Valwin.

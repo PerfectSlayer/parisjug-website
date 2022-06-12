@@ -2,9 +2,7 @@
 title: "Sten Pittet"
 ---
 
-## Sten Pittet
-
-**Chef de Produit Outils de Développement Logiciel à Atlassian**
+## Chef de Produit Outils de Développement Logiciel à Atlassian
 
 Sten Pittet est un chef de produit à Atlassian spécialisé dans les
 outils de développement logiciel. Il a participé au lancement

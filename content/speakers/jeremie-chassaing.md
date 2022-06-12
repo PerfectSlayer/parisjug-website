@@ -1,5 +1,6 @@
 ---
-title: "Jeremie Chassaing"
+title: "Jérémie Chassaing"
+twitter: "thinkb4coding"
 ---
 
 Jérémie Chassaing est l'auteur de

@@ -1,5 +1,5 @@
 ---
-title: "Michael Figuiere"
+title: "Michaël Figuiere"
 twitter: "mfiguiere"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Jean Francois Helie"
+title: "Jean-François Helie"
 ---
 
 Jean-François est Coach XP et Expert J2EE chez

@@ -1,5 +1,5 @@
 ---
-title: "Jerome Louvel"
+title: "Jérôme Louvel"
 twitter: "jlouvel"
 ---
 

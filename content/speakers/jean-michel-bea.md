@@ -1,5 +1,5 @@
 ---
-title: "Jean Michel Bea"
+title: "Jean-Michel Bea"
 twitter: "jm_bea"
 ---
 

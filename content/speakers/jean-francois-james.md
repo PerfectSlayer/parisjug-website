@@ -1,5 +1,5 @@
 ---
-title: "Jean Francois James"
+title: "Jean-François James"
 twitter: "jefrajames"
 ---
 

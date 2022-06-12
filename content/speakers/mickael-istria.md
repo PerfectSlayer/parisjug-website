@@ -4,7 +4,7 @@ twitter: "mickaelistria"
 ---
 
 Mickael est développeur Eclipse & RCP depuis 10 ans. Il travaille depuis
-6 ans pour Red Hat (<http://www.redhat.com)>, depuis 2 an à temps plein
+6 ans pour [Red Hat](http://www.redhat.com), depuis 2 an à temps plein
 sur Eclipse IDE, et contribue ainsi a de multiples composants du célèbre
 outil (dont Platform, JDT, LSP4E, TM4E, m2e...) et a la communauté
 Eclipse en général. Son expertise fonctionnelle et technique d'Eclipse

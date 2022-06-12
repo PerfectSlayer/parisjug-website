@@ -1,5 +1,5 @@
 ---
-title: "Jean Luc Vuattoux"
+title: "Jean-Luc Vuattoux"
 ---
 
 PJ. Ditscheid, D. Durand et JL. Vuattoux sont tous 3 de formation

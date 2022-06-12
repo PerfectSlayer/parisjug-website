@@ -1,5 +1,5 @@
 ---
-title: "Pierre Jean Ditscheid"
+title: "Pierre-Jean Ditscheid"
 ---
 
 PJ. Ditscheid, D. Durand et JL. Vuattoux sont tous 3 de formation

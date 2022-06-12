@@ -1,5 +1,5 @@
 ---
-title: "Stephane Epardaud"
+title: "Stéphane Epardaud"
 twitter: "UnFroMage"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Frederic Brachfeld"
+title: "Frédéric Brachfeld"
 ---
 
 Frédéric Brachfeld est directeur de pcMetric. Il est ingénieur en

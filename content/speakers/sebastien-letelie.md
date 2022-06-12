@@ -1,5 +1,5 @@
 ---
-title: "Sebastien Letelie"
+title: "Sébastien Letelie"
 twitter: "sebmade"
 ---
 

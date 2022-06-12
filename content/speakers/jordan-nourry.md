@@ -1,5 +1,6 @@
 ---
 title: "Jordan Nourry"
+twitter: "JkNourry"
 ---
 
 Développeur senior chez Shodo, j'accompagne aujourd'hui Thalès Digital

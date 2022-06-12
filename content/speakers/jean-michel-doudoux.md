@@ -1,5 +1,5 @@
 ---
-title: "Jean Michel Doudoux"
+title: "Jean-Michel Doudoux"
 twitter: "jmdoudoux"
 ---
 

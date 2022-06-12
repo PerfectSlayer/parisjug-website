@@ -1,5 +1,5 @@
 ---
-title: "Sebastien Stormacq"
+title: "Sébastien Stormacq"
 twitter: "sebsto"
 ---
 

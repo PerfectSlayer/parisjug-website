@@ -1,5 +1,5 @@
 ---
-title: "Gregory Weinbach"
+title: "Grégory Weinbach"
 twitter: "gweinbach"
 ---
 

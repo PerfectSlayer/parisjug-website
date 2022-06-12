@@ -1,5 +1,5 @@
 ---
-title: "Francois Le Droff"
+title: "François Le Droff"
 twitter: "francoisledroff"
 ---
 

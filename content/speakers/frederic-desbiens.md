@@ -1,5 +1,5 @@
 ---
-title: "Frederic Desbiens"
+title: "Frédéric Desbiens"
 twitter: "BlueberryCoder"
 ---
 

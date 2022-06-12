@@ -1,5 +1,5 @@
 ---
-title: "Jean Philippe Bempel"
+title: "Jean-Philippe Bempel"
 twitter: "jpbempel"
 ---
 

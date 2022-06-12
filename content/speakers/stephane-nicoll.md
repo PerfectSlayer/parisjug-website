@@ -1,5 +1,5 @@
 ---
-title: "Stephane Nicoll"
+title: "Stéphane Nicoll"
 twitter: "snicoll"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Stephane Tournie"
+title: "Stéphane Tournié"
 ---
 
 ### Job title

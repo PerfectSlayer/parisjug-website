@@ -1,5 +1,5 @@
 ---
-title: "Gael Blondelle"
+title: "Gaël Blondelle"
 twitter: "gblondelle"
 ---
 
