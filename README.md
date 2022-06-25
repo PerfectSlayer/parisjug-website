@@ -48,7 +48,17 @@ You can easily trim them editing the `viewport` attribute of the image.
 
 ## Web site custom features
 
-### Shortcodes
+### Content Automation
+
+* The home page contains the last events and shows:
+  * The registration link a week before the start of the event,
+  * The event video if present and event is past,
+  * The event summary otherwise.
+* Speakers page in an automatec alphabetic index. 
+* Speaker conference list from the speaker page is updated if a speaker is mentioned in an event content.
+* Speaker profile picture comes from the Twitter and is regularly updated.
+
+### Custom Shortcodes
 
 ### Iframe
 
