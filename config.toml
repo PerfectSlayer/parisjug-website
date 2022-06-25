@@ -15,6 +15,7 @@ theme = 'mainroad'
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
   mainSections = ["events"] # Specify section pages to show on home page and the "Recent articles" widget
   customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/medium-zoom.min.js"] # Include custom JS files
 
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color

@@ -10,7 +10,11 @@
     color: rgb(255, 255, 255);
 }
 
-/** Speakers list */
+/*
+ * Speakers
+ */
+
+/* Speakers list */
 ul.speaker__list {
     margin-bottom: 1rem;
 }
@@ -29,6 +33,25 @@ ul.speaker__list li + li::before {
     float: left;
     margin: 0 16px 16px 0;
 }
+
+/*
+ * Gallery shortag
+ */
+
+/* Gallery bloc */
+div.gallery {
+    text-align: center;
+}
+
+/* Gallery image */
+div.gallery img {
+    padding: 3px;
+    border-radius: 10px;
+}
+
+/*
+ * Sidebar
+ */
 
 /* Sponsor widget */
 .widget-sponsors .widget__list .widget__item {

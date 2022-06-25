@@ -1,0 +1,22 @@
+{{- $galleryName := printf "gallery-%s" (md5 .Page.Permalink) }}
+{{- $images := (.Page.Resources.Match "gallery/*") -}}
+{{- if .Get "match" -}}
+	{{- $images = (.Page.Resources.Match (.Get "match")) -}}
+{{- end -}}
+<div id="{{ $galleryName }}" class="gallery">
+{{- range $original := $images -}}
+    {{- if eq $original.ResourceType "image" -}}
+        {{- $thumbnail := $original.Fit "300x150" -}}
+        <img src="{{ $thumbnail.RelPermalink }}" alt="{{ $original.Title }}"
+            loading="lazy"
+            width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}"
+            data-zoom-src="{{ $original.RelPermalink }}"
+        />
+    {{- end -}}
+{{- end -}}
+</div>
+<script>
+window.addEventListener('load', function () {
+    mediumZoom(document.querySelectorAll("#{{ $galleryName }} img"));
+}, false);
+</script>
