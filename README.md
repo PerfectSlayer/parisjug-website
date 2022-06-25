@@ -7,7 +7,7 @@
 1. Create a document using:
 
 ```shell
-hugo new content/events/<first_name>-<last_name>.md
+hugo new content/events/<year>/<month>-<day>-<name>.md
 ```
 
 2. Edit the event metadata:
