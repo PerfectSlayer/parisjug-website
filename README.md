@@ -36,7 +36,7 @@ hugo new content/speakers/<first_name>-<last_name>.md
 
 3. Add the speaker biography as content.
 
-## Updating Sponsors
+### Updating Sponsors
 
 Sponsors data are located in three locations: 
 
@@ -45,3 +45,27 @@ Please make sure the logos does not contains margin.
 You can easily trim them editing the `viewport` attribute of the image.
 2. `layout/partials/widgets/sponsors.html` contains the HTML code of the sponsor sidebar widget.
 3. `content/about/sponsors.md` contains the Markdown code of the sponsor Web page.
+
+## Web site custom features
+
+### Shortcodes
+
+### Iframe
+
+The `iframe` shortcode allows to insert safe frame into pages:
+
+```{{< iframe src="<<url>>" width="425" height="350" >}}```
+
+Using the following parameters:
+* `src`: The target of the frame
+* `width` _optional_: The width of the frame (in pixel)
+* `height` _optional_: The height of the frame (in pixel)
+
+### Gallery
+
+The `gallery` shortcode generates an image gallery from page resources:
+
+```{{< gallery match="images/*" >}}```
+
+Using the following paramters:
+* `match` _optional_: The path of images to include to the gallery (`gallery/*`) by default.
