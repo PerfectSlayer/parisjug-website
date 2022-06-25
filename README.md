@@ -64,12 +64,13 @@ You can easily trim them editing the `viewport` attribute of the image.
 
 The `iframe` shortcode allows to insert safe frame into pages:
 
-```{{< iframe src="<<url>>" width="425" height="350" >}}```
+```{{< iframe src="https://example.com" title="content-title" width="425" height="350" >}}```
 
 Using the following parameters:
-* `src`: The target of the frame
-* `width` _optional_: The width of the frame (in pixel)
-* `height` _optional_: The height of the frame (in pixel)
+* `src`: The target of the frame,
+* `title` _recommanded_: The description of the frame content for accessibility,
+* `width` _optional_: The width of the frame (in pixel),
+* `height` _optional_: The height of the frame (in pixel).
 
 ### Gallery
 

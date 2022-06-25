@@ -5,6 +5,7 @@
     style="border:0;"
     allowfullscreen=""
     loading="lazy"
+    {{if .Get "title"}}title="{{.Get `title`}}"{{end}}
     referrerpolicy="no-referrer-when-downgrade"
     {{if .Get "width"}}width="{{.Get `width`}}"{{end}}
     {{if .Get "height"}}height="{{.Get `height`}}"{{end}}
