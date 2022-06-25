@@ -56,3 +56,8 @@ Agorapulse est à l'origine de nombreuses librairies open-source pour Micronaut,
 Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+
+## Feedback
+
+{{< tweet user="parisjug" id="1524080869752852481">}}
+{{< tweet user="wololock" id="1524085950908973056">}}
