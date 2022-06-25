@@ -69,3 +69,8 @@ The `gallery` shortcode generates an image gallery from page resources:
 
 Using the following paramters:
 * `match` _optional_: The path of images to include to the gallery (`gallery/*`) by default.
+
+## Third Parties
+
+* [Mainroad](https://github.com/Vimux/Mainroad) (GLP 2.0)
+* [medium-zoom](https://github.com/francoischalifour/medium-zoom) (MIT)
