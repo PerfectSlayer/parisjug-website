@@ -60,3 +60,11 @@ theme = 'mainroad'
   title = "Youtube"
   url = "https://www.youtube.com/channel/UCPNEu33xtYpKjQKcn9E5m0Q"
   icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
+
+[caches]
+  [caches.getcsv]
+    dir = ':resourceDir/_gen'
+  [caches.getjson]
+    dir = ':resourceDir/_gen'
+  [caches.getresource]
+    dir = ':resourceDir/_gen'
