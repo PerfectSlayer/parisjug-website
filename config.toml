@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://parisjug.hardcoding.fr/'
 defaultContentLanguage = 'fr'
 languageCode = 'fr-fr'
 title = 'Paris Java User Group'

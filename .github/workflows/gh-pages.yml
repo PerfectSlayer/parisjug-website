@@ -7,13 +7,14 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04 # ubuntu-latest?
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout sources
+        uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -24,7 +25,8 @@ jobs:
           hugo-version: 'latest'
           # extended: true
       
-      - uses: actions/cache@v2
+      - name: Restore Hugo cache
+        uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
@@ -32,7 +34,7 @@ jobs:
             ${{ runner.os }}-hugomod
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL https://paris.hardcoding.fr
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
