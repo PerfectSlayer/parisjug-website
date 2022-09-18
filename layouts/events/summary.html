@@ -31,7 +31,12 @@
 		{{- end }}
 		{{- end }}
 		{{- if and (not (isset .Params "register")) (not (isset .Params "videos")) }}
+		{{- $summarySplit := split .Content "Détails</h2>" }}
+		{{- if ge (len $summarySplit) 2 }}
+		{{ index $summarySplit 1 | plainify | safeHTML | truncate 270 }}
+		{{- else }}
 		{{ .Summary }}
+		{{- end }}
 		{{- end }}
 	</div>
 	{{/*

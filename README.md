@@ -53,6 +53,7 @@ You can easily trim them editing the `viewport` attribute of the image.
 * The home page contains the last events and shows:
   * The registration link a week before the start of the event,
   * The event video if present and event is past,
+  * The event details summary if details section is present,
   * The event summary otherwise.
 * Speakers page in an automatec alphabetic index. 
 * Speaker conference list from the speaker page is updated if a speaker is mentioned in an event content.
