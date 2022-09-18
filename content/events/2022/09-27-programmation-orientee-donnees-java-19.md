@@ -4,7 +4,7 @@ publishDate: 2022-09-10
 tags:
 - java
 #register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
-title: "Soirée Java 19"
+title: "Soirée Programmation Orientée Données avec Java 19"
 #videos:
 #- https://www.youtube.com/watch?v=vsWk18vKYaU
 ---
@@ -25,11 +25,14 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h00 à 19h30 : Accueil
 
-### 19h30 : Java 19
+### 19h30 : La programmation orientée données avec Java 19
 
-_Abstract à venir_
+La Programmation Orientée Données (Data Oriented Programming en anglais) est basée sur l'idée que, pour un certain nombre d'applications, les données sont plus importantes que le code qui traite ces données.
+Ce qui, bien sûr, va à l'encontre de la programmation objet où le code / l'API est plus important que les implantations / les données.
 
-Par [Rémy Forax]({{< ref "/speakers/benoit-hediard.md" >}})
+Dans cette présentation, j'expliquerai le concept de Programmation Orientée Données, pourquoi nous voulons l'introduire en Java au travers du projet Amber, quelles sont les bénéfices que cela apporte, quelles sont les features liées à la Programmation Orienté Données déjà disponibles avec Java 19 et quelles sont les features prévues pour les versions suivantes.
+
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 : Buffet
 
@@ -37,8 +40,8 @@ Par [Rémy Forax]({{< ref "/speakers/benoit-hediard.md" >}})
 
 ### 21h00 : Java 19 (Suite)
 
-_Abstract à venir_
+Poursuite de La programmation orienté donnée avec Java 19 et session de questions / réponses. 
 
-Par [Rémy Forax]({{< ref "/speakers/benoit-hediard.md" >}})
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
