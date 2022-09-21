@@ -3,7 +3,7 @@ date: 2022-09-27T19:00:00
 publishDate: 2022-09-10
 tags:
 - java
-#register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
+register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
 title: "Soirée Programmation Orientée Données avec Java 19"
 #videos:
 #- https://www.youtube.com/watch?v=vsWk18vKYaU
