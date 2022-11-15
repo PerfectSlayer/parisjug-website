@@ -5,8 +5,9 @@ tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
 title: "Patterns de programmation réactive pour les BDDs - À la découverte de Couchbase"
-#videos:
-#- https://www.youtube.com/watch?v=vsWk18vKYaU
+videos:
+- https://www.youtube.com/watch?v=E-HBg9nD2nc
+- https://www.youtube.com/watch?v=ZTQD2d0sDs0
 ---
 
 ## Date et lieu
@@ -46,4 +47,8 @@ Ce ne sont pas les seuls features disponibles mais plutôt que de continuer à l
 
 Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
-### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+
+## Feedback
+
+{{< tweet user="atogue" id="1579907533149732865">}}
