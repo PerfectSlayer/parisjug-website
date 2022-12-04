@@ -61,6 +61,12 @@ You can easily trim them editing the `viewport` attribute of the image.
 
 ### Custom Shortcodes
 
+### Replay section
+
+The `replay-section` shortcode renders a page section with YouTube thumbnails and links of an event videos:
+
+```{{< replay-section >}}```
+
 ### Iframe
 
 The `iframe` shortcode allows to insert safe frame into pages:
