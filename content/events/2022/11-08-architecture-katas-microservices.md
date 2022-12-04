@@ -5,8 +5,9 @@ tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=445995082297&ref=etckt"
 title: "Soirée Katas d'architecture and microservices"
-#videos:
-#- https://www.youtube.com/watch?v=q9qT8s01elY
+videos:
+- https://www.youtube.com/watch?v=R46jCa8A5Vg
+- https://www.youtube.com/watch?v=vha7H8CjQOs
 ---
 
 ## Date et lieu
