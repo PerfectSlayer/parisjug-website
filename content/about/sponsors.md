@@ -25,6 +25,16 @@ Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou M
 
 Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mirakl.com/).
 
+### Microsoft
+
+![Microsoft](/img/sponsors/microsoft.svg)
+
+Microsoft s’engage en faveur d’un numérique de confiance, inclusif et durable.
+Sa mission est de donner à chaque individu et chaque organisation les moyens de réaliser ses ambitions, à l’ère du cloud intelligent et de l’intelligent edge.
+Avec plus de 1 800 collaborateurs et 10 500 partenaires économiques, technologiques, acteurs du secteur public, chercheurs ou start-ups, Microsoft France contribue au développement de l’économie et des compétences numériques sur l’ensemble du territoire français.
+
+[Site Web](https://www.microsoft.com/fr-fr)
+
 ### Oxiane
 
 ![Oxiane](/img/sponsors/oxiane.svg)
