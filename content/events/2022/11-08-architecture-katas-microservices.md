@@ -2,6 +2,7 @@
 date: 2022-11-08T19:00:00
 publishDate: 2022-11-01
 tags:
+- architecture
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=445995082297&ref=etckt"
 title: "Soirée Katas d'architecture and microservices"
@@ -24,7 +25,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ## Détails
 
-### 19h00 à 19h30 : Accueil
+### 19h00 : Accueil
 
 ### 19h30 : Améliorer les compétences et les infrastructures avec les katas d'architecture
 
@@ -62,7 +63,7 @@ Un exemple concret basé sur MicroProfile et le framework Eeventuate Tram vous p
 
 Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
-### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
 {{< replay-section >}}
 

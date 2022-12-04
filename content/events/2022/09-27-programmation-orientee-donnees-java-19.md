@@ -24,7 +24,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ## Détails
 
-### 19h00 à 19h30 : Accueil
+### 19h00 : Accueil
 
 ### 19h30 : La programmation orientée données avec Java 19
 
@@ -45,7 +45,7 @@ Poursuite de La programmation orienté donnée avec Java 19 et session de questi
 
 Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
-### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
 {{< replay-section >}}
 

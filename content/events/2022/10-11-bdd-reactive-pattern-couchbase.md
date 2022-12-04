@@ -24,7 +24,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ## Détails
 
-### 19h00 à 19h30 : Accueil
+### 19h00 : Accueil
 
 ### 19h30 : Patterns de programmation réactive pour les bases de données
 
@@ -47,7 +47,7 @@ Ce ne sont pas les seuls features disponibles mais plutôt que de continuer à l
 
 Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
-### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
 
 {{< replay-section >}}
 

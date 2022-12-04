@@ -11,9 +11,9 @@ videos:
 
 ## Détails
 
-### 18h45 à 19h00 : Accueil
+### 18h45 : Accueil
 
-### 19h00 à 20h30 : Intégration à l'ère du cloud avec Camel Quarkus
+### 19h00 : Intégration à l'ère du cloud avec Camel Quarkus
 
 Dans un univers informatique dont l'expansion ne cesse d'accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour.
 Développé en Java, le projet Open Source Apache Camel fournit avec ses 350 connecteurs une réponse prouvée à ce besoin toujours croissant d'intégration entre systèmes.
@@ -26,6 +26,6 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 
 Par [Alexandre Gallice]({{< ref "/speakers/alexandre-gallice.md" >}}) et [Zineb Bendiba]({{< ref "/speakers/zineb-bendhiba.md" >}})
 
-### 20h30 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+### 20h30 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
 
 {{< replay-section >}}

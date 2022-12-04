@@ -28,7 +28,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ## Détails
 
-### 19h00 à 19h30 : Accueil
+### 19h00 : Accueil
 
 ### 19h30 : Petite introduction sur l'usage de Micronaut chez Agorapulse.
 
@@ -59,7 +59,7 @@ Agorapulse est à l'origine de nombreuses librairies open-source pour Micronaut,
 
 Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
-### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
 {{< replay-section >}}
 
