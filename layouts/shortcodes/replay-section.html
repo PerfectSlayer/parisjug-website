@@ -1,0 +1,3 @@
+{{ if isset .Page.Params "videos" }}
+{{ partial "content/replay/list.html" (dict "videos" .Page.Params.videos "header" "h2")}}
+{{ end }}

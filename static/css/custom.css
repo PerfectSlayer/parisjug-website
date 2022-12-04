@@ -11,6 +11,23 @@
 }
 
 /*
+ * Events
+ */
+
+/* Replay partial/shorcode */
+div.event-replay {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; 
+    justify-content: center;
+    margin: 10px;
+}
+div.event-replay a {
+    width: 45%;
+    min-width: 320px;
+}
+
+/*
  * Speakers
  */
 

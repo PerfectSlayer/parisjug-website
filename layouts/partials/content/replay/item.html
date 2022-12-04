@@ -1,0 +1,10 @@
+{{ $videoId := replaceRE `https://www.youtube.com/watch\?v=(.*)` "$1" . }}
+<a href="{{ . }}" title="Regarder le replay sur YouTube" target="_blank">
+    <picture>
+        <source media="(max-width: 379px)" srcset="https://img.youtube.com/vi/{{ $videoId }}/mqdefault.jpg" />
+        <source media="(max-width: 639px)" srcset="https://img.youtube.com/vi/{{ $videoId }}/hqdefault.jpg" />
+        <source media="(max-width: 1279px)" srcset="https://img.youtube.com/vi/{{ $videoId }}/sddefault.jpg" />
+        <source media="(min-width: 1280px)" srcset="https://img.youtube.com/vi/{{ $videoId }}/maxresdefault.jpg" />
+        <img src="https://img.youtube.com/vi/{{ $videoId }}/sddefault.jpg" alt="Enregistrement de la soiée" />
+    </picture>
+</a>

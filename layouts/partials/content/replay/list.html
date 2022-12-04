@@ -1,0 +1,7 @@
+{{ printf "<%s>" .header | safeHTML }}Replays{{ printf "</%s>" .header | safeHTML }}
+Visionner les replays de l'évènement sur notre chaîne YouTube:
+<div class="event-replay">
+{{- range .videos }}
+{{ partial "content/replay/item.html" . }}
+{{- end }}
+</div>
