@@ -63,6 +63,8 @@ Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
+{{< replay-section >}}
+
 ## Feedback
 
 {{< tweet user="jefrajames" id="1590049531768410112">}}

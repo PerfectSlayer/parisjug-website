@@ -61,6 +61,8 @@ Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
+{{< replay-section >}}
+
 ## Feedback
 
 {{< tweet user="parisjug" id="1524080869752852481">}}

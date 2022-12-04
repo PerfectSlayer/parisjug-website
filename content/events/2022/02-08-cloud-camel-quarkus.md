@@ -9,10 +9,6 @@ videos:
 - https://www.youtube.com/watch?v=LAFUKrSSa9A
 ---
 
-## Replay
-
-{{< youtube LAFUKrSSa9A>}}
-
 ## Détails
 
 ### 18h45 à 19h00 : Accueil
@@ -31,3 +27,5 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 Par [Alexandre Gallice]({{< ref "/speakers/alexandre-gallice.md" >}}) et [Zineb Bendiba]({{< ref "/speakers/zineb-bendhiba.md" >}})
 
 ### 20h30 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+
+{{< replay-section >}}

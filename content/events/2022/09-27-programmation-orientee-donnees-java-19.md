@@ -47,6 +47,8 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
 
+{{< replay-section >}}
+
 ## Feedback
 
 {{< tweet user="parisjug" id="1574814455996743680">}}

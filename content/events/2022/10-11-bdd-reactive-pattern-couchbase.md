@@ -49,6 +49,8 @@ Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
 ### 22h00 à ... : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
 
+{{< replay-section >}}
+
 ## Feedback
 
 {{< tweet user="atogue" id="1579907533149732865">}}
