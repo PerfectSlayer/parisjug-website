@@ -67,6 +67,17 @@ div.gallery img {
 }
 
 /*
+ * Sponsors page
+ */
+figure.sponsor-svg-logo {
+    text-align: center;
+}
+figure.sponsor-svg-logo > img {
+    max-width: 600px;
+    max-height: 300px;
+}
+
+/*
  * Sidebar
  */
 
