@@ -36,7 +36,6 @@ Benoit présentera l'usage de Micronaut au cours de l'évolution de l'architectu
 
 Par [Benoît Hédiard]({{< ref "/speakers/benoit-hediard.md" >}})
 
-
 ### 19h45 : Productivité Développeur chez Micronaut
 
 L'outil de build, c'est souvent le parent pauvre du développeur. Pire, il est souvent choisi par défaut voire ignoré, sous prétexte de se focaliser sur le développement de features plutôt que sur l'outillage. Pourtant, la productivité du développeur est fortement influencée par cet outil.
@@ -51,7 +50,7 @@ Par [Cédric Champeau]({{< ref "/speakers/cedric-champeau.md" >}})
 
 ### 20h30 : Buffet
 
-[![Agorapulse](/img/sponsors/agorapulse.svg)](https://www.agorapulse.com/)
+[{{< figure src="/img/sponsors/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
 ### 21h00 : Librairie open source Micronaut (AWS, NewRelic, Console, Workers) Chez Agorapulse,
 

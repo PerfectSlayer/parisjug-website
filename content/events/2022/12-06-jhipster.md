@@ -38,7 +38,7 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ### 20h30 : Buffet
 
-[![Microsoft](/img/sponsors/microsoft.svg)](https://www.microsoft.com/fr-fr)
+[{{< figure src="/img/sponsors/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}](https://www.microsoft.com/fr-fr)
 
 ### 21h00 : JHipster versus JHipster Lite
 

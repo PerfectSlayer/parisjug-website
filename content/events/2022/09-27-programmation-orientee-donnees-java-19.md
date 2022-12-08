@@ -37,7 +37,7 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 : Buffet
 
-[![Renault Digital](/img/sponsors/renault-digital.svg)](https://www.renaultgroup.com/talents/nos-metiers/digital/)
+[{{< figure src="/img/sponsors/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
 
 ### 21h00 : Java 19 (Suite)
 

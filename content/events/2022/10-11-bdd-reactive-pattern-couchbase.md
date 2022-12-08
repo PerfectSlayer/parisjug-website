@@ -38,7 +38,7 @@ Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
 ### 20h30 : Buffet
 
-[![Datadog](/img/sponsors/datadog.svg)](https://www.datadoghq.com/)
+[{{< figure src="/img/sponsors/datadog.svg" alt="Datadog" class="sponsor-svg-logo" >}}](https://www.datadoghq.com/)
 
 ### 21h00 : Que peut on faire avec Couchbase ?
 
