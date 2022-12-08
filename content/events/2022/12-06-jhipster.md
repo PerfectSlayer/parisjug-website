@@ -50,7 +50,7 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 {{< replay-section >}}
 
-<!-- ## Feedback
+## Feedback
 
-{{< tweet user="jefrajames" id="1590049531768410112">}}
-{{< tweet user="_Mathieu_AVRIL" id="1590071363209162752">}} -->
+{{< tweet user="_Mathieu_AVRIL" id="1600199183318646784">}}
+{{< tweet user="nicokosi" id="1600208253551464448">}}
