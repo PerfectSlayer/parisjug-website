@@ -6,9 +6,8 @@ tags:
 - jhipster
 register: "https://eventbrite.fr/tickets-external?eid=467723452437&ref=etckt"
 title: "Soirée JHipster versus JHipster Lite"
-# videos:
-# - https://www.youtube.com/watch?v=R46jCa8A5Vg
-# - https://www.youtube.com/watch?v=vha7H8CjQOs
+videos:
+- https://www.youtube.com/watch?v=t5GA329FMfU
 ---
 
 ## Date et lieu
