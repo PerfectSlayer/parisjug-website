@@ -1,5 +1,5 @@
 ---
-title: "Bernard Emmanuel"
+title: "Emmanuel Bernard"
 twitter: "emmanuelbernard"
 ---
 
