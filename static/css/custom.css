@@ -67,7 +67,7 @@ div.gallery img {
 }
 
 /*
- * Sponsors page
+ * Platinium Sponsors page 
  */
 figure.sponsor-svg-logo {
     text-align: center;
@@ -75,6 +75,17 @@ figure.sponsor-svg-logo {
 figure.sponsor-svg-logo img {
     max-width: 600px;
     max-height: 300px;
+}
+
+/*
+ * Gold Sponsors page 
+ */
+figure.sponsor-gold-svg-logo {
+    text-align: center;
+}
+figure.sponsor-gold-svg-logo img {
+    max-width: 200px;
+    max-height: 50px;
 }
 
 /*
