@@ -1,5 +1,20 @@
 # Paris JUG Website
 
+## New Dev
+
+1. Fork and clone locally this repository
+
+2. In the root folder:
+
+```shell
+git submodule update --init
+```
+
+3. Test locally:
+```shell
+hugo server -D
+```
+
 ## Creating Content
 
 ### Creating an Event
