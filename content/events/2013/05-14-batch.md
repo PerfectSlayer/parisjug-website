@@ -4,7 +4,7 @@ date: 2013-05-14T19:00:00
 publishDate: 2013-05-14
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée Batch (14/05/2013)"
+title: "Soirée Batch"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

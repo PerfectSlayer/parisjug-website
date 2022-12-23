@@ -2,7 +2,7 @@
 date: 2021-10-12T19:00:00
 publishDate: 2021-10-12
 tags:
-title: "Soirée Virtuelle : Kubernetes Operator with Java Part I : just watch (12/10/2021)"
+title: "Soirée Virtuelle : Kubernetes Operator with Java Part I : just watch"
 ---
 ## Date et lieu
 

@@ -4,7 +4,7 @@ date: 2012-10-09T19:00:00
 publishDate: 2012-10-09
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée Cagatay Civici (09/10/2012)"
+title: "Soirée Cagatay Civici"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

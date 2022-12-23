@@ -2,7 +2,7 @@
 date: 2021-02-09T19:00:00
 publishDate: 2021-02-09
 tags:
-title: "Soirée Virtuelle : Java server-side, 22 ans et toujours fringant ! (2021/02/09)"
+title: "Soirée Virtuelle : Java server-side, 22 ans et toujours fringant !"
 videos:
 - https://www.youtube.com/watch?v=Kr5ARdTuX8Q
 ---

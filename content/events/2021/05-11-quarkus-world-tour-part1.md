@@ -2,7 +2,7 @@
 date: 2021-05-11T19:00:00
 publishDate: 2021-05-11
 tags:
-title: "Soirée Virtuelle : Quarkus World Tour (2021/05/11)"
+title: "Soirée Virtuelle : Quarkus World Tour"
 videos:
 - https://www.youtube.com/watch?v=BFz1IDpg8oU
 ---

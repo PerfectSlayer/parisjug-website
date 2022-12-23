@@ -2,7 +2,7 @@
 date: 2021-10-21T19:00:00
 publishDate: 2021-10-21
 tags:
-title: "Soirée Virtuelle : Kubernetes Operator with Java Part II : Java Operator SDK (21/10/2021)" 
+title: "Soirée Virtuelle : Kubernetes Operator with Java Part II : Java Operator SDK" 
 ---
 ## Date et lieu
 

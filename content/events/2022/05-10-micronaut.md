@@ -7,7 +7,7 @@ tags:
 - gradle
 - micronaut
 register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
-title: "Micronaut (2022/05/10)"
+title: "Soirée Micronaut"
 videos:
 - https://www.youtube.com/watch?v=vsWk18vKYaU
 - https://www.youtube.com/watch?v=PdPYaNEkVBQ

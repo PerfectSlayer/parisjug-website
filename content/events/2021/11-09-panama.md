@@ -2,7 +2,7 @@
 date: 2021-11-09T19:00:00
 publishDate: 2021-11-09
 tags:
-title: "Java Project Panama (09/11/2021)"
+title: "Soirée Java Project Panama"
 videos: 
 - https://www.youtube.com/watch?v=hrqi-KJ_74I
 ---

@@ -2,7 +2,7 @@
 date: 2021-05-25T19:00:00
 publishDate: 2021-05-25
 tags:
-title: "Soirée Virtuelle : Quarkus World Tour - L'interview du groupe Quarkus (2021/05/25)"
+title: "Soirée Virtuelle : Quarkus World Tour - L'interview du groupe Quarkus"
 videos:
 - https://www.youtube.com/watch?v=lAbCkeBNh-U
 ---

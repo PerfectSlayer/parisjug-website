@@ -2,7 +2,7 @@
 date: 2021-06-22T19:00:00
 publishDate: 2021-06-22
 tags:
-title: "Soirée Virtuelle : Tools in Action (2021/06/22)"
+title: "Soirée Virtuelle : Tools in Action"
 videos:
 - https://www.youtube.com/watch?v=VTDczKPuYbY
 - https://www.youtube.com/watch?v=T5FKP7fq5rc

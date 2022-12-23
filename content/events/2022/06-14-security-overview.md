@@ -2,7 +2,7 @@
 date: 2022-06-14T19:30:00
 publishDate: 2022-06-14
 tags:
-title: "Security overview (2022/06/14)"
+title: "Soirée Security overview"
 ---
 
 ## Date et lieu

@@ -4,7 +4,7 @@ date: 2013-10-08T19:00:00
 publishDate: 2013-10-08
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée Intégration Java (08/10/2013)"
+title: "Soirée Intégration Java"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

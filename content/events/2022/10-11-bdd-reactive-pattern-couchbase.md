@@ -4,7 +4,7 @@ publishDate: 2022-10-11
 tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
-title: "Patterns de programmation réactive pour les BDDs -  À la découverte de Couchbase (2022/10/11)"
+title: "Soirée Patterns de programmation réactive pour les BDDs -  À la découverte de Couchbase"
 videos:
 - https://www.youtube.com/watch?v=E-HBg9nD2nc
 - https://www.youtube.com/watch?v=ZTQD2d0sDs0

@@ -4,7 +4,7 @@ date: 2012-03-13T19:00:00
 publishDate: 2012-03-13
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Java.next() (13/03/2012)"
+title: "Soirée Java.next()"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

@@ -4,7 +4,7 @@ date: 2012-01-10T19:00:00
 publishDate: 2012-01-10
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée Devops (10/01/2012)"
+title: "Soirée Devops"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

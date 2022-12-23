@@ -4,7 +4,7 @@ date: 2012-02-14T19:00:00
 publishDate: 2012-02-14
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Code Story (14/02/2012)"
+title: "Soirée Code Story"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

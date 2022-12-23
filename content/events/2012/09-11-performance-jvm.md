@@ -4,7 +4,7 @@ date: 2012-09-11T19:00:00
 publishDate: 2012-09-11
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Performance JVM (11/09/2012)"
+title: "Soirée Performance JVM"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

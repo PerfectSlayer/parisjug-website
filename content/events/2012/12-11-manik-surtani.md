@@ -4,7 +4,7 @@ date: 2012-12-11T19:00:00
 publishDate: 2012-12-11
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée Manik Surtani (11/12/2012)"
+title: "Soirée Manik Surtani"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---

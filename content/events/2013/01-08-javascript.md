@@ -4,7 +4,7 @@ date: 2013-01-08T19:00:00
 publishDate: 2013-01-08
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-title: "Soirée JS (08/01/2013)"
+title: "Soirée JS"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
 ---
