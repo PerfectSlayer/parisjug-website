@@ -13,7 +13,6 @@ title: "Soirée Richard Stallman (03/10/2012)"
 
 * Mardi 13 novembre 2012
 * Dans [les locaux de l'ESIEA]({{< ref "/location/esiea.md" >}})
-<!-- Photos - 210 participants -->
 
 ## Détails
 
