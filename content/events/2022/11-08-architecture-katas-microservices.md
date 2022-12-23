@@ -42,7 +42,7 @@ Par [Alexandre Touret]({{< ref "/speakers/alexandre-touret.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
+[{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
 ### 21h00 : Architecture microservices et cohérence des données : mais on fait comment pour de vrai ?
 
@@ -63,7 +63,7 @@ Un exemple concret basé sur MicroProfile et le framework Eeventuate Tram vous p
 
 Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
@@ -71,3 +71,18 @@ Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
 {{< tweet user="jefrajames" id="1590049531768410112">}}
 {{< tweet user="_Mathieu_AVRIL" id="1590071363209162752">}}
+
+### Sponsors de l'évènement
+
+#### Platinium
+{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agora Pulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
+
+### Code de Conduite
+Les conférences ParisJUG se veulent des expériences sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quel que soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements ou sur les médias en ligne. Les participants à une conférence qui violent ces règles peuvent être sanctionnés, voire exclus de la conférence.

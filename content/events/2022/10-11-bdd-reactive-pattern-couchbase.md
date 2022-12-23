@@ -4,7 +4,7 @@ publishDate: 2022-10-11
 tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
-title: "Patterns de programmation réactive pour les BDDs - À la découverte de Couchbase"
+title: "Patterns de programmation réactive pour les BDDs -  À la découverte de Couchbase (2022/10/11)"
 videos:
 - https://www.youtube.com/watch?v=E-HBg9nD2nc
 - https://www.youtube.com/watch?v=ZTQD2d0sDs0
@@ -47,10 +47,25 @@ Ce ne sont pas les seuls features disponibles mais plutôt que de continuer à l
 
 Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
 ## Feedback
 
 {{< tweet user="atogue" id="1579907533149732865">}}
+
+### Sponsors de l'évènement
+
+#### Platinium
+{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agora Pulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
+
+### Code de Conduite
+Les conférences ParisJUG se veulent des expériences sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quel que soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements ou sur les médias en ligne. Les participants à une conférence qui violent ces règles peuvent être sanctionnés, voire exclus de la conférence.

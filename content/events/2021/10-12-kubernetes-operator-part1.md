@@ -9,7 +9,6 @@ title: "Soirée Virtuelle : Kubernetes Operator with Java Part I : just watch (1
 * Mardi 12 Octobre 2021 à 19h00
 * Dans les locaux de notre chaîne [Twitch](https://www.twitch.tv/parisjug)
 * Retransmission en direct à l'École 42 : Inscriptions sur le site du [meetup OpenShift France](https://www.meetup.com/fr-FR/OpenShift-France/events/281103500/).
-Google Calendar
 
 ## Détails
 
