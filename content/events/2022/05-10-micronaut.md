@@ -7,7 +7,7 @@ tags:
 - gradle
 - micronaut
 register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
-title: "Soirée IRL Micronaut"
+title: "Micronaut (2022/05/10)"
 videos:
 - https://www.youtube.com/watch?v=vsWk18vKYaU
 - https://www.youtube.com/watch?v=PdPYaNEkVBQ
@@ -18,7 +18,6 @@ videos:
 
 * Mardi 10 Mai 2022 à 19h30
 * Dans [les locaux d'Agorapluse]({{< ref "/location/agorapulse.md" >}})
-* [Ajouter à Google Calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=Paris+JUG+-+Soir%C3%A9e+en+pr%C3%A9sentiel+%3A+Micronaut+%282021%2F05%2F10%29&details=%3Cp%3E%3Cstrong%3E19h00+%C3%A0+19h30+%3A+Accueil%3C%2Fstrong%3E%3C%2Fp%3E+%0A%3Cp%3E%3Cstrong%3E19h30+%3A+Petite+introduction+sur+l%27usage+de+Micronaut+chez+Agorapulse.%3C%2Fstrong%3E%3C%2Fp%3E%0A%3Cp%3E+%3C%2Fp%3E%0A%3Cp%3EBenoit+pr%C3%A9sentera+l%27usage+de+Micronaut+au+cours+de+l%27%C3%A9volution+de+l%27architecture+et+infra+d%27Agorapulse+%3A+d%27un+%22bon+vieux%22+monolithe+bas%C3%A9+sur+Grails%2FSpringboot+%C3%A0+une+multitude+de+micro%2Fmacros+services+en+Micronaut%2C+accompagn%C3%A9e+par+un+passage+en+squads+autonomes.%3C%2Fp%3E+%0A%3Cp%3Epar+%3Cspan+class%3D%22wikilink%22%3E%3Ca+href%3D%22https%3A%2F%2Fwww.parisjug.org%2Fxwiki%2Fwiki%2Foldversion%2Fview%2FSpeaker%2FBenoitHediard%22%3EBeno%C3%AEt+H%C3%A9diard%3C%2Fa%3E%3C%2Fspan%3E%3C%2Fp%3E+%0A%3Cbr%3E%0A%3Cp%3E%3Cstrong%3E19h45+%3A+Productivit%C3%A9+D%C3%A9veloppeur+chez+Micronaut%3C%2Fstrong%3E%3C%2Fp%3E+%0A%3Cp%3E+L%27outil+de+build%2C+c%27est+souvent+le+parent+pauvre+du+d%C3%A9veloppeur.+Pire%2C+il+est+souvent+choisi+par+d%C3%A9faut+voire+ignor%C3%A9%2C+sous+pr%C3%A9texte+de+se+focaliser+sur+le+d%C3%A9veloppement+de+features+plut%C3%B4t+que+sur+l%27outillage.+Pourtant%2C+la+productivit%C3%A9+du+d%C3%A9veloppeur+est+fortement+influenc%C3%A9e+par+cet+outil.%3C%2Fp%3E%0A%3Cp%3E+Chez+Micronaut%2C+le+d%C3%A9veloppement+se+fait+sur+plus+de+40+repositories+GitHub.%3C%2Fp%3E%0A%3Cp%3E+Une+release+implique+un+nombre+parfois+impressionnant+de+modules+d%C3%A9velopp%C3%A9s+en+relative+ind%C3%A9pendance%3A+comment+g%C3%A9rer+tout+cel%C3%A0+%3F%3C%2Fp%3E%0A%3Cp%3E+Dans+cette+session%2C+nous+verrons+les+outils+mis+en+place+pour+le+d%C3%A9veloppement+de+Micronaut%2C+en+particulier+GitHub+Actions%2C+Gradle%2C+le+d%C3%A9veloppement+de+plugins+de+conventions%2C+la+mise+en+place+du+build+cache+et+de+m%C3%A9triques+permettant+de+mesurer+la+productivit%C3%A9+d%C3%A9veloppeur.+%3C%2Fp%3E+%0A%3Cp%3Epar+%3Cspan+class%3D%22wikilink%22%3E%3Ca+href%3D%22https%3A%2F%2Fwww.parisjug.org%2Fxwiki%2Fwiki%2Foldversion%2Fview%2FSpeaker%2FCedricChampeau%22%3EC%C3%A9dric+Champeau%3C%2Fa%3E%3C%2Fspan%3E%3C%2Fp%3E+%0A%3Cbr%3E&location=https%3A%2F%2Fwww.parisjug.org%2Fxwiki%2Fwiki%2Foldversion%2Fview%2FLocation%2FAgorapulse&dates=20210510T173000Z%2F20210510T201500Z)
 
 > Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
 
@@ -50,7 +49,7 @@ Par [Cédric Champeau]({{< ref "/speakers/cedric-champeau.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
+[{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
 ### 21h00 : Librairie open source Micronaut (AWS, NewRelic, Console, Workers) Chez Agorapulse,
 
@@ -58,7 +57,7 @@ Agorapulse est à l'origine de nombreuses librairies open-source pour Micronaut,
 
 Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
@@ -66,3 +65,18 @@ Par [Vladimír Oraný]({{< ref "/speakers/vladimir-orany.md" >}})
 
 {{< tweet user="parisjug" id="1524080869752852481">}}
 {{< tweet user="wololock" id="1524085950908973056">}}
+
+### Sponsors de l'évènement
+
+#### Platinium
+{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agora Pulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
+
+### Code de Conduite
+Les conférences ParisJUG se veulent des expériences sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quel que soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements ou sur les médias en ligne. Les participants à une conférence qui violent ces règles peuvent être sanctionnés, voire exclus de la conférence.
