@@ -26,6 +26,10 @@ videos:
 > L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 > **Toute inscription non confirmée ne sera pas prise en compte !**
 
+## Photos
+
+{{< flickr id="72157652396480189" img="https://live.staticflickr.com/8877/17025930854_f62d50ef0a_z.jpg" >}}
+
 ## Détails
 
 ### 19h15 à 19h30 : Accueil

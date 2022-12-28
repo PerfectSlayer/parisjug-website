@@ -29,6 +29,10 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00.
 > L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 > **Toute inscription non confirmée ne sera pas prise en compte !**
 
+## Photos
+
+{{< flickr id="72157650946099379" img="https://live.staticflickr.com/7624/16635452959_1d0fc18d7e_z.jpg" >}}
+
 ## Détails
 
 ### 19h15 à 19h30 : Accueil

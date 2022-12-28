@@ -24,6 +24,10 @@ Les vidéos sont publiées sur youtube. Les inscriptions sont ouvertes le jeudi 
 - Les **non inscrits** à l'évènement ne pourront donc y assister que sous réserve de **places disponibles** sur place **5 min avant le début de la session**, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. **Toute inscription non confirmée ne sera pas prise en compte !**
 
+## Photos
+
+{{< flickr id="72157662157053516" img="https://live.staticflickr.com/5704/23557184021_357f6294dc_z.jpg" >}}
+
 ## Détails
 
 ### 19h15 à 19h30 : Accueil
