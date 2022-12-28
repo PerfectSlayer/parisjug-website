@@ -61,7 +61,6 @@ Par [Guillaume Giamarchi]({{< ref "/speakers/guillaume-giamarchi.md" >}}) et [Gr
 {{< figure src="/img/sponsors/2013/logo-stepinfo-2012-12-01.jpg" alt="Step Info" class="sponsor-gold-svg-logo" >}}
 
 
-
 ### Post (blog) sur la présentation
 
 ### Télécharger la présentation

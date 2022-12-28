@@ -21,6 +21,10 @@ Les **non inscrits** à l'évènement ne pourront donc y assister que sous rése
 L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 **Toute inscription non confirmée ne sera pas prise en compte !**
 
+## Photos
+
+{{< flickr id="72157635480729597" img="https://live.staticflickr.com/2846/9728288032_020af7bcf4.jpg" >}}
+
 ## Détails
 
 ### 19h15 à 19h30 : Accueil
@@ -61,8 +65,6 @@ Par [Remi Forax]({{< ref "/speakers/remi-forax.md" >}})
 {{< figure src="/img/sponsors/2013/inFineLogo1.png" alt="Infine" class="sponsor-gold-svg-logo" >}}
 {{< figure src="/img/sponsors/2013/objectifInfoLogo1.png" alt="Objectif" class="sponsor-gold-svg-logo" >}}
 {{< figure src="/img/sponsors/2013/logo-stepinfo-2012-12-01.jpg" alt="Step Info" class="sponsor-gold-svg-logo" >}}
-
-### [Photos de la soirée](https://www.flickr.com/photos/23839812@N08/sets/72157635480729597/)
 
 ### Post (blog) sur la présentation
 
