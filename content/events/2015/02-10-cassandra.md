@@ -1,0 +1,72 @@
+---
+date: 2015-02-10T19:30:00
+#draft: true
+publishDate: 2016-01-18
+register: "https://goo.gl/ezbpWR"
+tags:
+  - cassandra
+  - nosql
+title: "Soirée Cassandra"
+# videos:
+#   - https://www.youtube.com/watch?v=xxxxxxx
+---
+
+## Date et lieu
+
+- Mardi 10 février 2015
+- Dans les locaux de l'[ESIEA]({{< ref "/location/esiea.md" >}})
+
+Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce lien](https://goo.gl/ezbpWR).
+
+> Cette année, le Paris JUG change de salle. Sauf exception, les sessions se dérouleront désormais à l'ESIEA au [9 rue Vesale 75005 Paris]({{< ref "/location/esiea.md" >}}).
+
+> Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
+
+> Les **inscrits** à l'évènement non présents **5 minutes avant le début de la session**, soit à 19h25, verront leurs **places remises à disposition**.  
+> Les **non inscrits** à l'évènement ne pourront donc y assister que sous réserve de **places disponibles** sur place **5 min avant le début de la session**, soit à 19h25.  
+> L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
+> **Toute inscription non confirmée ne sera pas prise en compte !**
+
+## Détails
+
+### 19h15 à 19h30 : Accueil
+
+### 19h30 : Apache Cassandra 2.1, présentation et architecture
+
+Nous allons présenter Apache Cassandra 2.1 et son architecture. Nous montrerons comment la base de données peut garantir une scalabilité linéaire, une haute disponibilité tout en gardant un niveau de performance constant. Nous présenterons également le modèle de données sous-jacent et le langage CQL pour vous permettre de faire vos premiers pas avec Cassandra.
+
+par [Duy Hai Doan]({{< ref "/speakers/duy-hai-doan.md" >}})
+
+### 20h25 à 21h00 : Buffet offert par la société Datastax
+
+[{{< figure src="/img/sponsors/2015/datastax.png" alt="Datastax" class="sponsor-svg-logo" >}}](https://www.datastax.com)
+
+### 21h00 : Cassandra pour les développeurs Java
+
+Nous allons présenter le driver Java et DevCenter. Nous montrerons comment utiliser le driver Java pour interagir avec Cassandra, y compris de façon asynchrone, et comment utiliser l'Object Mapper pour créer un mapping entre Java et CQL. Ensuite nous présenterons ensuite DevCenter, un outil pour créer et exécuter des scripts CQL qui apporte aux devs et aux ops de nombreux avantages comme la validation syntaxique, l'assistance à la saisie, les "templates", et bien sûr, l'affichage des résultats et le traçage des requêtes. Nous terminerons cette session par un petit kata de code live en TDD pour montrer le driver et l'Object Mapper en action.
+
+par [Alexandre Dutra]({{< ref "/speakers/alexandre-dutra.md" >}})
+
+### Après…
+
+3ème mi-temps des juggers au Canon des Gobelins (25, avenue des Gobelins, 75013 PARIS)
+
+{{< replay-section >}}
+
+### Sponsors de l'événement
+
+#### Platinum
+
+{{< figure src="/img/sponsors/2015/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/carbon-IT.svg" alt="Carbon IT" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/zenika.svg" alt="Zenika" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/valtech.svg" alt="Valtech" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/sfeir.svg" alt="Sfeir" class="sponsor-svg-logo" >}}
+
+#### Gold
+
+{{< figure src="/img/sponsors/2015/soat.svg" alt="SOAT" class="sponsor-gold-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/xebia.png" alt="Xebia" class="sponsor-gold-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/palo-it.svg" alt="Palo IT" class="sponsor-gold-svg-logo" >}}
+{{< figure src="/img/sponsors/2015/ippon.svg" alt="Ippon" class="sponsor-gold-svg-logo" >}}
