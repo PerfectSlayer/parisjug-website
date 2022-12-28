@@ -30,6 +30,10 @@ Suivez aussi le Parisjug sur Twitter([@parisjug](https://twitter.com/parisjug)) 
 > L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 > **Toute inscription non confirmée ne sera pas prise en compte !**
 
+## Photos
+
+{{< flickr id="72157653752759889" img="https://live.staticflickr.com/359/17934996104_7a1aab4f80_z.jpg" >}}
+
 ## Détails
 
 ### 19h15 à 19h30 : Accueil
