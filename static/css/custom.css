@@ -77,6 +77,18 @@ figure.sponsor-svg-logo img {
     max-height: 300px;
 }
 
+figure.inline {
+    display: inline;
+}
+
+figure.inline img {
+    margin-top: 10px;
+}
+
+figure.inline + figure.inline {
+    margin-left: 15px;
+}
+
 /*
  * Gold Sponsors page 
  */
