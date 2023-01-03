@@ -2,6 +2,7 @@
 date: 2022-06-14T19:30:00
 publishDate: 2022-06-14
 tags:
+- security
 title: "Soirée Security overview"
 ---
 
@@ -41,9 +42,10 @@ Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 {{< replay-section >}}
 
-### Sponsors de l'évènement
+## Sponsors de l'évènement
 
-#### Platinium
+### Platinium
+
 {{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2022/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2022/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
@@ -53,5 +55,4 @@ Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 {{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
 
-### Code de Conduite
-Les conférences ParisJUG se veulent des expériences sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre race ou votre religion. Nous ne tolérons aucun harcèlement des participants à la conférence, quel que soit sa forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors des événements ou sur les médias en ligne. Les participants à une conférence qui violent ces règles peuvent être sanctionnés, voire exclus de la conférence.
+{{% coc-section %}}
