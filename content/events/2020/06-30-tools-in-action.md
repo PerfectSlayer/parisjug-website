@@ -57,7 +57,7 @@ par [Jean-Philippe Bempel]({{< ref "/speakers/jean-philippe-bempel.md" >}})
 {{< figure src="/img/sponsors/2020/novencia.svg" alt="Novencia" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2020/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2020/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2020/Logo-RedHat-B-Color-RGB.svg" alt="RedHat" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2020/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2020/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2020/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2020/codeworks.svg" alt="CodeWorks" class="sponsor-svg-logo" >}}

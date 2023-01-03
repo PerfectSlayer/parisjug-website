@@ -37,7 +37,7 @@ Allez, Time to rock the Java world 2021 style…
 {{< figure src="/img/sponsors/2021/novencia.svg" alt="Novencia" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2021/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2021/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2021/Logo-RedHat-B-Color-RGB.svg" alt="RedHat" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2021/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2021/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2021/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2021/codeworks.svg" alt="CodeWorks" class="sponsor-svg-logo" >}}
