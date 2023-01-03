@@ -11,7 +11,7 @@
 }
 
 /*
- * Events
+ * Events.
  */
 
 /* Replay partial/shorcode */
@@ -28,7 +28,7 @@ div.event-replay a {
 }
 
 /*
- * Speakers
+ * Speakers.
  */
 
 /* Speakers list */
@@ -52,7 +52,7 @@ ul.speaker__list li + li::before {
 }
 
 /*
- * Gallery shortag
+ * Gallery shortcode.
  */
 
 /* Gallery bloc */
@@ -67,7 +67,37 @@ div.gallery img {
 }
 
 /*
- * Platinium Sponsors page 
+ * Sponsor section shortcode.
+ */
+
+div.sponsor-section {
+    text-align: center;
+}
+
+div.sponsor-section figure {
+    display: inline;
+}
+
+div.sponsor-section figure + figure img {
+    margin-left: 15px;
+}
+
+div.sponsor-section figure img {
+    margin-bottom: 10px;
+}
+
+div.sponsor-section-platinium figure img {
+    max-width: 200px;
+    max-height: 50px;
+}
+
+div.sponsor-section-gold figure img {
+    max-width: 150px;
+    max-height: 40px;
+}
+
+/*
+ * Sponsors page.
  */
 figure.sponsor-svg-logo {
     text-align: center;
@@ -77,31 +107,8 @@ figure.sponsor-svg-logo img {
     max-height: 300px;
 }
 
-figure.inline {
-    display: inline;
-}
-
-figure.inline img {
-    margin-top: 10px;
-}
-
-figure.inline + figure.inline {
-    margin-left: 15px;
-}
-
 /*
- * Gold Sponsors page 
- */
-figure.sponsor-gold-svg-logo {
-    text-align: center;
-}
-figure.sponsor-gold-svg-logo img {
-    max-width: 200px;
-    max-height: 50px;
-}
-
-/*
- * Sidebar
+ * Sidebar.
  */
 
 /* Sponsor widget */

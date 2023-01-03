@@ -59,16 +59,6 @@ Par [Loïc Hermann]({{< ref "/speakers/loic-hermann.md" >}})
  
 {{< replay-section >}}
 
-## Sponsors de l'évènement
-
-### Platinium
-
-{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/softeam.svg" alt="Softeam" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/red-hat.svg" alt="RedHat" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agora Pulse" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< sponsor-section/2022 >}}
 
 {{% coc-section %}}

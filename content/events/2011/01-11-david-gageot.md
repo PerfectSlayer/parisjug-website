@@ -53,7 +53,7 @@ Offert par [Objectif Informatique](http://www.objectif-informatique.fr/)
 
 ### 22h00 à ... : 3ème mi-temps des juggers au [Vavin](https://www.google.com/maps/dir//48.84398,2.330533/@48.8439685,2.2603067,12z)
 
-{{< sponsors 2011 >}}
+{{< sponsor-section/2011 >}}
 
 ### Post (blog) sur la présentation
 

@@ -107,7 +107,7 @@ Karotz/Nabaztag sont mes animaux de compagnie. Retour d'experience..._
 
 **02h30 à 05h00 : [Falstaff](https://falstaffcafe.fr)** (ouvert à tous)
 
-{{< sponsors 2011 >}}
+{{< sponsor-section/2011 >}}
 
 ### Télécharger les présentations
 
