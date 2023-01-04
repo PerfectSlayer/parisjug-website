@@ -78,11 +78,26 @@ Sponsors data are located in three locations:
 
 ### Custom Shortcodes
 
-### Replay section
+There is two kinds of custom short codes: generic ones, and section ones.
+The section shortcode are expected to be used within `event` page content.
+
+### Code of Conduct Section
+
+The `coc-section` shortcode renders a page section with our code of conduct:
+
+`{{% coc-section %}}`
+
+### Replay Section
 
 The `replay-section` shortcode renders a page section with YouTube thumbnails and links of an event videos:
 
 `{{< replay-section >}}`
+
+### Sponsor Section
+
+The `sponsor-section` shortcode renders a page section with the year-related sponsors of the event:
+
+`{{< sponsor-section >}}`
 
 ### Iframe
 
