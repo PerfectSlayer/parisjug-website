@@ -73,4 +73,4 @@ Offert par la société [VMWARE](https://www.vmware.com/)
 
 ### 22h00 à ... : 3ème mi-temps des juggers au [Vavin](https://www.google.com/maps/dir//48.84398,2.330533/@48.8439685,2.2603067,12z)
 
-{{< sponsor-section/2011 >}}
+{{< sponsor-section >}}

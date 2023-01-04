@@ -34,6 +34,6 @@ Par [Alexandre Gallice]({{< ref "/speakers/alexandre-gallice.md" >}}) et [Zineb 
 
 ## Sponsors de l'évènement
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

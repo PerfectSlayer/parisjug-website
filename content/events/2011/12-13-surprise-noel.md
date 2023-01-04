@@ -28,4 +28,4 @@ title: "Surprises de noel"
 
 ### 21h30 à ... : 3ème mi-temps des juggers au [Café Canon](https://cafe-canon.business.site/)
 
-{{< sponsor-section/2011 >}}
+{{< sponsor-section >}}

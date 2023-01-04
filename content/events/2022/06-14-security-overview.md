@@ -42,6 +42,6 @@ Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 {{< replay-section >}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

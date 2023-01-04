@@ -54,6 +54,6 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 {{< tweet user="_Mathieu_AVRIL" id="1600199183318646784">}}
 {{< tweet user="nicokosi" id="1600208253551464448">}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

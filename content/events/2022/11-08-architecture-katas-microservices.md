@@ -72,6 +72,6 @@ Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 {{< tweet user="jefrajames" id="1590049531768410112">}}
 {{< tweet user="_Mathieu_AVRIL" id="1590071363209162752">}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

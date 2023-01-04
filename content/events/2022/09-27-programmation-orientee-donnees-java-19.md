@@ -53,6 +53,6 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 {{< tweet user="parisjug" id="1574814455996743680">}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

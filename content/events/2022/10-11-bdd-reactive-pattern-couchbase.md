@@ -56,6 +56,6 @@ Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
 {{< tweet user="atogue" id="1579907533149732865">}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

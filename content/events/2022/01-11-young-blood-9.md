@@ -59,6 +59,6 @@ Par [Loïc Hermann]({{< ref "/speakers/loic-hermann.md" >}})
  
 {{< replay-section >}}
 
-{{< sponsor-section/2022 >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}
