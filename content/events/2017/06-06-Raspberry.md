@@ -69,14 +69,14 @@ par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
 
 #### Tomcat: from a cluster to the Cloud
 
-- [Tomcat: from a cluster to the Cloud]({{< ref "/resources/2017/JUGcloud.pdf" >}})
+- [Tomcat: from a cluster to the Cloud](/resources/2017/JUGcloud.pdf)
 
 Main sites:
 - https://docs.openshift.com
 - https://github.com/Project31
 - https://github.com/iSma/tomcat- in-the-cloud/
 
-- [Having fun with Raspberry(s) and Apache projects]({{< ref "/resources/2017/JUGHavingFun.pdf" >}})
+- [Having fun with Raspberry(s) and Apache projects](/resources/2017/JUGHavingFun.pdf)
 
 Main sites:
 - http://mynewt.apache.org/

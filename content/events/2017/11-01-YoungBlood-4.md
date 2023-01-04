@@ -88,7 +88,7 @@ Présentation de Reactive programming avec de petites demo Java.
 
 par Ciumac Vasile
 
-### 22h00 - résultats
+### 22h00 - Résultats
 
 ### 22h10 à ...
 
