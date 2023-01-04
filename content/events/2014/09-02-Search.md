@@ -9,7 +9,7 @@ videos:
 ## Date et lieu
 
 - Mardi 11 février 2014
-- Dans [les locaux de Google]({{< ref "/location/google.md" >}})
+- Dans [les locaux de l'ISEP]({{< ref "/location/isep.md" >}})
 
 Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez aussi le Parisjug sur Twitter ([@parisjug](https://twitter.com/parisjug)) pour être informé rapidement.
 - Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.

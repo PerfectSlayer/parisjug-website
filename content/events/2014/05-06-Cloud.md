@@ -2,7 +2,7 @@
 date: 2014-06-10T19:00:00
 publishDate: 2015-02-23
 tags:
-title: "Soirée Cloud First sur la Google Plateform"
+title: "Soirée Cloud"
 videos:
 ---
 
