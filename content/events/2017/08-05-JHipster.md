@@ -68,22 +68,6 @@ par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
 
-
-### Sponsors de l'évènement
-
-#### Platinium
-{{< figure src="/img/sponsors/2017/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/couchbase.svg" alt="Couchbase" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/zenika.svg" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/oxiane.svg" alt="OXiane" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/carbon-IT.svg" alt="CarbonIT" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/softeamcadextan.svg" alt="SofteamCadextan" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/norsys.svg" alt="Norsys" class="sponsor-svg-logo" >}}
-
-#### Gold
-{{< figure src="/img/sponsors/2017/ippon.svg" alt="Ippon" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2017/viseo.svg" alt="Viseo" class="sponsor-gold-svg-logo" >}}
-
+{{< sponsor-section >}}
 
 {{% coc-section %}}

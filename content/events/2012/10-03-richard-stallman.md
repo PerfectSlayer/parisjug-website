@@ -30,23 +30,7 @@ Par [Richard Stallman]({{< ref "/speakers/richard-stallman.md" >}})
 
 ### Sponsors de l'évènement
 
-#### Platinium
-{{< figure src="/img/sponsors/2012/xebia75.png" alt="Xebia" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/zenika50.png" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/objetDirect70.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/ipponLogo1.png" alt="Ippon" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/sfeir40.png" alt="Sfeir" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/oxiane50.png" alt="Oxiane" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/logo-fc.jpg" alt="Fast Connect" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/VALTECH.png" alt="Valtech" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/ibmCDWLogo1.png" alt="ibm" class="sponsor-svg-logo" >}}
-
-#### Gold
-{{< figure src="/img/sponsors/2012/soat.small.png" alt="Soat" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/inFineLogo1.png" alt="Infine" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2012/objectifInfoLogo1.png" alt="Objectif" class="sponsor-gold-svg-logo" >}}
-
-
+{{< sponsor-section >}}
 
 ### Post (blog) sur la présentation
 

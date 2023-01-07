@@ -62,29 +62,6 @@ Intervenants : [Romain Lenzotti]({{< ref "/speakers/romain-lenzotti.md" >}}) et 
 
 3ème mi-temps des juggers dans un lieu à définir
 
-
-### Sponsors de l'évènement
-
-#### Platinium
-
-{{< figure src="/img/sponsors/2014/xebia75.png" alt="Xebia" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/zenika50.png" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/objetDirect70.png" alt="ObjectDirect" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/ipponLogo3.png" alt="Ippon" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/Sfeir.20121210.png" alt="SFEIR" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/oxiane50.png" alt="OXiane" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/logo-fc.jpg" alt="FastConnect" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/VALTECH.png" alt="Valtech" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/ibmCDWLogo1.png" alt="IBM" class="sponsor-svg-logo" >}}
-
-
-#### Gold
-
-{{< figure src="/img/sponsors/2014/logo-SOAT-200x144.png" alt="SOAT" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/objectifInfoLogo1.png" alt="ObjectifInfo" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/logo-stepinfo-2012-12-01.jpg" alt="StepInfo" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/softeamCadextan.jpg" alt="SofteamCadextan" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/Logo-OPEN-fond-Transparent2013.png" alt="Open-Groupe" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2014/arolla-small.jpg" alt="Arolla" class="sponsor-gold-svg-logo" >}}
+{{< sponsor-section >}}
 
 {{% coc-section %}}

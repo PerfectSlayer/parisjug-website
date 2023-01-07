@@ -71,22 +71,7 @@ par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}})
 
 3ème mi-temps des juggers au Canon des Gobelins (25, avenue des Gobelins, 75013 PARIS)
 
-
-### Sponsors de l'évènement
-
-#### Platinium
-{{< figure src="/img/sponsors/2016/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/avisto.svg" alt="Avisto" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/zenika.svg" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/carbon-IT.svg" alt="CarbonIT" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/softeamcadextan.svg" alt="SofteamGroup" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/cosium.svg" alt="Cosium" class="sponsor-svg-logo" >}}
-
-#### Gold
-{{< figure src="/img/sponsors/2016/codenvy.svg" alt="Codenvy" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/ippon.svg" alt="Ippon" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/viseo.svg" alt="Viseo" class="sponsor-gold-svg-logo" >}}
+{{< sponsor-section >}}
 
 ## Télécharger les présentations
 

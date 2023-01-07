@@ -54,21 +54,4 @@ par (entre autres) : Emmanuel Bernard, Sanne Grinovero, Davide D'Alto, Gunnar Mo
 
 ### Sponsors de l'événement
 
-#### Platinum
-
-{{< figure src="/img/sponsors/2015/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/carbon-IT.svg" alt="Carbon IT" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/zenika.svg" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/valtech.svg" alt="Valtech" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/sfeir.svg" alt="Sfeir" class="sponsor-svg-logo" >}}
-
-#### Gold
-
-{{< figure src="/img/sponsors/2015/soat.svg" alt="SOAT" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/xebia.png" alt="Xebia" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/palo-it.svg" alt="Palo IT" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/ippon.svg" alt="Ippon" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/Mirakl-white.svg" alt="Mirakl" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/BKConsulting_logo.png" alt="BK Consulting" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2015/Avisto.svg" alt="Avisto" class="sponsor-gold-svg-logo" >}}
+{{< sponsor-section >}}
