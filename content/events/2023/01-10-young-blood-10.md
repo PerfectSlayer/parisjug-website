@@ -12,6 +12,8 @@ title: "Soirée Young Blood X"
 * Mardi 10 janvier 2023 à 19h00
 * Dans [les locaux de Agora Pulse]({{< ref "/location/agorapulse.md" >}})
 
+> Les sessions sont filmées et le public est photographié. Les photographies sont ensuite publiées sur le site du Paris JUG et autres médias de l'associations Paris JUG. En acceptant cette invitation, vous autorisez le Paris JUG à publier votre photo sur les médias sus-mentionnés.
+
 Comme chaque année depuis 10 ans, notre session du mois de janvier sera notre session Young Blood !
 Le principe du Young Blood est que les présentations sont faites par des personnes qui n'ont jamais présenté auparavant, du moins en public.
 Notre but est de donner une première opportunité aux personnes qui souhaitent se lancer et de les aider dans leurs premiers pas.
