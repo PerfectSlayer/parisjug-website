@@ -44,11 +44,25 @@ ul.speaker__list li + li::before {
 
 /* Speakers single page */
 .speaker-profile {
+    float: left;
+    margin: 0 16px 16px 0;
+}
+
+.avatar {
     border: 3px solid rgb(226, 44, 47);
     box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.4);
     border-radius: 50%;
-    float: left;
-    margin: 0 16px 16px 0;
+}
+
+/* About pages */
+
+table.team {
+    text-align: center;
+    border: none;
+}
+
+table.team td {
+    border: none;
 }
 
 /*

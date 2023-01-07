@@ -1,6 +1,5 @@
 ---
 title: "Les sponsors du JUG"
-date: 2022-05-03
 toc: true
 ---
 

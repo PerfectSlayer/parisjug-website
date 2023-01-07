@@ -6,7 +6,7 @@
         {{- $originalImage := resources.GetRemote $profileUrl }}
         {{- $image := $originalImage.Resize "128x128" }}
         <a href="https://twitter.com/{{ .Params.twitter }}" title="{{ .Title }} Twitter profile" target="_blank">
-            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile" alt="{{ .Title }} profile picture">
+            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile avatar" alt="{{ .Title }} profile picture">
         </a>
         {{- end }}
 		<header class="post__header">
