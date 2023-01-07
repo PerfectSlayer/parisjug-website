@@ -85,22 +85,6 @@ Par [Gilles Di Guglielmo]({{< ref "/speakers/gilles-di-guglielmo.md" >}}) et [Ma
 
 3ème mi-temps des juggers au Les Négociants (23 Avenue des Gobelins,75005 Paris)
 
-
-### Sponsors de l'évènement
-
-#### Platinium
-{{< figure src="/img/sponsors/2016/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/avisto.svg" alt="Avisto" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/zenika.svg" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/arolla.svg" alt="Arolla" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/carbon-IT.svg" alt="CarbonIT" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/softeamcadextan.svg" alt="SofteamGroup" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/cosium.svg" alt="Cosium" class="sponsor-svg-logo" >}}
-
-#### Gold
-{{< figure src="/img/sponsors/2016/codenvy.svg" alt="Codenvy" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/ippon.svg" alt="Ippon" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2016/viseo.svg" alt="Viseo" class="sponsor-gold-svg-logo" >}}
-
+{{< sponsor-section >}}
 
 {{% coc-section %}}

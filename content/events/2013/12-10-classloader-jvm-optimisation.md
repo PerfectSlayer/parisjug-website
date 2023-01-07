@@ -52,25 +52,7 @@ Par [Simon Maple]({{< ref "/speakers/simon-maple.md" >}})
 
 ### 22h à ... : 3ème mi-temps des juggers au [Vavin](https://maps.google.fr/maps/place?hl=fr&sourceid=navclient-ff&rlz=1B3GGGL_frFR294FR295&um=1&ie=UTF-8&q=restaurant+le+vavin+paris&fb=1&gl=fr&hq=restaurant+le+vavin&hnear=paris&cid=16763854041267710574)
 
-### Sponsors de l'évènement
-
-#### Platinium
-{{< figure src="/img/sponsors/2013/xebia75.png" alt="Xebia" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/zenika50.png" alt="Zenika" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/objetDirect70.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/ipponLogo1.png" alt="Ippon" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/sfeir40.png" alt="Sfeir" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/oxiane50.png" alt="Oxiane" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/logo-fc.jpg" alt="Fast Connect" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/VALTECH.png" alt="Valtech" class="sponsor-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/ibmCDWLogo1.png" alt="ibm" class="sponsor-svg-logo" >}}
-
-#### Gold
-{{< figure src="/img/sponsors/2013/soat.small.png" alt="Soat" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/inFineLogo1.png" alt="Infine" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/objectifInfoLogo1.png" alt="Objectif" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/logo-stepinfo-2012-12-01.jpg" alt="Step Info" class="sponsor-gold-svg-logo" >}}
-{{< figure src="/img/sponsors/2013/softeamCadextan.jpg" alt="Softeam" class="sponsor-gold-svg-logo" >}}
+{{< sponsor-section >}}
 
 ### Post (blog) sur la présentation
 
