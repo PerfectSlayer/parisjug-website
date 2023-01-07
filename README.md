@@ -81,25 +81,28 @@ Sponsors data are located in three locations:
 There is two kinds of custom short codes: generic ones, and section ones.
 The section shortcode are expected to be used within `event` page content.
 
-### Code of Conduct Section
+#### Flickr slideshow
 
-The `coc-section` shortcode renders a page section with our code of conduct:
+The `flickr` shortcode generates a gallery from a Flickr album:
 
-`{{% coc-section %}}`
+`{{< flickr id="72157659120711844" img="https://live.staticflickr.com/5783/23153505766_8b0cb95615_z.jpg" >}}`
 
-### Replay Section
+Using the following paramters:
 
-The `replay-section` shortcode renders a page section with YouTube thumbnails and links of an event videos:
+- `id`: the Flickr album id,
+- `img`: the static URL of a picture in the album.
 
-`{{< replay-section >}}`
+#### Gallery
 
-### Sponsor Section
+The `gallery` shortcode generates an image gallery from page resources:
 
-The `sponsor-section` shortcode renders a page section with the year-related sponsors of the event:
+`{{< gallery match="images/*" >}}`
 
-`{{< sponsor-section >}}`
+Using the following paramters:
 
-### Iframe
+- `match` _optional_: The path of images to include to the gallery (`gallery/*`) by default.
+
+#### Iframe
 
 The `iframe` shortcode allows to insert safe frame into pages:
 
@@ -112,26 +115,33 @@ Using the following parameters:
 - `width` _optional_: The width of the frame (in pixel),
 - `height` _optional_: The height of the frame (in pixel).
 
-### Gallery
+#### Section: Code of Conduct
 
-The `gallery` shortcode generates an image gallery from page resources:
+The `coc-section` shortcode renders a page section with our code of conduct:
 
-`{{< gallery match="images/*" >}}`
+`{{% coc-section %}}`
 
-Using the following paramters:
+#### Section: Replay
 
-- `match` _optional_: The path of images to include to the gallery (`gallery/*`) by default.
+The `replay-section` shortcode renders a page section with YouTube thumbnails and links of an event videos:
 
-### Flickr slideshow
+`{{< replay-section >}}`
 
-The `flickr` shortcode generates a gallery from a Flickr album:
+#### Section: Sponsor
 
-`{{< flickr id="72157659120711844" img="https://live.staticflickr.com/5783/23153505766_8b0cb95615_z.jpg" >}}`
+The `sponsor-section` shortcode renders a page section with the year-related sponsors of the event:
 
-Using the following paramters:
+`{{< sponsor-section >}}`
 
-- `id`: the Flickr album id
-- `img`: the static URL of a picture in the album
+#### Unsafe
+
+The `unsafe` shortcode allows to insert raw HTML content in Markdown pages:
+
+```
+{{< unsafe >}}
+<div>Some content</div>
+{{< /unsafe >}}
+```
 
 ## Third Parties
 
