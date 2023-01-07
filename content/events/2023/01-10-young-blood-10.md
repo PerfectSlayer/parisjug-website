@@ -5,7 +5,7 @@ tags:
 - youngblood
 register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood X"
-# videos:
+videos:
 ---
 ## Date et lieu
 
@@ -81,7 +81,7 @@ Par Pierre Cheucle
 
 ### 21h40: Vote et remise des diplômes
 
-### 23h00 : 3ème mi-temps des juggers
+### 22h00 : 3ème mi-temps des juggers
  
 {{< replay-section >}}
 
