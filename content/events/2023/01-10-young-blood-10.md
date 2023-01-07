@@ -5,7 +5,7 @@ tags:
 - youngblood
 register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood X"
-videos:
+# videos:
 ---
 ## Date et lieu
 
