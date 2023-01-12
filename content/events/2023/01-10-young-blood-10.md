@@ -87,4 +87,9 @@ Par Pierre Cheucle
  
 {{< replay-section >}}
 
+## Feedback
+
+{{< tweet user="atogue" id="1612895006636777473">}}
+{{< tweet user="JosePaumard" id="1612915154772959232">}}
+
 {{% coc-section %}}
