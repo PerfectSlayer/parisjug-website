@@ -1,9 +1,9 @@
 ---
 date: 2016-05-10T19:00:00
-publishDate: 2016-05-12
+publishDate: 2016-05-03
 tags:
+- alternative languages
 title: "Soirée de COBOL aux MicroServices"
-videos:
 ---
 
 ## Date et lieu
@@ -37,11 +37,9 @@ L'équipe Eranea présentera les principes et compromis de sa solution. Celle-ci
 
 Cette présentation générale sera étayée par des cas et chiffres concrets tirés de projet réalisés récemment : banque privée internationale, société de marketing bancaire, administration, etc. Elle exposera les "bonnes recette" et la sécurité de migration apportée par la transformation automatique et l'iso-fonctionnalité, adaptables à d'autres technologies dans d'autres contextes.
 
-Intervenants : [Pierre-Jean Ditscheid]({{< ref "/speakers/pierre-jean-ditscheid.md" >}}), [Didier Durand]({{< ref "/speakers/didier-durand.md" >}}) et [Jean-Luc Vuattoux]({{< ref "/speakers/jean-luc-vuattoux.md" >}})
-
+Par [Pierre-Jean Ditscheid]({{< ref "/speakers/pierre-jean-ditscheid.md" >}}), [Didier Durand]({{< ref "/speakers/didier-durand.md" >}}) et [Jean-Luc Vuattoux]({{< ref "/speakers/jean-luc-vuattoux.md" >}})
 
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h00 à 21h30 : Démonstrations pratiques
 
@@ -53,8 +51,7 @@ La deuxième partie de la soirée sera consacrée à des démonstrations pratiqu
 - migration transparente de bases de données ;
 - etc....
 
-Intervenants : [Pierre-Jean Ditscheid]({{< ref "/speakers/pierre-jean-ditscheid.md" >}}), [Didier Durand]({{< ref "/speakers/didier-durand.md" >}}) et [Jean-Luc Vuattoux]({{< ref "/speakers/jean-luc-vuattoux.md" >}})
-
+Par [Pierre-Jean Ditscheid]({{< ref "/speakers/pierre-jean-ditscheid.md" >}}), [Didier Durand]({{< ref "/speakers/didier-durand.md" >}}) et [Jean-Luc Vuattoux]({{< ref "/speakers/jean-luc-vuattoux.md" >}})
 
 ### 22h00 à ...
 

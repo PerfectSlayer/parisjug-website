@@ -1,9 +1,9 @@
 ---
 date: 2016-10-11T19:00:00
-publishDate: 2016-11-12
+publishDate: 2016-10-03
 tags:
+- performance
 title: "NumaGiC : a garbage collector for Big-Data"
-videos:
 ---
 
 ## Date et lieu

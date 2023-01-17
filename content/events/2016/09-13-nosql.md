@@ -1,9 +1,9 @@
 ---
 date: 2016-09-10T19:00:00
-publishDate: 2016-10-10
+publishDate: 2016-09-03
 tags:
+- database
 title: "Soirée NoSQL"
-videos:
 ---
 
 ## Date et lieu

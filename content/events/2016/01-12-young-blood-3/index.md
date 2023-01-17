@@ -1,7 +1,8 @@
 ---
 date: 2016-01-12T19:00:00
-publishDate: 2016-01-18
+publishDate: 2016-01-05
 tags:
+- young blood
 title: "Young blood III : No Retreat"
 videos:
 ---

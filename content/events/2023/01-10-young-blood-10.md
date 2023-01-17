@@ -22,7 +22,7 @@ Afin de les aider, nous leur proposons une présentation de 20mn, et un accompag
 
 Notre soirée Young Blood se déroule toujours dans une très bonne ambiance, nous organisons un vote du public et la meilleure présentation est donnée en quickie à Devoxx France.
 
-[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/youngblood" >}})
+[Consultez toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ## Détails
 

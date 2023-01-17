@@ -1,9 +1,7 @@
 ---
 date: 2016-02-09T19:00:00
-publishDate: 2016-02-14
-tags:
+publishDate: 2016-02-02
 title: "Soirée Craftsmanship"
-videos:
 ---
 
 ## Date et lieu

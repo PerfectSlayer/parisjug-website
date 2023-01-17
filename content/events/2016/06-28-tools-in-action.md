@@ -1,9 +1,9 @@
 ---
 date: 2016-06-28T19:00:00
-publishDate: 2016-07-03
+publishDate: 2016-06-21
 tags:
+- security
 title: "Soirée Tools In Action"
-videos:
 ---
 
 ## Date et lieu
@@ -19,11 +19,9 @@ videos:
 
 Toute inscription non confirmée ne sera pas prise en compte !
 
-
 ## Photos
 
 {{< flickr id="72157667772546113" img="https://live.staticflickr.com/7383/28027626376_c19928ca4a_h.jpg" >}}
-
 
 ## Détails
 
@@ -41,13 +39,11 @@ I will demonstrate our most recent developments: arbitrary DOM synchronization v
 
 Par [Ludovic Dubost]({{< ref "/speakers/ludovic-dubost.md" >}}) et [Aaron MacSween]({{< ref "/speakers/aaron-mac-sween.md" >}})
 
-
 ### 19h50 - D3 - Data-Driven Document (la Dataviz facile… ou pas!)
 
 D3 est une bibliothèque graphique JavaScript qui permet l'affichage de données numériques sous une forme graphique et dynamique. Successeur de Protoviz, elle utilise des technologies telles que le SVG, le Javascript et les CSS et facilite la manipulation du DOM.
 
 Par [Tom Comte]({{< ref "/speakers/tom-comte.md" >}})
-
 
 ### 20h10 - Loop, améliorez votre workflow de développement d'application Web
 
@@ -61,9 +57,7 @@ Loop est indépendant de la technologie et saura gérer vos build Maven, SBT, Gr
 
 Par [Guillaume Bort]({{< ref "/speakers/guillaume-bort.md" >}})
 
-
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h00 - Ocelotds : communication facile entre java EE et javascript
 
@@ -79,7 +73,6 @@ Par [François Apache]({{< ref "/speakers/francois-apache.md" >}})
 Model-map, le framework de Key Value Mapping développé chez LesFurets : Il nous offre un mapping bidirectionnel du modèle métier vers des structures de données plus simples (listes, tableaux et maps) pour que les manipulations de données deviennent alors extrêmement simples à réaliser
 
 Par [Gilles Di Guglielmo]({{< ref "/speakers/gilles-di-guglielmo.md" >}}) et [Mathieu Gandin]({{< ref "/speakers/mathieu-gandin.md" >}})
-
 
 ### 22h00 à ...
 

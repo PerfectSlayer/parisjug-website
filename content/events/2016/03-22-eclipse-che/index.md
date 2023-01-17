@@ -1,9 +1,9 @@
 ---
 date: 2016-03-22T19:00:00
-publishDate: 2016-03-27
+publishDate: 2016-03-17
 tags:
+- ide
 title: "Soirée Eclipse Che"
-videos:
 ---
 
 ## Date et lieu
@@ -19,11 +19,9 @@ videos:
 
 Toute inscription non confirmée ne sera pas prise en compte !
 
-
 ## Photos
 
 {{< flickr id="72157666376231666" img="https://live.staticflickr.com/1629/26004278451_e64175d837_h.jpg" >}}
-
 
 ## Détails
 
@@ -37,11 +35,9 @@ Che peut être installé de la même façon qu’un IDE classique pour n’impor
 
 Durant cette session, nous présenterons le projet Eclipse Che, son architecture ainsi que la notion de workspace portable. Nous montrerons également comment utiliser Che pour développer des applications Java ainsi que la plupart des fonctionnalités de l’IDE (debugger, java refactoring). Nous terminerons par l’introduction du plugin DevOps qui permet d’intégrer Che à votre workflow de continuous delivery.
 
-Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
-
+Par [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
 
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h00 à 21h45 : L’extensibilité d’Eclipse Che
 
@@ -52,8 +48,7 @@ hero-home.png
 
 L’objectif de cette session est de vous présenter l’architecture modulaire de Che et les différents cas d’extension d’Eclipse Che. Jean François Maury (RedHat) vous présentera le plugin OpenShift pour Che - coder dans le Cloud pour le Cloud.
 
-Intervenants : [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
-
+Par [Stevan Le Meur]({{< ref "/speakers/stevan-le-meur.md" >}}), [Stéphane Tournié]({{< ref "/speakers/stephane-tournie.md" >}}) et [Florent Benoit]({{< ref "/speakers/florent-benoit.md" >}})
 
 ### 22h00 à ...
 

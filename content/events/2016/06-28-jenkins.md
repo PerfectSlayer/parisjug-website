@@ -1,9 +1,9 @@
 ---
 date: 2016-06-07T19:00:00
-publishDate: 2016-06-25
+publishDate: 2016-05-31
 tags:
+- jenkins
 title: "Soirée Jenkins"
-videos:
 ---
 
 ## Date et lieu
@@ -49,8 +49,6 @@ Depuis Novembre 2014, Jenkins connait un nouveau type de job: Pipeline. Encore p
 Par [Adrien Lecharpentier]({{< ref "/speakers/adrien-lecharpentier.md" >}})
 
 
-
-
 ### 20h30 à 21h00 : Buffet
 
 
@@ -64,7 +62,7 @@ Par [Adrien Lecharpentier]({{< ref "/speakers/adrien-lecharpentier.md" >}}) et [
 
 Maintenant que votre image docker est dans son répository pourquoi ne pas aller plus loin ? Poussons en préproduction, voire même, soyons ambitieux, en production. Et pourquoi pas avec Jenkins ? Ansible est quant à lui un outil d’automatisaion de tâches IT telles que le provisionning de machines, le déploiement d’application ou la gestion de la configuration… Voyons ensemble comment Ansible et Jenkins peuvent collaborer pour passer sans douleur du continuous delivery au continuous deployment.
 
-par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}})
+Par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}})
 
 
 ### 22h00 à ...

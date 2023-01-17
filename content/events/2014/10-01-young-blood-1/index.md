@@ -25,6 +25,8 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 - Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
 
+[Consultez toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+
 ## Détails
 
 ### 19h15 à 19h20 : Accueil
