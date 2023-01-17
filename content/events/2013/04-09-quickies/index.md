@@ -26,16 +26,19 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 ### 19h15 à 19h30 : Accueil
 
 ### 19h30 - GWT noDTO Distilled
+
 GWT est une techno qui permet de coder dans le même langage côté client et serveur, alors pourquoi utiliser des objets différents ? Ce quickie cherche à présenter comment lever les contraintes techniques pour écrire moins de code.
 
 Par Francois Wauquier
 
-### 19h50 - Coder au féminin : mythe ou perspective ?_
+### 19h50 - Coder au féminin : mythe ou perspective ?
+
 Une description ferait à peu prêt toute la teneur du quickie, donc je la résumerai à son why : "Je n'ai jamais vraiment compris pourquoi je rencontrais si peu de femmes qui code. Depuis 2 ans, j'ai décidé de comprendre ce mystère. J'ai interviewé, j'ai lu, j'ai fait des gaffes, aussi. Aujourd'hui, je pense pouvoir apporter à ces questions des réponses de fonds, étayées, et dépolluées des stéréotypes "collants", car elles le méritent."
 
-Par Guillaume Duquesnay
+Par [Guillaume Duquesnay]({{< ref "/speakers/guillaume-duquesnay.md" >}})
 
 ### 20h10 Présentation du Leap Motion
+
 Le leap est un grand attendu de l'année 2013, promettant de modifier l'ergonomie utilisateur.
 Au delà de la partie ludique, comment peut-on l'intégrer dans nos programmes, qu'ils soient en développement "lourd" ou web ?
 
@@ -44,16 +47,19 @@ Par François Laroche
 ### 20h35 à 21h15 : Buffet
 
 ### 21h15 Montée en version et haute disponibilité dans GlassFish
+
 La montée en version d'une application Java EE en production est un sujet délicat, surtout lorsque cette application doit rester accessible durant toute la procédure. GlassFish apporte une solution élégante à ce problème, au travers des fonctionnalités de versioning d'applications (depuis glassfish 3.1) et de "production redeployment" (en cours de développement). Cette dernière permet notamment de déployer deux versions d'une même application en parallèle. Dans cette session, découvrez comment mettre en pratique ces fonctionnalités et réaliser une montée en version sans perte de service. Tout cela en utilisant exclusivement les services "de série" de GlassFish.
 
 Par Marian Muller
 
 ### 21h35 Apache JMeter, Java et Groovy sont sur un bateau
+
 Que ce soit d’évaluer le niveau de sécurité d’un captcha, chiffrer le coût en performance d’activation des logs GC d’une JVM ou d’activer/désactiver des fonctionnalités de notre application par JMX lors d’un test, l’outil de test de charge Apache JMeter offre un spectre de fonctionnalités avancées digne des meilleures solutions éditeurs. Venez découvrir les possibilités infinies qu’offre Apache JMeter associé à du Java et du Groovy
 
-Par Antonio Gomes rodrigues
+Par Antonio Gomes Rodrigues
 
 ### 21h55 Dart - web_ui et composants programmatiques
+
 Comment construire les différents éléments d'une vue d'une application web est un débat ouvert au sein de la communauté ; et ce depuis des années. De la création de pages dans des servlets avec du code HTML, aux moteurs de templates de type Velocity, Freemarker, ou Facelets pour JSF, en passant par les JSP, sans oublier les frameworks permettant de créer des vues programmatiquement sans avoir à toucher une ligne de CSS, HTML ou JavaScript tel que GWT, Echo ou Vaadin, il semblerait que nous ne soyons toujours pas arrivés à un consensus. Dart offre deux possibilités. La première est un moteur de templates (web_ui) basé sur les Web Components de HTML5 et la seconde la création de "composants programmatiques" (en Dart et non en HTML). Nous verrons au cours de cette présentation : - comment utiliser la library web_ui, - et comment construire des libraries de "composants programmatiques"
 
 Par Yohan Beschi

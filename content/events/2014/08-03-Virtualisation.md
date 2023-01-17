@@ -17,11 +17,9 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 - Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
 
-
 ## Photos
 
 {{< flickr id="72157642262022563" img="https://live.staticflickr.com/3718/13110208015_a2adf6d2c2_h.jpg" >}}
-
 
 ## Détails
 
@@ -37,14 +35,11 @@ Les développeurs peuvent par exemple tester leurs codes à tout instant en simu
 
 Après avoir revu la théorie puis les outils, nous parlerons aussi rapidement du Cloud (quelle est la différence avec la virtualisation seule ?) et des outils de gestion de configuration tel que Puppet ou Salt, le tout avec diverses démonstrations si le temps le permet. Pendant cette session, il sera donc question de nombreux outils allant du simple chroot à des outils comme LXC, Vagrant, Xen ou Docker pour ne citer que les plus importants.
 
-Intervenant : [Sebastien Douche]({{< ref "/speakers/sebastien-douche.md" >}})
-
+Par [Sebastien Douche]({{< ref "/speakers/sebastien-douche.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h05 à 22h05 : La suite
-
 
 ### 22h00 à ...
 

@@ -2,8 +2,8 @@
 date: 2014-05-13T19:00:00
 publishDate: 2015-10-01
 tags:
+- jee
 title: "Java EE et Wildfly"
-videos:
 ---
 
 ## Date et lieu
@@ -31,7 +31,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 WildFly 8 (née JBoss Application Server) is Red Hat's open source Java EE 7 compliant application server. It contains robust implementations of WebSocket, Batch, JSON, Concurrency, JMS2, JAX-RS 2, CDI 1.1, and all Java EE 7 technologies. Undertow is the new cutting-edge web server in WildFly 8 and is designed for maximum throughput and scalability, including environments with over a million connections. The number of ports is reduced used by multiplexing protocols over HTTP using HTTP Upgrade.Role Based Access Control support organizations with separated management responsibilities and restrictions. Roles represent different sets of permissions such as runtime operation execution, configuration areas that can read or written, and the ability to audit changes and manage users. In addition a new restricted audit log can be enabled including the ability to offload to a secure syslog server.WildFly also provides a "core" distribution that is ideal for framework authors that want to build their own application runtime using the powerful WildFly 8 architecture.This session will provide an overview of all these features.
 
-Intervenant : [Arun Gupta]({{< ref "/speakers/arun-gupta.md" >}})
+Par [Arun Gupta]({{< ref "/speakers/arun-gupta.md" >}})
 
 
 ### 20h30 à 21h00 : Buffet offert par la société Google
@@ -50,7 +50,7 @@ This session pulls a variety of examples in testable development from O'Reilly's
 
 ...and covers other areas of the Java EE platform that have historically been branded as "difficult to test." The session spends a lot of time in the IDE, with examples that are freely available to fork and run.
 
-Intervenant : [Al Rubinger]({{< ref "/speakers/al-rubinger.md" >}})
+Par [Al Rubinger]({{< ref "/speakers/al-rubinger.md" >}})
 
 
 ### 22h00 à ...

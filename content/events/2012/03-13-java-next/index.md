@@ -4,6 +4,7 @@ date: 2012-03-13T19:00:00
 publishDate: 2012-03-13
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- java
 title: "Soirée Java.next()"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
@@ -29,7 +30,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 Rappel sur la situation Java 7/8, OpenJDK, JCP, MacOS, … et présentation de l'avancement sur *la* fonctionnalité de Java 8 qui va changer la vie de tous les développeurs Java : Jigsaw.
 
-Intervenant : [Alexis Moussine-Pouchkine]({{< ref "/speakers/alexis-moussine-pouchkine.md" >}})
+Par [Alexis Moussine-Pouchkine]({{< ref "/speakers/alexis-moussine-pouchkine.md" >}})
 
 ### 20h35 à 21h05 : Buffet
 

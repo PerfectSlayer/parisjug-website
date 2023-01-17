@@ -4,6 +4,7 @@ date: 2011-11-08T19:00:00
 publishDate: 2011-11-08
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- collections
 title: "Petites Librairies Java"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx

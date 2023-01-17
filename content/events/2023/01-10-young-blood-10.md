@@ -2,7 +2,7 @@
 date: 2023-01-10T19:00:00
 publishDate: 2023-01-03
 tags:
-- youngblood
+- young blood
 register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood X"
 # videos:

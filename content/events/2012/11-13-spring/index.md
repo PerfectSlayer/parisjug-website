@@ -4,6 +4,7 @@ date: 2012-11-13T19:00:00
 publishDate: 2012-11-13
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- spring
 title: "Soirée Spring"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx

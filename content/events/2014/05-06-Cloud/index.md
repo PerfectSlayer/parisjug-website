@@ -2,6 +2,7 @@
 date: 2014-06-10T19:00:00
 publishDate: 2015-02-23
 tags:
+- cloud
 title: "Soirée Cloud"
 videos:
 ---
@@ -26,23 +27,21 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 Si le Cloud apporte beaucoup de bénéfices, il a aussi ses règles du jeu. Venez découvrir les design patterns des applications "production ready" sur le Cloud. Nous ne nous limiterons pas aux sujets glamours comme la scalabilité ou la haute disponibilité ; nous couvrirons aussi les sujets "prod" comme monitoring, l'automatisation, et la réversibilité. CloudBees, Heroku, Amazon Beanstalk ... vous aurez les clefs pour réussir vos applications Java sur ces plateformes.
 
-Intervenant : [Cyrille Le Clerc]({{< ref "/speakers/cyrille-leclerc.md" >}})
-
+Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-leclerc.md" >}})
 
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h05 à 21h40 : SaaS-ification d'applications, une check-list
 
 Il est de plus en plus simple de faire tourner son application dans le cloud, sur AWS ou Openstack. Mais proposer une offre SaaS implique un peu plus de boulot, sur le produit, les déploiements, le support, etc. Je vous propose de passer en revue les étapes de migration d'une application ebusiness et d'examiner certaines options techniques.
 
-Intervenant : [Bruno Emsellem]({{< ref "/speakers/bruno-emsellem.md" >}})
+Par [Bruno Emsellem]({{< ref "/speakers/bruno-emsellem.md" >}})
 
 ## 21h40 à 22h15 : De Docker au cloud google en 35 minutes
 
 On parle beaucoup de Docker en ce moment. Je vais tenter de vous expliquer comment fonctionne Docker comme j'aurais aimé qu'on me l'explique. Nous allons apprendre à prendre en main Docker pour packager une application web java 8. Enfin nous déploierons ce site web sur la Google Cloud Platform en utilisant Compute Engine
 
-Intervenant : [David Gageot]({{< ref "/speakers/david-gageot.md" >}})
+Par [David Gageot]({{< ref "/speakers/david-gageot.md" >}})
 
 ### 22h00 à ...
 

@@ -4,6 +4,7 @@ date: 2013-06-11T19:00:00
 publishDate: 2013-06-11
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- alternative languages
 title: "Soirée Dart vs. JS"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx
