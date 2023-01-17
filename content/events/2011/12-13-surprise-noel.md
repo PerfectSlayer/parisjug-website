@@ -4,6 +4,7 @@ date: 2011-12-13T19:00:00
 publishDate: 2011-12-13
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- podcast
 title: "Surprises de noel"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx

@@ -2,7 +2,7 @@
 date: 2022-01-11T19:00:00
 publishDate: 2022-01-11
 tags:
-- youngblood
+- young blood
 title: "Soirée Virtuelle : Young Blood IX"
 videos:
 - https://www.youtube.com/watch?v=MS-1f-5cfaM

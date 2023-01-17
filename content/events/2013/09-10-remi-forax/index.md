@@ -4,6 +4,7 @@ date: 2013-09-10T19:00:00
 publishDate: 2013-09-10
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- java
 title: "Soirée In bed with Remi Forax"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx

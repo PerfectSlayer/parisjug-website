@@ -2,8 +2,8 @@
 date: 2014-12-09T19:00:00
 publishDate: 2014-12-09
 tags:
+- performances
 title: "Soirée Performance Java"
-videos:
 ---
 
 ## Date et lieu

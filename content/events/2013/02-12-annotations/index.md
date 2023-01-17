@@ -4,6 +4,7 @@ date: 2013-02-12T19:00:00
 publishDate: 2013-02-12
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- java
 title: "Soirée Traitement d'annotations en Java"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx

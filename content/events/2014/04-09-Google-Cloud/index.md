@@ -2,6 +2,7 @@
 date: 2014-09-09T19:00:00
 publishDate: 2015-02-23
 tags:
+- cloud
 title: "Soirée Cloud First sur la Google Plateform"
 videos:
 ---
@@ -33,17 +34,13 @@ Une entreprise est “Cloud First” lorsqu’elle héberge ses données d’abo
 
 #API #BigData #Mobile
 
-Intervenants : [David Gageot]({{< ref "/speakers/david-gageot.md" >}}) et [Didier Girard]({{< ref "/speakers/didier-girard.md" >}})
-
+Par [David Gageot]({{< ref "/speakers/david-gageot.md" >}}) et [Didier Girard]({{< ref "/speakers/didier-girard.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h05 à 22h00 : “Cloud First” sur la Google Cloud Platform - Deuxième partie
 
-
-Intervenants : [David Gageot]({{< ref "/speakers/david-gageot.md" >}}) et [Didier Girard]({{< ref "/speakers/didier-girard.md" >}})
-
+Par [David Gageot]({{< ref "/speakers/david-gageot.md" >}}) et [Didier Girard]({{< ref "/speakers/didier-girard.md" >}})
 
 ### 22h00 à ...
 
@@ -54,6 +51,5 @@ Intervenants : [David Gageot]({{< ref "/speakers/david-gageot.md" >}}) et [Didie
 ## Télécharger les présentations
 
 - [Cloud First](CloudFirst-ParisJUG20140909.pdf)
-
 
 {{% coc-section %}}

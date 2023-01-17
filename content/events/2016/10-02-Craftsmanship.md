@@ -39,7 +39,7 @@ Vous avez sans doute déjà vu du code legacy complètement fermé aux tests : u
 
 ATTENTION : Pour cette session, si vous souhaitez coder, vous devrez disposer d’un ordinateur portable de développement pour deux développeurs, avec un IDE et un Framework de test déjà installé.
 
-Intervenant : [Bruno Boucard]({{< ref "/speakers/bruno-boucard.md" >}}), [Thomas Pierrain]({{< ref "/speakers/thomas-pierrain.md" >}}) et [Diego Lemos]({{< ref "/speakers/diego-lemos.md" >}})
+Par [Bruno Boucard]({{< ref "/speakers/bruno-boucard.md" >}}), [Thomas Pierrain]({{< ref "/speakers/thomas-pierrain.md" >}}) et [Diego Lemos]({{< ref "/speakers/diego-lemos.md" >}})
 
 
 ### 20h30 à 21h00 : Buffet

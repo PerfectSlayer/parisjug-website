@@ -1,6 +1,8 @@
 ---
 date: 2014-01-14T19:30:00
 publishDate: 2015-02-23
+tags:
+- young blood
 title: "Soirée Young blood I"
 videos:
 ---
@@ -53,7 +55,6 @@ Alors embarquez pour un petit tour d'horizon de cette techno, pour vous convainc
 
 Par Simon Basle
 
-
 ### 20h20 - Des recommandations au service du business
 Le but de cette présentation est d'aborder les systèmes de recommandations du point de vue business.
 
@@ -68,7 +69,7 @@ Les grandes lignes de la présentation :
 - comment rendre son système plus efficace ?
 - quels sont les enjeux actuels ?
 
-Par Loïc Knuchel
+Par [Loïc Knuchel]({{< ref "/speakers/loic-knuchel" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -88,12 +89,12 @@ L'idée de cette présentation est de montrer comment l'utiliser via des uses ca
 
 Par Ludwine Probst
 
-
 ### 21h30 - Pimp my Inter Thread Communication (aka Inter-Thread Messaging Architecture) "
 
 Pour faire transiter des messages entre threads on utilise le plus souvent une queue comme medium de transport.
 C'est par compliqué à mettre en œuvre, et l'api est assez simple.
 En revanche si on veut passer du HelloWorld (1 thread qui produit -> une Queue comme medium -> un/plusieurs thread qui consomme) à une archi plus complexe par exemple:
+
 1. Un producteur avec plusieurs consommateur qui consomment en parallèle le même message.
 2. Un producteur avec plusieurs consommateur qui consomment en parallèle des messages différents
 3. Une architecture Diamond [Producer ->(consumer-1 parallèle à consumer-2) -> consumer 3
@@ -107,7 +108,6 @@ LMAX Exchange has open-sourced the Java implementation of the Disruptor componen
 
 Par Hichame El Khalfi
 
-
 ### 21h50 - Apéritif dinatoire avec Clojure et Overtone
 
 Clojure est un langage fonctionnel puissant qui peut être très utile pour des traitements parallèles ou la manipulation de grand nombre de données.
@@ -116,11 +116,9 @@ Je vous propose donc au cours de ce quickie récréatif une séance de livecodin
 
 Par Mathieu Gandin
 
-
 ### 22h10 - résultats
 
 ## 22h10 à ... : 3ème mi-temps des juggers au Vavin
-
 
 ### Télécharger les présentations
 

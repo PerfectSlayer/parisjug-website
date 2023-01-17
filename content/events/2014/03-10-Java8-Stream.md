@@ -2,8 +2,9 @@
 date: 2014-14-10T19:00:00
 publishDate: 2015-02-23
 tags:
+- collections
+- java
 title: "Soirée Java 8 l'API Stream"
-videos:
 ---
 
 ## Date et lieu
@@ -17,11 +18,9 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 - Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
 
-
 ## Photos
 
 {{< flickr id="72157648438417527" img="https://live.staticflickr.com/3956/15573915152_1d839bb48c_h.jpg" >}}
-
 
 ## Détails
 
@@ -35,12 +34,9 @@ Java 8 est la, on en parle au présent. La nouveauté majeure de Java 8 est bien
 
 Par [José Paumard]({{< ref "/speakers/jose-paumard.md" >}})
 
-
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h05 à 22h00 : Java 8 : De plus en plus loin
-
 
 Par [José Paumard]({{< ref "/speakers/jose-paumard.md" >}})
 

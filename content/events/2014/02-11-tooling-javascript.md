@@ -2,8 +2,8 @@
 date: 2014-11-18T19:00:00
 publishDate: 2015-02-23
 tags:
+- alternative languages
 title: "Soirée Tooling JS"
-videos:
 ---
 
 ## Date et lieu
@@ -56,7 +56,7 @@ Nous verrons quels sont ses points forts, comment intégrer une application Angu
 
 #JAVA8 #Collections #Stream
 
-Intervenants : [Romain Lenzotti]({{< ref "/speakers/romain-lenzotti.md" >}}) et [Guillaume Bertrand]({{< ref "/speakers/guillaume-bertrand.md" >}})
+Par [Romain Lenzotti]({{< ref "/speakers/romain-lenzotti.md" >}}) et [Guillaume Bertrand]({{< ref "/speakers/guillaume-bertrand.md" >}})
 
 ### 22h00 à ...
 

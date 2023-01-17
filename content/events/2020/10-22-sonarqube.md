@@ -5,7 +5,7 @@ publishDate: 2020-10-21
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
   - sonarqube
-  - securité
+  - security
 title: "Soirée Virtuelle : Fondue à la bière, ou comment SonarQube peut vous aider à identifier des vulnérabilités !"
 videos:
   - https://www.youtube.com/watch?v=bNO3LcQaGyg

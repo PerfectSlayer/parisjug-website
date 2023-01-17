@@ -3,8 +3,8 @@ date: 2015-01-13T19:30:00
 #draft: true
 publishDate: 2016-01-18
 register: "https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638"
-# tags:
-#   - young blood
+tags:
+  - young blood
 title: "Soirée Young blood II"
 videos:
   - https://www.youtube.com/watch?v=ObdwEuA2Ffw
@@ -38,6 +38,7 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce li
 ### 19h30 : De la cryptographie dans le navigateur avec WebCrypto API
 
 Avec les API HTML5, aujourd'hui le navigateur web est devenu le nouvel OS ; on fait absolument tout dedans : de la bureautique, du code, des jeux... Cependant il manquait encode une API proposant des fonctions cryptographiques de base permettant de sécuriser le côté client de nos applications web. Dans ce quickie je voudrais montrer pourquoi cette API est devenue nécessaire, les fonctionnalités qu'elle propose mais aussi les problèmes qu'elle ne résout pas. Je terminerai enfin avec 3 minutes de live-coding en montrant comment on peut utiliser cette API sur vraie application.
+
 
 par Jean-Christophe Sirot
 
