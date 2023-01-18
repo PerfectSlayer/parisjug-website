@@ -34,11 +34,11 @@ jobs:
             ${{ runner.os }}-hugomod
 
       - name: Build
-        run: hugo --minify --baseURL https://hardcoding.parisjug.org
+        run: hugo --minify --baseURL https://${{ vars.DOMAIN }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: hardcoding.parisjug.org
+          cname: ${{ vars.DOMAIN }}
