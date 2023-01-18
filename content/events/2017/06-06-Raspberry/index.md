@@ -28,7 +28,7 @@ Utilisation de Tomcat dans un cluster et dans le nuage. Nous commençons à rega
 Une démo d'un cluster sera préparée et exécutée pendant la présentation et l'application sera déplacée vers le nuage
 OpenShift sera utilisé sur des RPI3 pour faire la démo et nous allons regarder comment l'installer avec Ansible.
 
-par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
+Par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -40,7 +40,7 @@ Vous pouvez faire beaucoup avec des RPI3 et des projets ASF. D'un objet connect�
 - Raspberry en tant que superviseur Modbus contrôlant un Industruino (Insdustrial Arduino) et connecté à ActiveMQ.
 - Et plein d'autre trucs.
 
-par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
+Par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
 
 
 ### 22h00 à ...

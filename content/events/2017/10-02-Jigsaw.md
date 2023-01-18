@@ -28,7 +28,7 @@ On a tout cassé ton Java, mais c'est pour ton bien, je t'assure.
 Lors du planning de Java 6, il y avait déjà écrit, virer le classpath et améliorer la sécurité en introduisant un système de modules, connu sous le nom de jigsaw, cette feature a été décalée à la version 7, puis à la 8, et arrive enfin dans la version 9.
 Bon alors c'est quoi jigsaw, je commencerai par rappeler pourquoi Java a besoin d'un système de modules, puis j'expliquerai comment les modules fonctionnent, pourquoi des applis qui marchent avec Java 8 ne vont pas marcher avec Java 9 et enfin ce que les modules apportent en plus comme nouvelles fonctionnalités à savoir les services, la création d'images et la compilation ahead of time.
 
-par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -37,11 +37,11 @@ par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 Devops facile avec Docker et JHipster par Pascal Grimaud.
 
-par [Pascal Grimaud]({{< ref "/speakers/pascal-grimaud.md" >}})
+Par [Pascal Grimaud]({{< ref "/speakers/pascal-grimaud.md" >}})
 
 ### 21h00 - Suite & Adopt a JSR
 
-par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 22h10 à ...
 

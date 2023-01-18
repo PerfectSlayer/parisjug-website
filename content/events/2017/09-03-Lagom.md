@@ -36,7 +36,7 @@ Durant cette session, nous découvrirons la philosophie et les concepts clefs de
 Enfin nous ferons un peu de live coding pour découvrir le framework coté code.
 A la fin de cette présentation, vous serez en mesure de démarrer votre projet!
 
-par [Fabrice Sznajderman]({{< ref "/speakers/fabrice-sznajderman.md" >}})
+Par [Fabrice Sznajderman]({{< ref "/speakers/fabrice-sznajderman.md" >}})
 
 ### 19h30 - (en parallèle) HOL (Hand On Lab) - Jigsaw - Adopt a JSR 376
 
@@ -48,7 +48,7 @@ Le premier objectif sera de la faire fonctionner avec un minimum d'effort en mod
 - [JDK 9](https://jdk9.java.net/download/)
 - [Pro](https://github.com/forax/pro/releases)
 
-par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 
 ### 20h30 à 21h00 : Buffet
@@ -56,13 +56,13 @@ par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 21h00 - Lagom 2ème partie
 
-par [Fabrice Sznajderman]({{< ref "/speakers/fabrice-sznajderman.md" >}})
+Par [Fabrice Sznajderman]({{< ref "/speakers/fabrice-sznajderman.md" >}})
 
 ### 21h00 - (en parallèle) HOL (Hand On Lab) - Jigsaw - Adopt a JSR 376 - 2ème partie
 
 Amenez vos projets pour les migrer
 
-par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 22h10 à ...
 

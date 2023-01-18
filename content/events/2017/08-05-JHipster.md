@@ -35,13 +35,13 @@ Cette soirée est l’occasion d’avoir une introduction au projet, par 4 de se
 
 Présentation de JHipster 4 par Julien Dubois, avec le développement et le déploiement d’une application Spring Boot + Angular 2 en moins d’une heure.
 
-par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
+Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ### 20h25 JHipster Domain Language
 
 Générer visuellement son application avec le JHipster Domain Language, par Mathieu Abou Aichi
 
-par [Mathieu Abou Aichi]({{< ref "/speakers/mathieu-abou-aichi.md" >}})
+Par [Mathieu Abou Aichi]({{< ref "/speakers/mathieu-abou-aichi.md" >}})
 
 ### 20h45 à 21h15 : Buffet
 
@@ -50,19 +50,19 @@ par [Mathieu Abou Aichi]({{< ref "/speakers/mathieu-abou-aichi.md" >}})
 
 Devops facile avec Docker et JHipster par Pascal Grimaud.
 
-par [Pascal Grimaud]({{< ref "/speakers/pascal-grimaud.md" >}})
+Par [Pascal Grimaud]({{< ref "/speakers/pascal-grimaud.md" >}})
 
 ### 21h35 - Angular 2 et JHipster
 
 Utilisation d’Angular 2 avec JHipster: risques, difficultés et bénéfices.
 
-par [William Marques]({{< ref "/speakers/william-marques.md" >}})
+Par [William Marques]({{< ref "/speakers/william-marques.md" >}})
 
 ### 21h45 - Docker et JHipster
 
 Une architecture microservices “out of the box” avec JHipster.
 
-par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
+Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ### 22h10 à ...
 

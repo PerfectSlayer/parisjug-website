@@ -43,7 +43,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 Un des reproches fait à Eclipse est sa lourdeur, Je présenterai ainsi quelques astuces pour le rendre plus rapide.
 
-par Le Ouay Thibault
+Par Le Ouay Thibault
 
 ### 19h50 - Du Machine Learning, sans Big Data
 
@@ -53,7 +53,7 @@ Après une rapide présentation des principes de ces disciplines, nous allons mo
 
 A partir d'Aladin, une application que nous avons développé et qui tourne en production depuis maintenant plus de 6 ans, nous allons montrer comment à partir d'une centaine de documents d'apprentissage et un peu de Machine Learning nous avons grandement optimisé la façon de travailler d'un service de traitement du courrier.
 
-par Squelbut Raphaël et Gilbart Fréderic
+Par Squelbut Raphaël et Gilbart Fréderic
 
 ## 20h10 - Est-ce que Java 9 nous apporte les collections "immuables"?
 
@@ -63,7 +63,7 @@ De plus explique quelques détails d'implémentation, notamment pourquoi on a pl
 
 Finalement répondre à la question dans le nom de la session.
 
-par Dodon Andrei
+Par Dodon Andrei
 
 ### 20h30 à 21h00 : Buffet
 
@@ -71,7 +71,7 @@ par Dodon Andrei
 
 Benchmark applicatif continue avec gatling et jmxtrans.
 
-par Hamlaoui Khaled
+Par Hamlaoui Khaled
 
 ### 21h20 - Sorcellerie en Java : outrepasser les interdits avec sun.misc.Unsafe
 
@@ -80,13 +80,13 @@ Présenter cette classe qui a fait couler beaucoup d'encre dernièrement (menace
 - d'exemples précis (instantiation, création d'instance sans constructeur, sérialisation, tableaux extra larges, etc.)
 - et en présentant l'usage qui en est fait par plusieurs grandes sociétés et librairies (Mockito, Hazelcast, etc.)
 
-par Schwender Thomas
+Par Schwender Thomas
 
 ### 21h40 - Reactive programming en Java
 
 Présentation de Reactive programming avec de petites demo Java.
 
-par Ciumac Vasile
+Par Ciumac Vasile
 
 ### 22h00 - Résultats
 

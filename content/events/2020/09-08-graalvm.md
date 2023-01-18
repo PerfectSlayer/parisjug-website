@@ -36,7 +36,7 @@ En savoir plus sur le fonctionnement de GraalVM et sur les bénéfices que vous 
 Vous immergez dans le fonctionnement de la machine et aller à la conquête de GraalVM
 Découvrir les cas d'usage innovants de GraalVM en entreprise et ainsi que des retours d'expérience enrichissants
 
-par [Elvadas Nono]({{< ref "/speakers/elvadas-nono.md" >}})
+Par [Elvadas Nono]({{< ref "/speakers/elvadas-nono.md" >}})
 
 ### Après…
 

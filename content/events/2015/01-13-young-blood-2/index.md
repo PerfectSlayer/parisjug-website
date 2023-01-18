@@ -41,8 +41,7 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce li
 
 Avec les API HTML5, aujourd'hui le navigateur web est devenu le nouvel OS ; on fait absolument tout dedans : de la bureautique, du code, des jeux... Cependant il manquait encode une API proposant des fonctions cryptographiques de base permettant de sécuriser le côté client de nos applications web. Dans ce quickie je voudrais montrer pourquoi cette API est devenue nécessaire, les fonctionnalités qu'elle propose mais aussi les problèmes qu'elle ne résout pas. Je terminerai enfin avec 3 minutes de live-coding en montrant comment on peut utiliser cette API sur vraie application.
 
-
-par Jean-Christophe Sirot
+Par Jean-Christophe Sirot
 
 ### 19h50 : Tolérance aux pannes avec le Circuit Breaker Pattern
 
@@ -50,13 +49,13 @@ Nos applications d’aujourd’hui sont de plus en plus déployées dans le Clou
 
 Le circuit Breaker est un pattern qui permet d’assurer la stabilité de vos systèmes et prévenir les problèmes liés aux services externes. Cette Présentation propose de montrer comment utiliser ce pattern.
 
-par Mouhcine Moulou
+Par Mouhcine Moulou
 
 ### 20h10 : Le pourquoi du comment du type Optional
 
 Lorsque l'on découvre le monde de la programmation fonctionnelle, on est absorbé par une multitude de nouveaux concepts. Dans la masse, un concept a retenu mon attention : le type Option. Ce type est disponible dans plusieurs langages comme Java (pas seulement la version 8), Scala, Groovy, Haskell, Ocaml, etc. Sous la forme d'un live coding basé sur le langage Java, je vous propose de répondre à ces 2 questions : pourquoi et comment l'utiliser ?
 
-par Fabrice Sznajderman
+Par Fabrice Sznajderman
 
 ### 20h30 à 21h00 : Buffet Sponsorisé par Innovation-Box
 
@@ -66,19 +65,19 @@ par Fabrice Sznajderman
 
 L’écosystème Spring met à disposition un très grand nombre de briques techniques ce qui en fait un des Frameworks les plus larges de la plateforme Java. L’importance de son écosystème est aussi une de ces faiblesses, on lui reproche une complexité trop importante. Le démarrage d’un projet ou l’apprentissage par un débutant est jugé compliqué et coûteux (configuration à définir, choix des briques, intégration dans la plateforme Java EE, etc.). Depuis la sortie de Spring Framework 4.0, la donne a fortement changé, cette version arrive avec son nouveau Framework de développement rapide Spring Boot. Il est conçu pour simplifier la création et le développement d’une nouvelle application Spring. Boot utilise le mode « Convention over Configuration » pour configurer automatiquement vos projets tout en laissant une flexibilité pour des configurations personnalisées. Dans cette présentation, nous verrons les fonctionnalités de Spring Boot et comment démarrer le plus rapidement possible une nouvelle application Spring avec celui-ci.
 
-par Julien Sadaoui
+Par Julien Sadaoui
 
 ### 21h20 : Votre consommation électrique en temps réel avec ActiveMQ, MongoDB et Docker
 
 Un raspberry pi relié au compteur électrique récupère la consommation et l'envoie sur un serveur via ActiveMQ. Les données sont stockées dans une base MongoDB et affichées dans un dashboard web mis à jour en temps réel. Je présenterai comment Docker, MongoDB et ActiveMQ m'ont permis de réaliser cela.
 
-par Cédric Finance
+Par Cédric Finance
 
 ### 21h40 : Faire tourner une JVM avec 4 Téraoctets de mémoire : Yes We Can !
 
 Chez Quartet FS, nous développons une base de données qui garde tout en mémoire plutôt que de lire les données depuis un disque dur. Mais une base de données, c'est fait pour gérer de gros volumes, et pour convaincre nos clients, c'est le jeu de celui qui aura la plus grosse... JVM. Alors que la plupart des gens qui déploient des JVM à plus de 10 Gigaoctets prient le dieu du Garbage Collector pour que tout se passe bien, nous avons sans peur déployé notre solution sur un Bullion (4 "serveurs" reliés par un réseau interne, vus par l'OS comme une seule machine), sur lequel on a pu faire tourner une JVM responsable de 4 Téraoctets de mémoire. Cette présentation vous permettra de comprendre en quelques minutes ce que nous avons mis 2 ans à faire marcher : on parlera de off-heap, de NUMA... et si vous êtes sages, d'un petit bug que j'ai découvert dans le jdk8.
 
-par Gaëlle Guimezanes
+Par Gaëlle Guimezanes
 
 ### 22h00 : résultats
 

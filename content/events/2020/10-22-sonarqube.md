@@ -28,7 +28,7 @@ En avril 2020, SonarSource à fait l’acquisition de RIPS, une entreprise allem
 
 Venez découvrir quelles étaient les techniques mises en oeuvre par les deux éditeurs et comment en combinant le meilleur des deux mondes, SonarQube dispose maintenant d'une analyse de haute précision pour trouver des vulnérabilités dans votre code Java !
 
-par [Nicolas Peru]({{< ref "/speakers/nicolas-peru.md" >}}) et [Malte Skoruppa]({{< ref "/speakers/malte-skoruppa.md" >}})
+Par [Nicolas Peru]({{< ref "/speakers/nicolas-peru.md" >}}) et [Malte Skoruppa]({{< ref "/speakers/malte-skoruppa.md" >}})
 
 {{< replay-section >}}
 

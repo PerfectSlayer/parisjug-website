@@ -42,13 +42,13 @@ Suivez aussi le Parisjug sur Twitter([@parisjug](https://twitter.com/parisjug)) 
 
 Le livre "Design Patterns" par le Gang Of Four à plus de 20 ans, en année chat ou en informatique, c'est pas très loin d'une éternité. En prenant comme prétexte de revisiter ces fameux design patterns, ce talk montre comment mettre en œuvre les techniques simples venues du monde fonctionnel en les associant avec les techniques habituelles de la programmation objet et ce dans le but de simplifier le développement de programmes.
 
-par [Remi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Remi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h25 à 21h00 : Buffet
 
 ### 21h00 : Design pattern vs lambda (suite)
 
-par [Remi Forax]({{< ref "/speakers/remi-forax.md" >}})
+Par [Remi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### Après…
 

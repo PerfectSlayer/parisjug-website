@@ -26,7 +26,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 En chaque développeur a sommeillé un jour ce doux rêve d'écrire son propre compilateur pour un language de domaine ou voir même pour créer un nouveau language de programmation. Or le développement d'un analyseur de code ressemble étrangement au développement du front-end d'un compilateur. Durant cette session, Freddy présentera les différentes étapes du développement d'un analyseur de code jusqu'à la capacité à exécuter symboliquement tous les chemins d'exécutions. Ce concept avancé d'interprétation abstraite est un pré-requis à la détection des bugs et vulnérabilités les plus profonds dans tous les languages.
 
-par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
+Par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -35,13 +35,13 @@ par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Fred
 
 Durant cette demo, Xavier et Freddy montreront comment tirer partie de la puissance des analyseurs de code en s'appuyant uniquement sur les services en ligne sonarcloud.io et travis-ci.org pour le service de build. Cette demo sera également une opportunité pour présenter les dernières fonctionnalités sonarcloud.io comme par exemple le support de l'analyse des branches.
 
-par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
+Par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
 
 ### 21h30 - Quizz en ligne
 
 minutes pour jouer ensemble et mettre à l'épreuve nos connaissances des principales failles de sécurité applicatives et notre capacité à les détecter.
 
-par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
+Par [Xavier Bourguignon]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/freddy-mallet.md" >}})
 
 
 ### 22h00 à ...

@@ -40,7 +40,7 @@ riff [https://projectriff.io/](https://projectriff.io/), built upon Kubernetes, 
 - Polyglot function support with Buildpacks v3, building from source
 - Emergent stateful streaming support
 
-par [Florent Biville]({{< ref "/speakers/florent-biville.md" >}})
+Par [Florent Biville]({{< ref "/speakers/florent-biville.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -48,7 +48,7 @@ par [Florent Biville]({{< ref "/speakers/florent-biville.md" >}})
 
 In the advent of volatile cloud-native, distributed architectures ranging from enterprise integration to data streaming to microservices, how can one avoid getting sucked into the vendor/product-specific implementation details? In this mostly hands-on session, we'll uncover the underappreciated value of the “three musketeers” of Java API: Supplier, Function, and Consumer, as well as the Spring Cloud Function framework and the value it adds in ensuring your code stays clean and neutral yet ready and capable of executing in the run-time environment of your choice. We'll cover a variety of use cases (e.g., messaging, streaming, REST, reactive, etc.), products, and frameworks (e.g., Spring Cloud Stream, RabbitMQ, Microsoft Azure, and more).
 
-par [Oleg Zhurakousky]({{< ref "/speakers/oleg-zhurakousky.md" >}})
+Par [Oleg Zhurakousky]({{< ref "/speakers/oleg-zhurakousky.md" >}})
 
 ### Après…
 

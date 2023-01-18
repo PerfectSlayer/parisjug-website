@@ -36,7 +36,7 @@ Les vidéos sont publiées sur youtube. Les inscriptions sont ouvertes le jeudi 
 
 Cette conférence a l'ambition de vous ouvrir les chakras, en remettant en cause des fondamentaux de l'informatiques : les threads, la mémoire, la persistance en base, etc. Comment revoir en profondeur les architectures pour répondre aux besoins de maintenant ?
 
-par [Philippe Prados]({{< ref "/speakers/philippe-prados.md" >}})
+Par [Philippe Prados]({{< ref "/speakers/philippe-prados.md" >}})
 
 ### 20h25 à 21h00 : Buffet offert par la société OCTO
 
@@ -46,7 +46,7 @@ par [Philippe Prados]({{< ref "/speakers/philippe-prados.md" >}})
 
 Comment écrire de l'assemble avec la JVM ? Comment exploiter les caches de niveau 1 et 2 ? Comment intégrer le silicium dans vos algorithmes ? Nous vous montrerons plus d'une dizaine d'astuce, extrait des sources de la JVM.
 
-par [Philippe Prados]({{< ref "/speakers/philippe-prados.md" >}})
+Par [Philippe Prados]({{< ref "/speakers/philippe-prados.md" >}})
 
 ### Après…
 
