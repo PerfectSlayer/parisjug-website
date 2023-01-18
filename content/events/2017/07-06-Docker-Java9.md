@@ -31,7 +31,7 @@ Pourquoi quand vous demandez a mettre en production java dans docker, on vous fa
 Pourquoi vos "container" crashent si souvent et pourquoi les nodes swapent-ils tant ?
 Partageons ensemble nos découvertes et réflexions sur java dans docker.
 
-par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}}) et [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}}) et [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -40,7 +40,7 @@ par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}}) et
 
 Le sujet principal de Java 9 est le support de la modularité mais Java 9 propose aussi de nombreuses autres fonctionnalités. Ce talk a pour but de faire une revue des principales d’entre-elles en attendant la sortie de Java 9 : support de standards, nouvelles API, évolutions dans certaines API, mises à jour des outils du JDK et améliorations de la JVM.
 
-par [Jean-Michel Doudoux]({{< ref "/speakers/jean-michel-doudoux.md" >}})
+Par [Jean-Michel Doudoux]({{< ref "/speakers/jean-michel-doudoux.md" >}})
 
 
 ### 22h00 à ...

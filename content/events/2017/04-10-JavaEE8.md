@@ -27,7 +27,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 Java EE 8 vient juste d’être finalisé! Cette session se propose de faire le point sur cette mise à niveau de la plateforme.
 Durant cette soirée, nous allons aborder les principales nouvelles fonctionnalités de Java EE 8 tels que JAX-RS et sa nouvelle API client ‘Reactive’, l’API Servlet 4 et son support http/2, la nouvelle API JSON-B, les différentes améliorations liées à la sécurité. Nous allons aussi voir ce qu’apporte Bean Validation 2.0, CDI 2.0, JSON-P 1.1, etc.
 
-par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/david-delabassee.md" >}})
+Par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/david-delabassee.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
@@ -36,7 +36,7 @@ par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy
 
 En conclusion, nous allons faire le point sur les annonces faites à JavaOne comme par exemple EE4J, le projet au sein de la Fondation Eclipse qui va accueillir le développement de la plateforme Java EE. Répondre à des questions telles que la convergence (ou pas) de MicroProfile.IO et de Java EE, etc...
 
-par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/david-delabassee.md" >}})
+Par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy Mallet]({{< ref "/speakers/david-delabassee.md" >}})
 
 
 ### 22h00 à ...

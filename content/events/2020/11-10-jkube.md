@@ -30,7 +30,7 @@ Depuis, cet outil a été repris par la fondation Eclipse dans le projet JKube.
 
 Nous vous proposons de reprendre notre exemple et de refaire l'exercice à l'aide du nouveau projet JKube.
 
-par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
+Par [Charles Sabourdin]({{< ref "/speakers/charles-sabourdin.md" >}})
 
 {{< replay-section >}}
 

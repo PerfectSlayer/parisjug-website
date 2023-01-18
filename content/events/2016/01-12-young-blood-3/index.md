@@ -48,13 +48,13 @@ Nous allons voir comment réaliser un backend en Java exposant une API REST déf
 
 Pour aller plus loin j'introduirais comment travailler avec le Métier pour que les tests fonctionnels soient en adéquation avec leur besoins et comment ceux-ci peuvent les amener au TDR (Test-Driven Requirements) dans la gestion et le suivi de projet.
 
-par Shoun Ichida ([Présentation](ICHIDA-Young Blood 2016.pdf))
+Par Shoun Ichida ([Présentation](ICHIDA-Young Blood 2016.pdf))
 
 
 ### 19h50 - Spock, un framework de test venu d’une autre planète
 Les tests unitaires peuvent parfois provoquer de fortes émotions chez le développeur. Heureusement pour nous, Spock nous permet de maitriser ces émotions grâce à la logique et l’expressivité. Durant ce talk, je vous ferait faire un tour d’horizon rapide de Spock et de ses capacités.
 
-par Xavier Detant
+Par Xavier Detant
 
 ## 20h10 - Une stack logicielle de géolocalisation et geofencing à faible consommation d’énergie pour applications mobiles
 En quelques années, la localisation est devenue l’une des données personnelles les plus prisées. Un grand nombre d’applications web et mobile utilisent cette information pour proposer des résultats plus pertinents (sites d’information, réseaux sociaux...) ou se reposent sur les systèmes de géolocalisation des terminaux des utilisateurs pour proposer des fonctionnalités supplémentaires (navigation, réalité augmentée…).
@@ -67,7 +67,7 @@ Je montrerai ensuite comment un tel écosystème permet d’implémenter des fon
 
 Je terminerai en proposant quelques concepts d’applications mobiles basées sur ces technologies et des pistes de réflexion dans le domaine de la géolocalisation.
 
-par Romain Vernoux
+Par Romain Vernoux
 
 
 ### 20h30 à 21h00 : Buffet Sponsorisé par Innovation-Box
@@ -86,7 +86,7 @@ Le sujet principal de la présentation est Thymeleaf. L'idée est de montrer à 
 - En terme de perf : Thymeleaf face à ses concurrents.
 - Petite démo
 
-par Patrick Allain ([Présentation](thymeleaf.pdf))
+Par Patrick Allain ([Présentation](thymeleaf.pdf))
 
 
 ### 21h20 - La recette pour déployer des applications microservice avec Ansible
@@ -97,7 +97,7 @@ Durant le présentation, je vais exposer une recette pour déployer une architec
 - Troisième partie : La démo (5 mn ), Durant la démo , on va déployer la stack sur des vm , puis en tuant une instance , on montrera comment le service reste toujours assuré et un nouveau sera lancer en parallèle
 Pour le moment le nom n'est pas très accrocheur , mais si la présentation est accepté je vais en trouvé un plus sexy ;)
 
-par Walid Chergui
+Par Walid Chergui
 
 
 
@@ -105,7 +105,7 @@ par Walid Chergui
 
 Les agents java permettent d’observer et de modifier des programmes exécutés sur une JVM. Bien que présents depuis le JDK 1.5, ils sont très peu utilisés hormis par des outils avancés comme New Relic, JProfiler ou JRebel.A travers un exemple concret, on verra sur quels principes les agents se reposent et comment en créer un facilement.
 
-par Yoann Buch ([Présentation](Java-Agent-en-Action.pdf))
+Par Yoann Buch ([Présentation](Java-Agent-en-Action.pdf))
 
 # 22h00 - Maven, c'est bien, SBT c'est mieux!
 
@@ -113,7 +113,7 @@ Sous ce nom de session trollesque se cache une présentation de l'outil SBT. L'i
 
 Nous parlerons ici de son utilisation au sein de projets Java même s'il s'est développé conjointement avec le scala. Durant cette présentation, nous verrons les fonctionnalités clefs qui pourront influencer vos choix sur vos projets.
 
-par Fabrice Sznajderman ([Présentation](SBT-parisJug2016.pdf))
+Par Fabrice Sznajderman ([Présentation](SBT-parisJug2016.pdf))
 
 
 ### 22h20 - Résultats

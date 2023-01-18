@@ -41,7 +41,7 @@ Retour d'expérience de Vert.x chez teemo avec deux cas d'utilisation :
 - Le pipeline teemo de récupération de données de millions de téléphones. Cet ensemble de micros services stocke environ 1 To de données par jour. Nous montrerons l'utilisation de Vert.x avec Kafka.
 
 
-par [Guillaume Charhon]({{< ref "/speakers/guillaume-charhon.md" >}})
+Par [Guillaume Charhon]({{< ref "/speakers/guillaume-charhon.md" >}})
 
 ### 22h00 à ...
 

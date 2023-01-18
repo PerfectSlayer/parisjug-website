@@ -40,7 +40,7 @@ Les inscriptions sont ouvertes le jeudi avant l'évènement à 7h00 à partir de
 
 Asserting identity by means of lightweight JSON Web Tokens (JWT) - this is what OpenID Connect is basically about. In this lecture we'll learn how clients (web, mobile, native apps) can obtain an ID token using standard OAuth 2.0 flows, and how to process them. We'll also take a look at a few supplementary protocols designed to make the whole experience of login a lot smoother, more democratic and privacy aware. For those who dare we may also touch nasty OAuth 2.0 stuff.
 
-par [Vladimir Dzhuvinov]({{< ref "/speakers/vladimir-dzhuvinov.md" >}})
+Par [Vladimir Dzhuvinov]({{< ref "/speakers/vladimir-dzhuvinov.md" >}})
 
 ### 20h25 à 21h00 : Buffet
 
@@ -50,7 +50,7 @@ La sécurité est la problématique numéro 1 des applications web, mais malheur
 
 La librairie pac4j est la solution : elle fournit une API simple et unifiée pour gérer l'authentification et l'autorisation pour de nombreux mécanismes et frameworks Java. Actuellement, elle supporte : OAuth (Facebook, Twitter...), CAS, SAML, OpenID (Connect), Google App Engine, HTTP (basic auth, formulaire, IP...), JWT, LDAP, RDBMS et MongoDB pour les environnements : J2E, Spring Security, Shiro, CAS, Play, Ratpack, Vertx, Undertow, Sparkjava et Jooby.
 
-par [Jérôme Leleu]({{< ref "/speakers/jerome-leleu.md" >}})
+Par [Jérôme Leleu]({{< ref "/speakers/jerome-leleu.md" >}})
 
 ### Après…
 

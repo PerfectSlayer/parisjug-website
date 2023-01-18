@@ -38,13 +38,13 @@ videos:
 
 Dans les six derniers mois, de nombreux services autour de la donnée ont été ajoutés dans Microsoft Azure. Nous parcourrons l’architecture Lambda du Big Data pour voir comment se positionnent les différents services et comment on peut les utiliser. Beaucoup sont dans la galaxie Hadoop et Java est donc un langage de choix. Le Big Data devient vraiment intéressant quand on y adjoint du machine learning. Nous verrons comment cela peut se faire en Azure. Egalement, nous verrons ce qu’on appelle les micro-services et l’implémentation qui en est faite dans Azure. Cela permet par exemple de donner de la puissance à des API REST que vous pouvez déjà exposer en Java, par exemple en les intégrant dans un worklow qui fait également appel à des API de machine learning. Et la boucle est bouclée ;-) La présentation comprendra de la théorie au niveau architecture/principes, au niveau Azure et des démos !
 
-par [Benjamin Guinebertière]({{< ref "/speakers/benjamin-guinebertiere.md" >}})
+Par [Benjamin Guinebertière]({{< ref "/speakers/benjamin-guinebertiere.md" >}})
 
 ### 20h25 à 21h00 : Buffet
 
 ### 21h00 : Big Data, Machine Learning, et micro-services en Java sur Azure (suite)
 
-par [Benjamin Guinebertière]({{< ref "/speakers/benjamin-guinebertiere.md" >}})
+Par [Benjamin Guinebertière]({{< ref "/speakers/benjamin-guinebertiere.md" >}})
 
 ### Après…
 

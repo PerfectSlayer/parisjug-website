@@ -39,7 +39,7 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce li
 
 Nous allons présenter Apache Cassandra 2.1 et son architecture. Nous montrerons comment la base de données peut garantir une scalabilité linéaire, une haute disponibilité tout en gardant un niveau de performance constant. Nous présenterons également le modèle de données sous-jacent et le langage CQL pour vous permettre de faire vos premiers pas avec Cassandra.
 
-par [Duy Hai Doan]({{< ref "/speakers/duy-hai-doan.md" >}})
+Par [Duy Hai Doan]({{< ref "/speakers/duy-hai-doan.md" >}})
 
 ### 20h25 à 21h00 : Buffet offert par la société Datastax
 
@@ -49,7 +49,7 @@ par [Duy Hai Doan]({{< ref "/speakers/duy-hai-doan.md" >}})
 
 Nous allons présenter le driver Java et DevCenter. Nous montrerons comment utiliser le driver Java pour interagir avec Cassandra, y compris de façon asynchrone, et comment utiliser l'Object Mapper pour créer un mapping entre Java et CQL. Ensuite nous présenterons ensuite DevCenter, un outil pour créer et exécuter des scripts CQL qui apporte aux devs et aux ops de nombreux avantages comme la validation syntaxique, l'assistance à la saisie, les "templates", et bien sûr, l'affichage des résultats et le traçage des requêtes. Nous terminerons cette session par un petit kata de code live en TDD pour montrer le driver et l'Object Mapper en action.
 
-par [Alexandre Dutra]({{< ref "/speakers/alexandre-dutra.md" >}})
+Par [Alexandre Dutra]({{< ref "/speakers/alexandre-dutra.md" >}})
 
 ### Après…
 

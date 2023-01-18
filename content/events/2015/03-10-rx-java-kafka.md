@@ -43,7 +43,7 @@ RxJava permet de développer sur la JVM des applications orientées évènements
 
 Nous utilisons Rx chaque jour chez Melusyn depuis plus d'un an, en Java et en Groovy. Le but de cette présentation est d'expliquer les concepts des Reactive Extensions, et de montrer en quoi RxJava permet de développer simplement des applications asynchrones sur la JVM.
 
-par [Hugo Cordier]({{< ref "/speakers/hugo-cordier.md" >}})
+Par [Hugo Cordier]({{< ref "/speakers/hugo-cordier.md" >}})
 
 ### 20h25 à 21h00 : Buffet
 
@@ -53,7 +53,7 @@ Kafka est un système de messages distribué très performant (faible latence, t
 
 Après une présentation technique de la technologie, nous allons voir les particularités architecturales de Kafka par rapport à RabbitMq et comment on peut utiliser Kafka pour simplifier la gestion de données à l’échelle.
 
-par [Jonathan Winandy]({{< ref "/speakers/jonathan-winandy.md" >}})
+Par [Jonathan Winandy]({{< ref "/speakers/jonathan-winandy.md" >}})
 
 ### Après…
 

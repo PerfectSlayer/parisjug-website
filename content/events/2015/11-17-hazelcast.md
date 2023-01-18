@@ -36,13 +36,13 @@ Les inscriptions sont ouvertes le jeudi avant l'évènement à 7h00 à partir de
 
 Today’s amounts of collected data are showing a nearly exponential growth. More than 75% of all the data have been collected in the past 5 years. To store this data and process it in an appropriate time you need to partition the data and parallelize the processing of reports and analytics. First part of this journey will give an interactive introduction into Distributed and In-Memory Computing with Hazelcast and second part will deep dive in some distributed computing features of Hazelcast - containing a few slides, some live-coding and last but not least discussions and questions.
 
-par [Emrah Kocaman]({{< ref "/speakers/emrah-kocaman.md" >}})
+Par [Emrah Kocaman]({{< ref "/speakers/emrah-kocaman.md" >}})
 
 ### 20h25 à 21h00 : Buffet
 
 ### 21h00 : go deeper into Hazelcast
 
-par [Emrah Kocaman]({{< ref "/speakers/emrah-kocaman.md" >}})
+Par [Emrah Kocaman]({{< ref "/speakers/emrah-kocaman.md" >}})
 
 ### Après…
 

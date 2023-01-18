@@ -31,7 +31,7 @@ Nous parlerons évidemment de JHipster et d'Azure, mais ce sera l'occasion de fa
 
 Ainsi, vous pourrez être productifs à la maison, ou sur votre ordinateur personnel, comme si vous étiez à votre bureau - les transports et l'open space en moins!
 
-par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
+Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ### Après…
 
