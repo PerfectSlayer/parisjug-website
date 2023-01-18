@@ -1,6 +1,6 @@
 ---
-date: 2014-05-13T19:00:00
-publishDate: 2015-10-01
+date: 2014-03-19T19:00:00
+publishDate: 2014-03-12
 tags:
 - jee
 title: "Java EE et Wildfly"
