@@ -1,10 +1,9 @@
 ---
 date: 2014-01-14T19:30:00
-publishDate: 2015-02-23
+publishDate: 2014-01-07
 tags:
 - young blood
-title: "Soirée Young blood I"
-videos:
+title: "Soirée Young Blood I"
 ---
 
 ## Date et lieu

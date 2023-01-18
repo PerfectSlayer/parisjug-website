@@ -2,7 +2,7 @@
 date: 2014-12-09T19:00:00
 publishDate: 2014-12-09
 tags:
-- performances
+- performance
 title: "Soirée Performance Java"
 ---
 

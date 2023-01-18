@@ -1,14 +1,13 @@
 ---
 date: 2014-03-11T19:00:00
-publishDate: 2015-02-23
+publishDate: 2014-03-04
 tags:
 title: "Introduction à la virtualisation pour les développeurs"
-videos:
 ---
 
 ## Date et lieu
 
-- Mercredi 19 mars 2014
+- Mercredi 11 mars 2014
 - Dans [les locaux de l'ISEP]({{< ref "/location/isep.md" >}})
 
 Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez aussi le Parisjug sur Twitter ([@parisjug](https://twitter.com/parisjug)) pour être informé rapidement.

@@ -1,10 +1,9 @@
 ---
 date: 2014-09-09T19:00:00
-publishDate: 2015-02-23
+publishDate: 2014-09-02
 tags:
 - cloud
 title: "Soirée Cloud First sur la Google Plateform"
-videos:
 ---
 
 ## Date et lieu

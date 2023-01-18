@@ -1,10 +1,9 @@
 ---
 date: 2014-06-10T19:00:00
-publishDate: 2015-02-23
+publishDate: 2014-06-03
 tags:
 - cloud
 title: "Soirée Cloud"
-videos:
 ---
 
 ## Date et lieu
