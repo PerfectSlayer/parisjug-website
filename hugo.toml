@@ -11,6 +11,7 @@ googleAnalytics = "UA-62610761-1"
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
+  images = ["img/featured.png"]
   readmore = true # Show "Read more" button in list if true
   toc = false # Enable Table of Contents
   pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
@@ -69,3 +70,6 @@ googleAnalytics = "UA-62610761-1"
     dir = ':resourceDir/_gen'
   [caches.getresource]
     dir = ':resourceDir/_gen'
+
+[social]
+  twitter = 'parisjug'
