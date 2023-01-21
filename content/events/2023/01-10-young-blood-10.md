@@ -5,7 +5,12 @@ tags:
 - young blood
 register: "https://eventbrite.fr/tickets-external?eid=504259292117&ref=etckt"
 title: "Soirée Young Blood X"
-# videos:
+videos:
+- https://www.youtube.com/watch?v=rXOwlOgojwQ
+- https://www.youtube.com/watch?v=xAVeCWSdH7k
+- https://www.youtube.com/watch?v=GKzjHdY2D9c
+- https://www.youtube.com/watch?v=UV9AHzLjJF8
+- https://www.youtube.com/watch?v=jcPJWhM2Pxw
 ---
 ## Date et lieu
 
