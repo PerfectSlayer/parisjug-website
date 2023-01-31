@@ -7,7 +7,7 @@ toc: true
 
 ### Agorapulse
 
-{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}
 
 Depuis 2011, Agorapulse propose une solution de Social Media Management, pour aider les marques, entreprises et agences à gérer efficacement leur présence sur les réseaux sociaux.
 
@@ -15,18 +15,9 @@ Afin de supporter sa croissance (plus de 8 000 clients), la plate-forme techniqu
 
 [Site Web](https://www.agorapulse.com) - [Blog technique]( https://medium.com/agorapulse-stories/tech/home)
 
-### Mirakl
-
-{{< figure src="/img/sponsors/2022/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
-
-Nous développons une solution logicielle de marketplace en SaaS qui façonne l’e-commerce de demain.
-Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou Macy's, notre solution est développée par une équipe technique expérimentée pour supporter de fortes charges et volumétries de données en s’appuyant principalement sur les technologies Java, Go, PostgreSQL, Kafka, Elasticsearch…
-
-Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mirakl.com/).
-
 ### Microsoft
 
-{{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}
 
 Microsoft s’engage en faveur d’un numérique de confiance, inclusif et durable.
 Sa mission est de donner à chaque individu et chaque organisation les moyens de réaliser ses ambitions, à l’ère du cloud intelligent et de l’intelligent edge.
@@ -34,9 +25,18 @@ Avec plus de 1 800 collaborateurs et 10 500 partenaires économiques, technologi
 
 [Site Web](https://www.microsoft.com/fr-fr)
 
+### Mirakl
+
+{{< figure src="/img/sponsors/2023/mirakl.svg" alt="Mirakl" class="sponsor-svg-logo" >}}
+
+Nous développons une solution logicielle de marketplace en SaaS qui façonne l’e-commerce de demain.
+Déjà utilisée par des clients comme Carrefour, Darty, Galeries Lafayette ou Macy's, notre solution est développée par une équipe technique expérimentée pour supporter de fortes charges et volumétries de données en s’appuyant principalement sur les technologies Java, Go, PostgreSQL, Kafka, Elasticsearch…
+
+Envie d'en savoir plus? Rendez-vous sur, visitez [www.mirakl.com](http://www.mirakl.com/).
+
 ### Oxiane
 
-{{< figure src="/img/sponsors/2022/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/oxiane.svg" alt="Oxiane" class="sponsor-svg-logo" >}}
 
 Oxiane est depuis près de 20 ans une société de services en informatique qui s’attache à constituer une équipe de talents, autocritique et solidaire, animée par des gens qui cherchent à comprendre et à partager ce qu’ils font.  
 Notre activité porte sur l’ingénierie, le conseil et la formation autour des nouvelles technologies informatiques.  
@@ -48,19 +48,9 @@ Composée de plus de 50 consultants experts passionnés par le développement, n
 
 [Site Web](https://www.oxiane.com/)
 
-### Red Hat
-
-{{< figure src="/img/sponsors/2022/red-hat.svg" alt="Red Hat" class="sponsor-svg-logo" >}}
-
-Red Hat est le premier éditeur de solutions Open Source pour les entreprises.
-Notre modèle de souscription simple et économique permet à nos clients de bénéficier de la stabilité et haute performance de nos technologies de cloud, Linux, gestion, middleware, mobilité, stockage et virtualisation.
-Nous offrons également un niveau de support, de formation et de consulting reconnu.
-
-[Site Web](https://www.redhat.com/fr/global/france)
-
 ### Renault Digital
 
-{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}
 
 Le développement du digital fait avancer notre métier de constructeur : les véhicules sont de plus en plus connectés et les outils de conception numérique, la robotique, l’analyse des données d’usage de nos véhicules ou des comportements des clients sont autant de moyens pour développer l’entreprise.
 Les outils de travail bénéficient de l’évolution des technologies; ils sont plus connectés, plus collaboratifs.
@@ -71,7 +61,7 @@ Elle doit devenir une communauté d’experts en terme de pratiques digitales, c
 
 ### Sciam
 
-{{< figure src="/img/sponsors/2022/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/sciam.svg" alt="Sciam" class="sponsor-svg-logo" >}}
 
 SCIAM est une société de conseil en innovation et transformation des organisations fondée sur le dialogue entre technologies et sciences humaines.
 
@@ -87,13 +77,22 @@ Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SCIAM_FR) -
 
 ### SOFTEAM
 
-{{< figure src="/img/sponsors/2022/softeam.svg" alt="SOFTEAM" class="sponsor-svg-logo" >}}
+{{< figure src="/img/sponsors/2023/softeam.svg" alt="SOFTEAM" class="sponsor-svg-logo" >}}
 
 SOFTEAM Group fédère une communauté de développeurs, d’architectes, de Tech Leader… passionnés par les nouvelles technologies.  
 Le développement des compétences de nos collaborateurs se fait tout au long de la carrière par notre politique dynamique de formations, de certifications (OCJP, Scrum Master, PMP…) et lors de nos soirées de veille technologique.
 Chaque Softeamien(ne) est également suivi(e) par un ancien consultant de SOFTEAM Group, aujourd’hui manager, pour un accompagnement de carrière personnalisé. Partage des connaissances, innovation, enthousiasme définissent notre communauté !
 
 Suivez nous sur les réseaux sociaux : [Twitter](https://twitter.com/SofteamGroup) - [Facebook](https://www.facebook.com/SofteamGroup) - [LinkedIn](https://www.linkedin.com/company/softeam-group/).
+
+### Worldline
+
+{{< figure src="/img/sponsors/2023/worldline.svg" alt="Sciam" class="sponsor-svg-logo" >}}
+
+Worldline est un leader mondial des paiements et le partenaire technologique de choix des commerçants, des banques et des acquéreurs.
+Avec 18 000 collaborateurs dans 40 pays, Worldline fournit à ses clients des solutions durables, fiables et innovantes qui contribuent à leur croissance. 
+
+[Site Web](https://www.worldline.com/)
 
 ## Devenez sponsors
 
