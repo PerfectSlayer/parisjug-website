@@ -2,9 +2,10 @@
 date: 2022-10-11T19:00:00
 publishDate: 2022-10-11
 tags:
+- database
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
-title: "Patterns de programmation réactive pour les BDDs - À la découverte de Couchbase"
+title: "Soirée Patterns de programmation réactive pour les BDDs -  À la découverte de Couchbase"
 videos:
 - https://www.youtube.com/watch?v=E-HBg9nD2nc
 - https://www.youtube.com/watch?v=ZTQD2d0sDs0
@@ -38,7 +39,7 @@ Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/datadog.svg" alt="Datadog" class="sponsor-svg-logo" >}}](https://www.datadoghq.com/)
+[{{< figure src="/img/sponsors/2022/datadog.svg" alt="Datadog" class="sponsor-svg-logo" >}}](https://www.datadoghq.com/)
 
 ### 21h00 : Que peut on faire avec Couchbase ?
 
@@ -47,10 +48,14 @@ Ce ne sont pas les seuls features disponibles mais plutôt que de continuer à l
 
 Par [Laurent Doguin]({{< ref "/speakers/laurent-doguin.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
 ## Feedback
 
 {{< tweet user="atogue" id="1579907533149732865">}}
+
+{{< sponsor-section >}}
+
+{{% coc-section %}}

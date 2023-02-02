@@ -1,4 +1,8 @@
 {{ $videoId := replaceRE `https://www.youtube.com/watch\?v=(.*)` "$1" . }}
-<a href="{{ . }}" title="Regarder l'enregistrement sur YouTube" target="_blank">
-    <img src="https://img.youtube.com/vi/{{ $videoId }}/mqdefault.jpg" alt="Aperçu de l'enregistrement" />
+{{ $videoInfo := getJSON `https://noembed.com/embed?dataType=json&url=` . }}
+<a href="{{ . }}" title="Regarder l'enregistrement de {{ $videoInfo.title }} sur YouTube" target="_blank">
+    <figure>
+        <img src="https://img.youtube.com/vi/{{ $videoId }}/mqdefault.jpg" alt="Aperçu de l'enregistrement" />
+        <figcaption>{{ $videoInfo.title }}</figcaption>
+    </figure>
 </a>

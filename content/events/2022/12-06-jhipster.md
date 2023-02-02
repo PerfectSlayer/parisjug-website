@@ -37,7 +37,7 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}](https://www.microsoft.com/fr-fr)
+[{{< figure src="/img/sponsors/2022/microsoft.svg" alt="Microsoft" class="sponsor-svg-logo" >}}](https://www.microsoft.com/fr-fr)
 
 ### 21h00 : JHipster versus JHipster Lite
 
@@ -45,7 +45,7 @@ En deuxième partie, nous parlerons de JHipster Lite, un nouveau projet en cours
 
 Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
@@ -53,3 +53,7 @@ Par [Julien Dubois]({{< ref "/speakers/julien-dubois.md" >}})
 
 {{< tweet user="_Mathieu_AVRIL" id="1600199183318646784">}}
 {{< tweet user="nicokosi" id="1600208253551464448">}}
+
+{{< sponsor-section >}}
+
+{{% coc-section %}}

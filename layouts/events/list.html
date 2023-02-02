@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+
+	<div class="content main__content clearfix">
+	{{- with .Content }}
+		{{ . }}
+    {{- end }}
+
+    {{- range .Pages.GroupByDate "2006" }}
+    <h2>L'année {{ .Key }}</h2>
+    <ul>
+        {{- range .Pages }}
+        <li>
+            <a href="{{ .Permalink }}" title="Consulter les détails de l'évènement">{{ time.Format ":date_short" .Date}} - {{ .Title }}</a>
+        </li>
+        {{- end }}
+    </ul>
+    {{- end }}
+
+	</div>
+</main>
+{{ end }}

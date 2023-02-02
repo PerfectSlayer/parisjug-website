@@ -4,7 +4,7 @@ publishDate: 2022-09-10
 tags:
 - java
 register: "https://www.eventbrite.fr/tickets-external?eid=424286802247&ref=etckt"
-title: "Soirée Programmation Orientée Données avec Java 19"
+title: "Soirée Programmation Orientée Données avec Java 19" 
 videos:
 - https://www.youtube.com/watch?v=q9qT8s01elY
 - https://www.youtube.com/watch?v=uFj0_GWvdWs
@@ -37,7 +37,7 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
+[{{< figure src="/img/sponsors/2022/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
 
 ### 21h00 : Java 19 (Suite)
 
@@ -45,10 +45,14 @@ Poursuite de La programmation orienté donnée avec Java 19 et session de questi
 
 Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
 ## Feedback
 
 {{< tweet user="parisjug" id="1574814455996743680">}}
+
+{{< sponsor-section >}}
+
+{{% coc-section %}}

@@ -1,13 +1,17 @@
 ---
 date: 2022-02-08T19:00:00
-publishDate: 2022-02-01
+publishDate: 2022-02-08
 tags:
 - camel
 - quarkus
-title: "Soirée virtuelle Intégration à l'ère du cloud avec Camel Quarkus"
+title: "Soirée virtuelle : Intégration à l'ère du cloud avec Camel Quarkus"
 videos: 
 - https://www.youtube.com/watch?v=LAFUKrSSa9A
 ---
+## Date et lieu
+
+* Mardi 08 février 2022 à 19h00
+* Dans les locaux de notre chaîne [Twitch](https://www.twitch.tv/parisjug)
 
 ## Détails
 
@@ -26,6 +30,10 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 
 Par [Alexandre Gallice]({{< ref "/speakers/alexandre-gallice.md" >}}) et [Zineb Bendiba]({{< ref "/speakers/zineb-bendhiba.md" >}})
 
-### 20h30 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-)
-
 {{< replay-section >}}
+
+## Sponsors de l'évènement
+
+{{< sponsor-section >}}
+
+{{% coc-section %}}

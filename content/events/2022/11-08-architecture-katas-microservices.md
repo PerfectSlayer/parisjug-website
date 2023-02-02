@@ -42,7 +42,7 @@ Par [Alexandre Touret]({{< ref "/speakers/alexandre-touret.md" >}})
 
 ### 20h30 : Buffet
 
-[{{< figure src="/img/sponsors/renault-digital.svg" alt="Renault Digital" class="sponsor-svg-logo" >}}](https://www.renaultgroup.com/talents/nos-metiers/digital/)
+[{{< figure src="/img/sponsors/2022/agorapulse.svg" alt="Agorapulse" class="sponsor-svg-logo" >}}](https://www.agorapulse.com/)
 
 ### 21h00 : Architecture microservices et cohérence des données : mais on fait comment pour de vrai ?
 
@@ -63,7 +63,7 @@ Un exemple concret basé sur MicroProfile et le framework Eeventuate Tram vous p
 
 Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
-### 22h00 : 3ème mi-temps des juggers dans un lieu sélectionné par votre Crew ;-) 
+### 22h00 : 3ème mi-temps des juggers
 
 {{< replay-section >}}
 
@@ -71,3 +71,7 @@ Par [Jean François James]({{< ref "/speakers/jean-francois-james.md" >}})
 
 {{< tweet user="jefrajames" id="1590049531768410112">}}
 {{< tweet user="_Mathieu_AVRIL" id="1590071363209162752">}}
+
+{{< sponsor-section >}}
+
+{{% coc-section %}}
