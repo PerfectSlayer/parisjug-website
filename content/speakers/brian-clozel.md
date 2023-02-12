@@ -3,4 +3,6 @@ title: "Brian Clozel"
 twitter: "bclozel"
 ---
 
-Brian Clozel, committer Spring Framework et Spring Boot - Pivotal.
+Spring team member at VMware.
+
+Working on Spring Framework, Spring GraphQL and Spring Boot.
