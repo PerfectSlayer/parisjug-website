@@ -1,6 +1,6 @@
 ---
-date: 2023-03-14T20:38:00
-publishDate: 2023-03-07
+date: 2023-03-14T19:00:00
+publishDate: 2023-02-10
 tags:
 - Spring
 # register: "TODO"
@@ -18,7 +18,7 @@ title: "Soirée Spring"
 
 ### 18h45 à 19h00: Accueil
 
-### 19h30 : 
+### 19h30 :
 
 Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}}) et [Stéphane Nicoll]({{< ref "/speakers/stephane-nicoll.md" >}})
 
@@ -26,13 +26,13 @@ Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}}) et [Stéphane Nicoll
 
 [{{< figure src="/img/sponsors/2023/criteo.svg" alt="Criteo" class="sponsor-svg-logo" width="250" >}}](https://www.criteo.com/fr/)
 
-### 21h00 : 
+### 21h00 :
 
 Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}}) et [Stéphane Nicoll]({{< ref "/speakers/stephane-nicoll.md" >}})
 
 
 ### 22h00 : 3ème mi-temps des juggers
- 
+
 {{< replay-section >}}
 
 {{% coc-section %}}
