@@ -99,7 +99,7 @@ Pour nous contacter, vous pouvez envoyer un mail à l'une des équipes du Paris 
 
 ### Nos sponsors
 
-Les évènements du Paris JUG sont possibles grâce à nos sponsors. [Découvrez nos sponsors]({{< ref sponsors >}}) ou [parcourrez les éléments marketing]({{< ref marketing-materials >}}).
+Les évènements du Paris JUG sont possibles grâce à nos sponsors. [Découvrer nos sponsors]({{< ref sponsors >}}) ou [parcourrer les éléments marketing]({{< ref marketing-materials >}}).
 
 ## Donner une présentation
 
