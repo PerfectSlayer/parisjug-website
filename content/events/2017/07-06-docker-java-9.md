@@ -2,8 +2,9 @@
 date: 2017-06-13T19:00:00
 publishDate: 2017-06-17
 tags:
+- java
 title: "Docker et Java 9"
-videos:
+##videos:
 ---
 
 ## Date et lieu

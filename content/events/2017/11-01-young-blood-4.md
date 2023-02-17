@@ -2,8 +2,13 @@
 date: 2017-01-10T19:00:00
 publishDate: 2017-01-13
 tags:
+- java
+- machine learning
+- performance
+- reactive programming
+- young blood
 title: "Young blood IV : Aftermath"
-videos:
+##videos:
 ---
 
 ## Date et lieu
@@ -28,9 +33,9 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 - Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
 
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ## Photos
-
 
 {{< flickr id="72157675432872413" img="https://live.staticflickr.com/528/31447028714_5d15fff354_h.jpg" >}}
 

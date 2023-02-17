@@ -3,7 +3,7 @@ date: 2019-10-08T19:00:00
 publishDate: 2019-10-03
 tags:
 title: "Soirée Keycloak"
-videos:
+#videos:
 ---
 
 ## Date et lieu

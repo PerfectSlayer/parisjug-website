@@ -4,10 +4,10 @@ date: 2020-09-08T19:00:00
 publishDate: 2020-09-03
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - graalvm
+- tools
 title: "Soirée Virtuelle : GraalVM"
 videos:
-  - https://www.youtube.com/watch?v=qPqPihLrAkE
+- https://www.youtube.com/watch?v=qPqPihLrAkE
 ---
 
 ## Date et lieu

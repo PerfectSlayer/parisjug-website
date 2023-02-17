@@ -3,6 +3,7 @@ date: 2016-11-15T19:00:00
 publishDate: 2016-11-08
 tags:
 - jee
+- tools
 title: "Quoi de neuf JEE et autres & Des builds incroyablement rapides avec Gradle 3"
 ---
 

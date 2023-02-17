@@ -4,7 +4,7 @@ date: 2015-11-17T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - hazelcast
+- database
 title: "Soirée Hazelcast : First steps to expertise"
 # videos:
 #  - https://www.youtube.com/watch?v=xxxxxxx

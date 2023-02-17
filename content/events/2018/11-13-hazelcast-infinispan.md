@@ -3,7 +3,7 @@ date: 2018-11-13T19:00:00
 publishDate: 2018-11-07
 tags:
 title: "Hazelcast et Infinispan"
-videos:
+#videos:
 ---
 
 ## Date et lieu

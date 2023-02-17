@@ -4,12 +4,11 @@ date: 2020-11-10T19:00:00
 publishDate: 2020-11-29
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - jkube
-  - kubernetes
-  - cloud native
+- cloud
+- kubernetes
 title: "Soirée Virtuelle : JKube - Packager Java pour Kubernetes"
 videos:
-  - https://www.youtube.com/watch?v=YlkQ-tHUNgs
+- https://www.youtube.com/watch?v=YlkQ-tHUNgs
 ---
 
 ## Date et lieu

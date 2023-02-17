@@ -4,7 +4,7 @@ date: 2011-02-28T19:00:00
 publishDate: 2011-02-28
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- anniversaire
+- anniversary
 title: "3e anniversaire du Paris JUG"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx

@@ -2,8 +2,10 @@
 date: 2019-01-21T19:00:00
 publishDate: 2019-01-15
 tags:
+- cloud
+- jee
 title: "Soirée Edson Yanaga"
-videos:
+#videos:
 ---
 
 ## Date et lieu

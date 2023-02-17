@@ -2,8 +2,11 @@
 date: 2019-06-13T19:00:00
 publishDate: 2019-06-07
 tags:
+- ide
+- performance
+- tools
 title: "Tooling OSS ... et pourquoi pas y contribuer ?"
-videos:
+#videos:
 ---
 
 ## Date et lieu

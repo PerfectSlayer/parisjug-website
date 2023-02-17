@@ -2,8 +2,13 @@
 date: 2018-01-09T19:00:00
 publishDate: 2018-01-02
 tags:
+- accessibility
+- architecture
+- alternative languages
+- functional programming
+- young blood
 title: "Young blood V"
-videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -27,6 +32,8 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 - Les inscrits à l'évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition
 - Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
 - L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
+
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ## Détails
 
@@ -69,7 +76,7 @@ Dans le paradigm de programmation impératif, nous avons l’habitude d’utilis
 Cette approche fonctionne mais elle oblige à faire modifier une variable à l'extérieure de la boucle que sera le résultat du calcul et à noyer le calcul dans le corps de la boucle.  
 Cette approche ne sépare pas ce qui est la résolution du problème des éléments techniques pour itérer.  
 Pour pouvoir paralléliser ou lire les valeurs depuis une socket ou une fichier il faut tout modifier.  
-C’est pour cette raison que le paradigm de programmation fonctionnel s’appuie sur la fonction reduce.  
+C’est pour cette raison que le paradigme de programmation fonctionnelle s’appuie sur la fonction reduce.  
 Je vous propose de vous montrer comment reduce peut être implémentée.  
 Puis de voir qu’elle peut également servir pour implémenter map et filter.  
 On terminera par chaîner les trois opérations map, filter et reduce sans avoir de listes intermédiaires.

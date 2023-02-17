@@ -4,12 +4,13 @@ date: 2015-05-12T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  -
-  -
+- big data
+- cloud
+- machine learning
 title: "Soirée Java/Azure"
 videos:
-  - https://www.youtube.com/watch?v=Yb0tAyHh4Kk
-  - https://www.youtube.com/watch?v=DCfHnLvqDqo
+- https://www.youtube.com/watch?v=Yb0tAyHh4Kk
+- https://www.youtube.com/watch?v=DCfHnLvqDqo
 ---
 
 ## Date et lieu

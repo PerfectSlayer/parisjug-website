@@ -3,7 +3,7 @@ date: 2019-09-10T19:00:00
 publishDate: 2019-09-03
 tags:
 title: "Migration vers Java 11, 12 et 13"
-videos:
+#videos:
 ---
 
 ## Date et lieu

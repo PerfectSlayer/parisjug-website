@@ -2,10 +2,10 @@
 date: 2023-03-14T19:00:00
 publishDate: 2023-02-10
 tags:
-- Spring
-# register: "TODO"
+- spring
+#register: "TODO"
 title: "Soirée Spring"
-# videos:
+#videos:
 ---
 ## Date et lieu
 

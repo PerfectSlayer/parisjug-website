@@ -2,8 +2,9 @@
 date: 2017-12-06T19:00:00
 publishDate: 2017-12-01
 tags:
+- database
 title: "Soirée BOF questions / réponses avec l'équipe Hibernate"
-videos:
+##videos:
 ---
 
 ## Date et lieu

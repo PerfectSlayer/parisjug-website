@@ -2,6 +2,7 @@
 date: 2021-04-13T19:00:00
 publishDate: 2021-04-13
 tags:
+- spring
 title: "Soirée Virtuelle : Nouveautés de Spring !"
 videos:
 - https://www.youtube.com/watch?v=8Noy3myVCLo

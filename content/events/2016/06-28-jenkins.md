@@ -2,7 +2,7 @@
 date: 2016-06-07T19:00:00
 publishDate: 2016-05-31
 tags:
-- jenkins
+- ci/cd
 title: "Soirée Jenkins"
 ---
 

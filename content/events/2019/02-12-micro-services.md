@@ -3,7 +3,7 @@ date: 2019-02-12T19:00:00
 publishDate: 2019-02-06
 tags:
 title: "Soirée Micro-services"
-videos:
+#videos:
 ---
 
 ## Date et lieu

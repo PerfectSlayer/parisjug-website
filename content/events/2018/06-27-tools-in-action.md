@@ -2,8 +2,13 @@
 date: 2018-06-27T19:00:00
 publishDate: 2018-06-21
 tags:
+- cloud
+- ci/cd
+- kafka
+- test
+- tools
 title: "Tools In Action"
-videos:
+#videos:
 ---
 
 ## Date et lieu

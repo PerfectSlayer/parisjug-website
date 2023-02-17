@@ -4,14 +4,15 @@ date: 2020-06-30T19:00:00
 publishDate: 2020-06-24
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - rxjava
-  - vscode
-  - mission control
+- ide
+- performance
+- reactive programming
+- tools
 title: "Soirée Virtuelle : Tools in Action"
 videos:
-  - https://www.youtube.com/watch?v=GahD51MzBiY
-  - https://www.youtube.com/watch?v=PbE58CZsdjc
-  - https://www.youtube.com/watch?v=hIQmtG8BfWE
+- https://www.youtube.com/watch?v=GahD51MzBiY
+- https://www.youtube.com/watch?v=PbE58CZsdjc
+- https://www.youtube.com/watch?v=hIQmtG8BfWE
 ---
 
 ## Date et lieu

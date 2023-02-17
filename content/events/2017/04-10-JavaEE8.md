@@ -2,8 +2,9 @@
 date: 2017-10-10T19:00:00
 publishDate: 2017-10-04
 tags:
+- jee
 title: "Java EE 8? Ah ben non peut-être!"
-videos:
+##videos:
 ---
 
 ## Date et lieu

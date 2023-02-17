@@ -2,6 +2,7 @@
 date: 2021-03-09T19:00:00
 publishDate: 2021-03-09
 tags:
+- ide
 title: "Soirée Virtuelle : La fondation Eclipse, au-delà de l’IDE !"
 videos:
 - https://www.youtube.com/watch?v=7eEfbcUF1Bc

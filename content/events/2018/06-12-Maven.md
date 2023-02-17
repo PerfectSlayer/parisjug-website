@@ -2,8 +2,9 @@
 date: 2018-06-12T19:00:00
 publishDate: 2018-06-06
 tags:
+- tools
 title: "Apache Maven 3&5 et Java 9"
-videos:
+#videos:
 ---
 
 ## Date et lieu

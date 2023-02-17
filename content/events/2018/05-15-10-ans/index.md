@@ -1,9 +1,12 @@
 ---
 date: 2018-05-15T12:00:00
-publishDate: 2018-05-03
+publishDate: 2018-05-08
 tags:
-title: "Anniversaire du ParisJUG : 10 ans"
-videos:
+- anniversary
+- functional programming
+- reactive programming
+title: "Anniversaire du Paris JUG : 10 ans"
+##videos:
 ---
 
 ## Date et lieu

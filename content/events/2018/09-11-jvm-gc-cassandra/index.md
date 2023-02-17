@@ -2,8 +2,10 @@
 date: 2018-09-11T19:00:00
 publishDate: 2018-09-05
 tags:
+- database
+- performance
 title: "Quelle JVM et Garbage Collector choisir et Le futur d'Apache Cassandra"
-videos:
+##videos:
 ---
 
 ## Date et lieu

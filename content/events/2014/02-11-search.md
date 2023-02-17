@@ -2,7 +2,7 @@
 date: 2014-02-11T19:00:00
 publishDate: 2014-02-04
 tags:
-- hibernate
+- database
 title: "Hibernate Search"
 ---
 

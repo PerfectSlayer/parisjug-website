@@ -4,8 +4,8 @@ date: 2015-12-08T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - reactive
-  - performance
+- performance
+- reactive programming
 title: "Soirée Reactive et Performance"
 # videos:
 #   - https://www.youtube.com/watch?v=xxxxxxx

@@ -31,7 +31,7 @@ Les inscriptions seront ouvertes le jeudi avant l'évènement à 7h00 [via ce li
 > L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription.
 > **Toute inscription non confirmée ne sera pas prise en compte !**
 
-[Consultez toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ## Détails
 

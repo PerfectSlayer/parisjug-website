@@ -3,7 +3,6 @@ date: 2022-12-06T19:00:00
 publishDate: 2022-11-29
 tags:
 - java
-- jhipster
 register: "https://eventbrite.fr/tickets-external?eid=467723452437&ref=etckt"
 title: "Soirée JHipster versus JHipster Lite"
 videos:

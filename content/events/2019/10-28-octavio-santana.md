@@ -3,7 +3,7 @@ date: 2019-10-28T19:00:00
 publishDate: 2019-10-22
 tags:
 title: "Soirée Otavio Santana - Java and Cloud with Jakarta EE"
-videos:
+#videos:
 ---
 
 ## Date et lieu

@@ -2,6 +2,7 @@
 date: 2022-06-14T19:30:00
 publishDate: 2022-06-14
 tags:
+- java
 - security
 title: "Soirée Security overview"
 ---

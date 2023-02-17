@@ -2,8 +2,7 @@
 date: 2022-02-08T19:00:00
 publishDate: 2022-02-08
 tags:
-- camel
-- quarkus
+- cloud
 title: "Soirée virtuelle : Intégration à l'ère du cloud avec Camel Quarkus"
 videos: 
 - https://www.youtube.com/watch?v=LAFUKrSSa9A

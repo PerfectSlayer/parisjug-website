@@ -4,10 +4,8 @@ date: 2020-03-10T19:00:00
 publishDate: 2020-03-04
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - kubernetes
-  - serverless
-  - riff
-  - Spring Cloud
+- kubernetes
+- spring
 title: "[Annulée] Soirée Cloud Function: riff et Spring Cloud Function"
 #videos:
 #  - https://www.youtube.com/watch?v=xxxxxxx

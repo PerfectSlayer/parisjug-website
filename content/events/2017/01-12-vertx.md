@@ -2,8 +2,9 @@
 date: 2017-12-12T19:00:00
 publishDate: 2017-11-20
 tags:
+- reactive programming
 title: "Soirée Eclipse Vert.x"
-videos:
+##videos:
 ---
 
 ## Date et lieu

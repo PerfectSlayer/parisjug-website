@@ -4,13 +4,12 @@ date: 2015-03-10T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - kafka
-  - reactive programming
-  - rxjava
+- kafka
+- reactive programming
 title: "Soirée Rx Java & Kafka"
 videos:
-  - https://www.youtube.com/watch?v=Y0K-91VRiyQ
-  - https://www.youtube.com/watch?v=amus0U-dmJU
+- https://www.youtube.com/watch?v=Y0K-91VRiyQ
+- https://www.youtube.com/watch?v=amus0U-dmJU
 ---
 
 ## Date et lieu

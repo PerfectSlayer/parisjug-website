@@ -2,6 +2,7 @@
 date: 2021-12-14T19:00:00
 publishDate: 2021-12-14
 tags:
+- tools
 title: "Soirée Virtuelle : Développe dans ton cloud pour le cloud - Gitpod"
 videos: 
 - https://www.youtube.com/watch?v=YuUIKKD-1jA

@@ -2,7 +2,7 @@
 date: 2023-02-07T20:38:00
 publishDate: 2023-02-01
 title: "Rust pour les développeurs Java et le nouveau client Elasticsearch"
-# videos:
+#videos:
 ---
 ## Date et lieu
 

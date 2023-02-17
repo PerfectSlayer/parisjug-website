@@ -56,7 +56,7 @@ Par [Bruno Boucard]({{< ref "/speakers/bruno-boucard.md" >}}), [Thomas Pierrain]
 ## Pre requis
 
 ### Java
-- 
+
 - JDK 8
 - Eclipse ou Intellij Idea
 - EclEmma Java Code Coverage for Eclipse : http://eclemma.org/jacoco/

@@ -2,8 +2,8 @@
 date: 2022-03-08T19:00:00
 publishDate: 2022-03-08
 tags:
+- cloud
 - kubernetes
-- vertx
 title: "Soirée Virtuelle : Déployer un microservice Vert-x sur Kubernetes avec Knative et GitLab CI"
 ---
 ## Date et lieu

@@ -4,15 +4,17 @@ date: 2020-01-12T19:00:00
 publishDate: 2020-01-10
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - young Blood
+- ci/cd
+- performance
+- young blood
 title: "Young Blood VII"
 videos:
-  - https://www.youtube.com/watch?v=LojNibExzcc
-  - https://www.youtube.com/watch?v=BUbrPTQeBj0
-  - https://www.youtube.com/watch?v=VrlbUe_Livs
-  - https://www.youtube.com/watch?v=zTh5RjInXiU
-  - https://www.youtube.com/watch?v=ZZ-t-sRG6qE
-  - https://www.youtube.com/watch?v=NxSl8ZBSKsY
+- https://www.youtube.com/watch?v=LojNibExzcc
+- https://www.youtube.com/watch?v=BUbrPTQeBj0
+- https://www.youtube.com/watch?v=VrlbUe_Livs
+- https://www.youtube.com/watch?v=zTh5RjInXiU
+- https://www.youtube.com/watch?v=ZZ-t-sRG6qE
+- https://www.youtube.com/watch?v=NxSl8ZBSKsY
 ---
 
 ## Date et lieu
@@ -21,6 +23,8 @@ videos:
 - Dans les locaux de [Datadog]({{< ref "/location/datadog.md" >}})
 
 La soirée young blood est une volonté d'offrir aux personnes n'ayant jamais fait de présentation de se lancer. Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez aussi le Parisjug sur Twitter([@parisjug](https://twitter.com/parisjug)) pour être informé rapidement.
+
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ### Comment ce déroule un short talk young blood ?
 

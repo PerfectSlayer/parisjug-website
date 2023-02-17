@@ -4,15 +4,10 @@ date: 2015-06-23T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - javamelody
-  - jvm
-  - apache parquet
-  - big data
-  - profiling
-  - simplelenium
-  - qa
-  - monitoring
-  - dashing
+- big data
+- jvm
+- performance
+- tools
 title: "Soirée Tools In Action"
 # videos:
 #   - https://www.youtube.com/watch?v=xxxxxxx

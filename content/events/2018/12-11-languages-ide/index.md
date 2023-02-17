@@ -2,8 +2,10 @@
 date: 2018-12-11T19:00:00
 publishDate: 2018-12-05
 tags:
+- ide
+- kubernetes
 title: "Langages pour tous ... les IDE"
-videos:
+#videos:
 ---
 
 ## Date et lieu

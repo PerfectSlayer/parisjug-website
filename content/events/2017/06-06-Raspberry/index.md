@@ -3,7 +3,7 @@ date: 2017-06-29T19:00:00
 publishDate: 2017-06-30
 tags:
 title: "Java dans Raspberry 3"
-videos:
+##videos:
 ---
 
 ## Date et lieu

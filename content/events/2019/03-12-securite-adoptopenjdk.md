@@ -3,7 +3,7 @@ date: 2019-03-12T19:00:00
 publishDate: 2019-03-06
 tags:
 title: "Steve Poole - Sécurité et AdoptOpenJDK"
-videos:
+#videos:
 ---
 
 ## Date et lieu

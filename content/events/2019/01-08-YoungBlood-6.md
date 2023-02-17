@@ -3,7 +3,7 @@ date: 2019-01-08T19:00:00
 publishDate: 2019-01-02
 tags:
 title: "Young blood VI"
-videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -27,6 +27,8 @@ Suivez aussi le Parisjug sur Twitter(@parisjug) pour être informé rapidement.
 * Les inscrits à l'évènement non présents 5 min avant le début de la session, soit à 19h25, verront leur place remise à disposition
 * Les non inscrits à l'évènement ne pourront donc y assister que sous réserve de places disponibles sur place 5 min avant le début de la session, soit à 19h25.
   L’inscription implique de posséder une adresse mail valide sur laquelle vous recevrez une demande de confirmation à laquelle il vous faudra répondre afin de valider votre inscription. Toute inscription non confirmée ne sera pas prise en compte !
+
+
 
 ## Détails
 

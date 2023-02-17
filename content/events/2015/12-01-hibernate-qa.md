@@ -4,7 +4,7 @@ date: 2015-12-01T19:30:00
 publishDate: 2016-01-18
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-  - Hibernate
+- database
 title: "Soirée Soirée questions / réponses avec l'équipe Hibernate ORM, Validator, Search..."
 # videos:
 #   - https://www.youtube.com/watch?v=xxxxxxx

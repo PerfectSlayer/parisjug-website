@@ -2,13 +2,14 @@
 date: 2021-01-12T19:00:00
 publishDate: 2021-01-12
 tags:
-  - young blood
+- test
+- young blood
 title: "Soirée Virtuelle : Young Blood VIII"
 videos:
-  - https://www.youtube.com/watch?v=uWGT5VTqVIU
-  - https://www.youtube.com/watch?v=Gt4Bt83nQ14
-  - https://www.youtube.com/watch?v=iHgaZhf_Y-M
-  - https://www.youtube.com/watch?v=z0ogEVX5B7M
+- https://www.youtube.com/watch?v=uWGT5VTqVIU
+- https://www.youtube.com/watch?v=Gt4Bt83nQ14
+- https://www.youtube.com/watch?v=iHgaZhf_Y-M
+- https://www.youtube.com/watch?v=z0ogEVX5B7M
 ---
 
 ## Date et lieu
@@ -18,7 +19,7 @@ videos:
 
 La soirée young blood est une volonté d'offrir aux personnes n'ayant jamais fait de présentation de se lancer.
 
-Cliquez ici pour en savoir plus sur le format Young Blood.
+[Consulter toutes nos soirées Young Blood.]({{< ref "/tags/young-blood" >}})
 
 ## Détails
 

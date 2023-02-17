@@ -2,8 +2,11 @@
 date: 2018-10-09T19:00:00
 publishDate: 2018-10-03
 tags:
+- cloud
+- kubernetes
+- tools
 title: "Container Tools"
-videos:
+#videos:
 ---
 
 ## Date et lieu

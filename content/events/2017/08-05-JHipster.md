@@ -3,7 +3,7 @@ date: 2017-05-09T19:00:00
 publishDate: 2017-05-13
 tags:
 title: "Soirée JHipster"
-videos:
+##videos:
 ---
 
 ## Date et lieu

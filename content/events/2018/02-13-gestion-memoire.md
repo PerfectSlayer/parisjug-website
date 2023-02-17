@@ -2,8 +2,10 @@
 date: 2018-02-13T19:00:00
 publishDate: 2018-02-06
 tags:
+- jvm
+- tools
 title: "Boîte à outils mémoire de la JVM"
-videos:
+#videos:
 ---
 
 ## Date et lieu
