@@ -2,7 +2,6 @@
 date: 2014-14-10T19:00:00
 publishDate: 2015-02-23
 tags:
-- collections
 - java
 title: "Soirée Java 8 l'API Stream"
 ---
