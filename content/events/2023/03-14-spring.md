@@ -18,17 +18,29 @@ title: "Soirée Spring"
 
 ### 18h45 à 19h00: Accueil
 
-### 19h30 :
+### 19h30 : GraalVM Native et Spring Boot 3
 
-Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}}) et [Stéphane Nicoll]({{< ref "/speakers/stephane-nicoll.md" >}})
+Comment compiler une application Spring en code natif et profiter d’un temps de démarrage rapide et d’une consommation mémoire réduite ?
+
+Pendant cette session, Brian va présenter le moteur AOT qui permet aux applications Spring d’adopter la technologie GraalVM Native images.
+
+Comment procéder, quelles sont les limitations, comment participer à la communauté GraalVM ? Nous évoquerons tous ces points en utilisant une application exemple.
+
+Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}})
 
 ### 20h30 : Buffet
 
 [{{< figure src="/img/sponsors/2023/criteo.svg" alt="Criteo" class="sponsor-svg-logo" width="250" >}}](https://www.criteo.com/fr/)
 
-### 21h00 :
+### 21h00 : Spring Framework 6
 
-Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}}) et [Stéphane Nicoll]({{< ref "/speakers/stephane-nicoll.md" >}})
+La nouvelle génération de Spring Framework est arrivée ! Nous discuterons des nouveaux prérequis pour les applications, de comment aborder les mises à jour et des nouvelles fonctionnalités.
+
+En plus du support GraalVM Native, nous verrons comment utiliser « Problem Details », les « Java Interface Clients » ou encore profiter de l’observabilité dans nos applications.
+
+Il sera aussi temps d’évoquer la roadmap de Spring Framework 6.1 et des nouveautés attendues.
+
+Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}})
 
 
 ### 22h00 : 3ème mi-temps des juggers
