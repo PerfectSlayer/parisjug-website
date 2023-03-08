@@ -3,7 +3,7 @@ date: 2023-03-14T19:00:00
 publishDate: 2023-02-10
 tags:
 - spring
-#register: "TODO"
+register: "https://eventbrite.fr/tickets-external?eid=576387599827&ref=etckt"
 title: "Soirée Spring"
 #videos:
 ---
