@@ -9,3 +9,5 @@ Le Paris JUG est un groupe d'utilisateurs Java ayant pour but de réunir les act
 Nous nous rencontrons le deuxième mardi du mois.
 Les réunions sont gratuites, ouvertes à tous et consistent en une présentation technique, une démonstration d'un produit, ou une table ronde.
 Après la réunion nous nous retrouvons généralement pour un échange informel autour d'un verre et d'un petit buffet.
+
+{{<figure src="devoxxfr-2023.jpg" alt="Devoxx France 2023" class="sponsor-svg-logo" width="400px" link="https://www.devoxx.fr" target="_blank">}}
