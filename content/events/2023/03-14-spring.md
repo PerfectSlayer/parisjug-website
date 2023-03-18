@@ -5,7 +5,9 @@ tags:
 - spring
 register: "https://eventbrite.fr/tickets-external?eid=576387599827&ref=etckt"
 title: "Soirée Spring"
-#videos:
+videos:
+- https://www.youtube.com/watch?v=5aZtF5stYeU
+- https://www.youtube.com/watch?v=1-O4i7AvFPc
 ---
 ## Date et lieu
 
