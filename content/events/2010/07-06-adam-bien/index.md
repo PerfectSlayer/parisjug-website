@@ -68,7 +68,7 @@ The complexity and bloat often associated with Java EE are largely due to the in
 * [Présentation Duchess France au Paris JUG](http://jduchess.org/duchess-france/blog/presentation-duchess-france-au-paris-jug-soiree-adam-bien/) (JDuchess)
 * [Lightweight killer apps with nothing but vanilla Java EE 6 DDD vs SOA](http://jduchess.org/duchess-france/blog/lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6-ddd-vs-soa/) (JDuchess)
 * [EJB 3.x lightweight killer apps but nothing more than Adam in action](http://jduchess.org/duchess-france/blog/ejb-3-x-lightweight-killer-apps-but-nothing-more-than-adam-in-action/) (JDuchess)
-* [Java EE, le mal aimé, fait son retour en force](http://blog.objetdirect.com/javaee/java-ee-le-retour) (Objet Direct)
+* Java EE, le mal aimé, fait son retour en force (Objet Direct)
 
 ### Télécharger la présentation
 

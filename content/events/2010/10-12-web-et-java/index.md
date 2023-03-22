@@ -73,8 +73,8 @@ Un an après, 100 000 téléchargements plus tard.
 ### Blog post sur la présentation
 
 * [Soirée Java et le web](http://www.touilleur-express.fr/2010/10/13/java-et-le-web-au-paris-jug/) (Le touilleur)
-* [Retour sur le Paris JUG d'octobre](http://www.insideit.fr/post/2010/10/13/Retour-sur-le-Paris-JUG-d-Octobre) (Inside IT)
-* [Compte-Rendu du Paris-JUG sur les technologies web](http://blog.courtine.org/2010/10/15/compte-rendu-du-paris-jug-sur-les-technologies-web/) (Blog courtine)
+* Retour sur le Paris JUG d'octobre (Inside IT)
+* Compte-Rendu du Paris-JUG sur les technologies web (Blog courtine)
 * [Avant JUG des duchesses](http://jduchess.org/duchess-france/blog/soiree-framework-purement-web-1210/) (Duchess)
 * [Paris JUG Octobre (I) – Ruby On Rails et HTML 5](http://jduchess.org/duchess-france/blog/paris-jug-octobre-i-ruby-on-rails-et-html-5/) (Duchess)
 * [Paris Jug Octobre (II) – Play!](http://jduchess.org/duchess-france/blog/paris-jug-octobre-ii-play/) (Duchess)
