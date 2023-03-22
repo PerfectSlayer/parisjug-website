@@ -26,7 +26,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 Si le Cloud apporte beaucoup de bénéfices, il a aussi ses règles du jeu. Venez découvrir les design patterns des applications "production ready" sur le Cloud. Nous ne nous limiterons pas aux sujets glamours comme la scalabilité ou la haute disponibilité ; nous couvrirons aussi les sujets "prod" comme monitoring, l'automatisation, et la réversibilité. CloudBees, Heroku, Amazon Beanstalk ... vous aurez les clefs pour réussir vos applications Java sur ces plateformes.
 
-Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-leclerc.md" >}})
+Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 

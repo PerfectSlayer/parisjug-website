@@ -14,7 +14,7 @@ title: "Soirée Scala"
 
 ## Date et lieu
 
-{{< figure src="20100413scala.jpg" alt="Soirée Scala" class="sponsor-gold-svg-logo" >}}
+{{< figure src="20100413scala.png" alt="Soirée Scala" class="sponsor-gold-svg-logo" >}}
 
 * Mardi 11 mai 2010
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})

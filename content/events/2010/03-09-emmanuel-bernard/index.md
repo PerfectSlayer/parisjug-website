@@ -6,7 +6,7 @@ publishDate: 2015-03-05
 tags:
 - hibernate
 - apidesign
-title: "Soirée Scala"
+title: "Soirée Emmanuel Bernard"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
 ---

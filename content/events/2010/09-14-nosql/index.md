@@ -5,7 +5,7 @@ publishDate: 2015-05-03
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - nosql
-title: "Soirée Java Avancé"
+title: "Soirée NoSQL"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
 ---

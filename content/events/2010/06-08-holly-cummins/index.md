@@ -5,7 +5,7 @@ publishDate: 2015-05-03
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - performances
-title: "Soirée Java Avancé"
+title: "Soirée Holly Cummins"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx
 ---

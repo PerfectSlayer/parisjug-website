@@ -46,7 +46,7 @@ Code freeze, merges douloureux, installation et administration d'un serveur, sau
 
 Sur les premiers projets Java, on nous a poussé à renoncer à notre bon vieux makefile pour utiliser Ant. Une fois cet outil pris en main, on nous a vendu un certain Maven. Celui-ci à peine maîtrisé, c'est un Maven 2 qui est apparu, nous obligeant à revoir intégralement notre build. Voici que Maven 3 pointe le bout de son nez, va-t-il encore falloir tout refaire ? Qu'est ce que cela va changer pour nous ?
 
-**Intervenant** : [Arnaud Heritier]({{< ref "/speakers/arnaud-heritier.md" >}}), [Nicolas De Loof]({{< ref "/speakers/nicolas-de-loof.md" >}})
+**Intervenant** : [Arnaud Heritier]({{< ref "/speakers/arnaud-heritier.md" >}}), [Nicolas De Loof]({{< ref "/speakers/nicolas-deloof.md" >}})
 
 
 ### 21h40 à 22h10 : DeployIt
