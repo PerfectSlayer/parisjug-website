@@ -70,7 +70,7 @@ Scala est un langage alternatif pour la machine virtuelle Java. Fonctionnel, ori
 
 * Merci Paris Jug ! (Xebia)
 * [Soirée Scala au Paris JUG](http://www.touilleur-express.fr/2010/04/18/soiree-scala-au-paris-jug/) (Le Touilleur Express)
-* [Paris Jug : retour sur la soirée Scala](http://jduchess.org/duchess-france/paris-jug-retour-sur-la-soiree-scala/) (Duchess)
+* [Paris Jug : retour sur la soirée Scala](https://www.duchess-france.fr/les-conferences/2010/04/15/paris-jug-retour-sur-la-soiree-scala.html) (Duchess)
 
 ### Télécharger la présentation
 

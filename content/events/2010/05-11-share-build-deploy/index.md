@@ -83,5 +83,5 @@ Le déploiement d'applications J2EE reste un processus complexe, peu industriali
 
 * [La soirée du 11 mai 2010 au Paris JUG : Git, DVCS et l’eXpress-Board](http://www.touilleur-express.fr/2010/05/12/la-soiree-du-11-mai-2010-au-paris-jug-git-dvcs-et-lexpress-board/) (Le Touilleur Express)
 * Compte-rendu du Paris JUG : soirée Build, Share & Deploy (Excilys)
-* [Paris JUG de mai : Build, Share & Deploy jusqu’au bout de la nuit](http://jduchess.org/duchess-france/paris-jug-de-mai-build-share-deploy-jusquau-bout-de-la-nuit-1/) (Duchess)
+* [Paris JUG de mai : Build, Share & Deploy jusqu’au bout de la nuit](https://www.duchess-france.fr/les-conferences/2010/05/15/paris-jug-de-mai-build-share-deploy-jusquau-bout-de-la-nuit.html) (Duchess)
 * Paris JUG mai 2010 : Soirée Share, Build & Deploy (Object Direct)

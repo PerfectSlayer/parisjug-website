@@ -62,7 +62,7 @@ Outerthought is the maker of the Daisy CMS since quite a few years, but set out 
 
 * [Soirée NoSQL au Paris JUG](http://www.touilleur-express.fr/2010/09/15/soiree-nosql-au-parisjug/) (Le touilleur)
 * [NoSQL au Paris JUG](https://jetoile.blogspot.com/2010/09/nosql-au-paris-jug.html) (jetoile)
-* [NoSQL par les duchesses](http://jduchess.org/duchess-france/blog/soiree-nosql-au-parisjug-1409/) (Duchess)
-* [Paris JUG Septembre (I) – Introduction NoSQL par Olivier Mallassi et Michaël Figuière](http://jduchess.org/duchess-france/blog/paris-jug-septembre-i-introduction-nosql-par-olivier-mallassi-et-michael-figuiere/) (Duchess)
-* [Paris JUG Septembre (II) – CMS on top of NoSQL by Steven Noels](http://jduchess.org/duchess-france/blog/paris-jug-septembre-ii-cms-on-top-of-nosql-by-steven-noels/) (Duchess)
+* [NoSQL par les duchesses](https://www.duchess-france.fr/les-conferences/2010/09/08/soiree-nosql-au-parisjug-1409.html) (Duchess)
+* [Paris JUG Septembre (I) – Introduction NoSQL par Olivier Mallassi et Michaël Figuière](https://www.duchess-france.fr/les-conferences/2010/09/21/paris-jug-septembre-i-introduction-nosql-par-olivier-mallassi-et-michael-figuiere.html) (Duchess)
+* [Paris JUG Septembre (II) – CMS on top of NoSQL by Steven Noels](https://www.duchess-france.fr/les-conferences/2010/09/21/paris-jug-septembre-ii-cms-on-top-of-nosql-by-steven-noels.html) (Duchess)
 * [Soirée NoSQL au ParisJUG](http://blog.xebia.fr/2010/09/10/soiree-nosql-au-parisjug/) (Xebia)

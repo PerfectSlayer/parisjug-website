@@ -62,12 +62,12 @@ The complexity and bloat often associated with Java EE are largely due to the in
 
 * [Le Paris JUG et l'Avant JUG](http://blog.xebia.fr/2010/07/06/revue-de-presse-xebia-166/#LeParisJUGetlAvantJUG) (Xebia)
 * [Soiree Paris JUG Java EE 6 par Adam Bien](http://www.touilleur-express.fr/2010/07/07/soiree-paris-jug-java-ee-6-par-adam-bien/) (Le Touilleur Express)
-* [Soiree Adam Bien au Paris JUG](http://jduchess.org/duchess-france/blog/soiree-adam-bien-au-paris-jug-0607/) (Duchess)
+* [Soiree Adam Bien au Paris JUG](https://www.duchess-france.fr/les-conferences/2010/06/30/soiree-adam-bien-au-paris-jug-0607.html) (Duchess)
 * [Paris JUG Java EE 6 par Adam Bien](http://thecodersbreakfast.net/index.php?post/2010/07/06/Paris-JUG-Java-EE-6-par-Adam-Bien) (The Coders Breakfast)
 * [A day in Paris with Java EE 6](http://www.adam-bien.com/roller/abien/entry/a_day_in_paris_with) (Adam Bien)
-* [Présentation Duchess France au Paris JUG](http://jduchess.org/duchess-france/blog/presentation-duchess-france-au-paris-jug-soiree-adam-bien/) (JDuchess)
-* [Lightweight killer apps with nothing but vanilla Java EE 6 DDD vs SOA](http://jduchess.org/duchess-france/blog/lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6-ddd-vs-soa/) (JDuchess)
-* [EJB 3.x lightweight killer apps but nothing more than Adam in action](http://jduchess.org/duchess-france/blog/ejb-3-x-lightweight-killer-apps-but-nothing-more-than-adam-in-action/) (JDuchess)
+* [Présentation Duchess France au Paris JUG](https://www.duchess-france.fr/duchess-agit/les-conferences/2010/07/11/presentation-duchess-france-au-paris-jug-soiree-adam-bien.html) (JDuchess)
+* [Lightweight killer apps with nothing but vanilla Java EE 6 DDD vs SOA](https://www.duchess-france.fr/les-conferences/tech/2010/07/13/ddd-vs-soa-lightweight-killer-apps-with-nothing-but-vanilla-java-ee-6.html) (JDuchess)
+* [EJB 3.x lightweight killer apps but nothing more than Adam in action](https://www.duchess-france.fr/les-conferences/tech/2010/07/13/ejb-3-x-lightweight-killer-apps-but-nothing-more-than-adam-in-action.html) (JDuchess)
 * Java EE, le mal aimé, fait son retour en force (Objet Direct)
 
 ### Télécharger la présentation

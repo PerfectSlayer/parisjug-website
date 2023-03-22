@@ -65,9 +65,9 @@ Au cours de la conférence, Olivier Croisier reviendra tout d'abord sur le princ
 
 ### Blog post sur la présentation
 
-- [Soirée Java Avancé – Paris JUG Décembre 2010 pour finir en beauté](http://jduchess.org/duchess-france/blog/soiree-java-avance-paris-jug-decembre-2010-pour-finir-en-beaute/)(JDuchess)
+- [Soirée Java Avancé – Paris JUG Décembre 2010 pour finir en beauté](https://www.duchess-france.fr/les-conferences/2010/12/07/soiree-java-avance-paris-jug-decembre-2010-pour-finir-en-beaute.html)(JDuchess)
 - [Conférence sur les Annotations au Paris JUG](http://blog.zenika.com/index.php?post/2010/12/15/Conf%C3%A9rence-sur-les-Annotations-au-Paris-JUG) (Zenika)
-- [Soirée Java Avancé : Les annotations – Paris JUG Décembre](http://jduchess.org/duchess-france/blog/soiree-java-avance-les-annotations-paris-jug-decembre/) (JDuchess)
+- [Soirée Java Avancé : Les annotations – Paris JUG Décembre](https://www.duchess-france.fr/les-conferences/2010/12/22/soiree-java-avance-les-annotations-paris-jug-decembre.html) (JDuchess)
 
 ### Télécharger les présentations
 

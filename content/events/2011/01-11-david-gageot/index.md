@@ -61,7 +61,7 @@ Offert par [Objectif Informatique](http://www.objectif-informatique.fr/)
 * [Soiree tests avec David Gageot au Paris JUG](http://blog.ippon.fr/2011/01/12/soiree-tests-avec-david-gageot-au-paris-jug/) (ippon)
 * [Soirée David Gageot au Paris JUG : les tests](http://www.touilleur-express.fr/2011/01/15/david-gageot/) (Le Touilleur Express)
 * [Paris JUG du 11 Janvier: Tu testes pas? T’es so 2010!](http://blog.proxiad.com/2011/01/15/paris-jug-du-11-janvier-tu-testes-pas-tes-so-2010/) (ProxiAD)
-* [Soirée David Gageot : les tests unitaires au Paris JUG](http://jduchess.org/duchess-france/blog/soiree-david-gageot-les-tests-unitaires-au-paris-jug/) (Duchess)
+* [Soirée David Gageot : les tests unitaires au Paris JUG](https://www.duchess-france.fr/les-conferences/2011/01/19/soiree-david-gageot-les-tests-unitaires-au-paris-jug.html) (Duchess)
 
 ### Télécharger la présentation
 

@@ -76,8 +76,8 @@ The Enterprise OSGi specification provides a compelling programming model for cr
 
 * [Les geeks d’Octo au Paris JUG](http://blog.octo.com/geeks-octo-paris-jug/) (Octo)
 * Soiree Holly Cummins au Paris JUG (Le Torréfacteur Express)
-* [Paris JUG de juin rencontre avec Holly Cummins (1)](http://jduchess.org/duchess-france/blog/parisjug-de-juin-rencontre-avec-holly-cummins-1/) (JDuchess)
-* [Paris JUG de juin rencontre avec Holly Cummins (2)](http://jduchess.org/duchess-france/blog/parisjug-de-juin-rencontre-avec-holly-cummins-2/) (JDuchess)
+* [Paris JUG de juin rencontre avec Holly Cummins (1)](https://www.duchess-france.fr/les-conferences/2010/06/14/parisjug-de-juin-rencontre-avec-holly-cummins-1.html) (JDuchess)
+* [Paris JUG de juin rencontre avec Holly Cummins (2)](https://www.duchess-france.fr/les-conferences/2010/06/15/parisjug-de-juin-rencontre-avec-holly-cummins-2.html) (JDuchess)
 * [Paris JUG Holly Cummins](http://thecodersbreakfast.net/index.php?post/2010/06/08/Paris-JUG-Holly-Cummins) (The Coders Breakfast)
 
 ### Télécharger la présentation

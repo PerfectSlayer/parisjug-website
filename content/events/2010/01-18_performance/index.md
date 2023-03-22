@@ -1,5 +1,4 @@
----
-date: 2010-01-18T19:00:00
+--- date: 2010-01-18T19:00:00
 #draft: true
 publishDate: 2015-02-23
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"

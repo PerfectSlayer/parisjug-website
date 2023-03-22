@@ -59,7 +59,7 @@ Comme la soirée Chuck Norris, la soirée Emmanuel Bernard n'a pas besoin de suj
 
 * [Paris JUG "Emmanuel Bernard"](http://thecodersbreakfast.net/index.php?post/2010/03/06/Paris-JUG-Emmanuel-Bernard) (Coder's Breakfast)
 * [Soiree Emmanuel Bernard au Paris Jug](http://www.touilleur-express.fr/2010/03/10/soiree-emmanuel-bernard-au-paris-jug/) (Le Touilleur Express)
-* [Paris JUG : La soirée Emmanuel Bernard](http://jduchess.org/duchess-france/?p=3) (Duchess)
+* [Paris JUG : La soirée Emmanuel Bernard](https://www.duchess-france.fr/les-conferences/2010/03/15/paris-jug-la-soiree-emmanuel-bernard.html) (Duchess)
 
 
 ### Télécharger la présentation

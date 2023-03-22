@@ -3,7 +3,7 @@ defaultContentLanguage = 'fr'
 languageCode = 'fr-fr'
 title = 'Paris Java User Group'
 theme = 'mainroad'
-googleAnalytics = "UA-62610761-1" 
+googleAnalytics = "UA-62610761-1"
 
 [Params]
   description = "Bienvenue au Paris Java User Group !" # Site description. Used in meta description
