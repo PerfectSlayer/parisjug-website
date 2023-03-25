@@ -120,7 +120,21 @@ figure.sponsor-svg-logo img {
     max-width: 600px;
     max-height: 300px;
 }
-
+figure.sponsor-p-svg-logo {
+    text-align: center;
+}
+figure.sponsor-p-svg-logo img {
+    text-align: center;
+    max-width: 600px;
+    max-height: 300px;
+}
+figure.sponsor-g-svg-logo {
+    text-align: center;
+}
+figure.sponsor-g-svg-logo img {
+    max-width: 300px;
+    max-height: 150px;
+}
 /*
  * Sidebar.
  */
