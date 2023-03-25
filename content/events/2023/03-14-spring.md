@@ -49,4 +49,6 @@ Par [Brian Clozel]({{< ref "/speakers/brian-clozel.md" >}})
 
 {{< replay-section >}}
 
+{{< sponsor-section >}}
+
 {{% coc-section %}}

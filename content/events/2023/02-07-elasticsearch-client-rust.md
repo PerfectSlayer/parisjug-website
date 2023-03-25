@@ -46,4 +46,6 @@ Et comme un langage n'est rien sans son écosystème, nous verrons comment déve
  
 {{< replay-section >}}
 
+{{< sponsor-section >}}
+
 {{% coc-section %}}

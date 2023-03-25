@@ -51,26 +51,7 @@ The Enterprise OSGi specification provides a compelling programming model for cr
 
 ### 22h00 à  ... : 3ème mi-temps des juggers au [Vavin](https://www.google.com/maps/dir//48.84398,2.330533/@48.8439685,2.2603067,12z)
 
-### Sponsors de l'évènement
-
-#### Platinium
-
-{{< figure src="/img/sponsors/2010/xebia75.png" alt="Xebia" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/zenika50.png" alt="Zenika" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/objetDirect70.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/novediaVision60.png" alt="Novedia" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/sfeir40.png" alt="Sfeir" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/oxiane50.png" alt="Oxiane" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/fastConnect60.png" alt="Fast Connect" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/valtech50.png" alt="Valtech" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/ibmCDWLogo1.png" alt="IBM" class="sponsor-g-svg-logo" >}}
-
-#### Gold
-
-{{< figure src="/img/sponsors/2010/soat110.jpg" alt="Soat" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/ipponLogo1.png" alt="Ippon" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/inFineLogo1.png" alt="In Fine" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/objectifInfoLogo1.png" alt="Objectif" class="sponsor-g-svg-logo" >}}
+{{< sponsor-section >}}
 
 ### Blog post sur la présentation
 

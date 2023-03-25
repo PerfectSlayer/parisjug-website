@@ -97,14 +97,14 @@ Cette présentation donne un aperçue des possibilités du Play! framework. Play
 {{< figure src="/img/sponsors/2010/novediaVision60.png" alt="Novedia" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2010/sfeir40.png" alt="Sfeir" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2010/oxiane50.png" alt="Oxiane" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/fastConnect60.png" alt="Fast Connect" class="sponsor-g-svg-logo" >}}
+{{< figure src="/img/sponsors/2010/fastConnect60.jpg" alt="Fast Connect" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2010/valtech50.png" alt="Valtech" class="sponsor-g-svg-logo" >}}
 
 #### Gold
 
 {{< figure src="/img/sponsors/2010/ibmCDWLogo1.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2010/pyxis40.png" alt="Pyxis" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2010/soat110.jpg" alt="Soat" class="sponsor-p-svg-logo" >}}
+{{< figure src="/img/sponsors/2010/soat110.png" alt="Soat" class="sponsor-p-svg-logo" >}}
 
 
 ### Blog post sur la présentation
