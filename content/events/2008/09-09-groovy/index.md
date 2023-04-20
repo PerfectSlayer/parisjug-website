@@ -1,16 +1,9 @@
 ---
 date: 2008-09-09T19:00:00
-#draft: true
 publishDate: 2008-09-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- groovy
-- script
-- grails
+- alternative languages
 title: "Soirée Groovy"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

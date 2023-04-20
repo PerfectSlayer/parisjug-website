@@ -1,15 +1,10 @@
 ---
 date: 2008-04-08T19:00:00
-#draft: true
 publishDate: 2008-04-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
 - test
 - performance
 title: "The Box"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -34,7 +29,9 @@ title: "The Box"
 
 ### 19h à 19h15 : Accueil
 
-### 19h15 à 20h00 : The Box - Les performances Java _La présentation est en anglais_
+### 19h15 à 20h00 : The Box - Les performances Java
+
+ _La présentation est en anglais_
 
 Concurrency & High Performance with Kirk Pepperdine from Kodewerk Ltd, Sun Java Champion and co-author, ANT Developer's Handbook.
 
@@ -44,10 +41,10 @@ In this talk, we will look at the trend towards more and more cores and what thi
 
 What will be covered:
 
-    What's behind the trend towards concurrency;
-    What developers must be prepared for with concurrency moving forward;
-    What concurrency looked like in earlier JDKs, and how it's evolved today;
-    How you can tell if you have a performance bottleneck because of concurrency.
+* What's behind the trend towards concurrency;
+* What developers must be prepared for with concurrency moving forward;
+* What concurrency looked like in earlier JDKs, and how it's evolved today;
+* How you can tell if you have a performance bottleneck because of concurrency.
 
 Par [Kirk Pepperdine]({{< ref "/speakers/kirk-pepperdine.md" >}})
 
@@ -68,7 +65,6 @@ Le Paris JUG est ouvert à tous. Utilisez ce moment pour poser vos questions et 
 
 ### Post (blog) sur la présentation
 
-* Puzzle and Juggle (Paris JUG)
 * [Kirk Pepperdine au Paris JUG (Xebia)](http://blog.xebia.fr/2008/04/14/revue-de-presse-xebia-52/#PJUG)
 * [Présentation de Kirk Pepperdine au Paris Java User Group (Le Touilleur Express)](http://www.touilleur-express.fr/2008/04/09/presentation-de-kirk-pepperdine-au-paris-java-user-group/)
 * [Troisième rencontre du Paris Java User Group (Java Bien !)](http://sunchic.free.fr/wordpress/index.php/archives/2008/04/09/troisieme-rencontre-du-paris-java-user-group/)

@@ -1,18 +1,9 @@
 ---
 date: 2008-05-13T19:00:00
-#draft: true
 publishDate: 2008-05-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- test
-- performance
-- productivité
-- maven
-- apache
+- tools
 title: "Productivité des développements Java & Maven à la demande"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

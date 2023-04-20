@@ -1,15 +1,9 @@
 ---
 date: 2008-03-11T19:00:00
-#draft: true
 publishDate: 2008-03-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
 - test
-- selenium
 title: "Selenium"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

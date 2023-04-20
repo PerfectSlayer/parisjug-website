@@ -1,21 +1,15 @@
 ---
 date: 2008-02-12T19:00:00
-#draft: true
 publishDate: 2008-02-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- parisjug
 title: "Qu'est-ce que le Paris JUG ?"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
 
 {{< figure src="pj20080212001Small.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
 
-{{< figure src="./2263909398e4cd104a1d.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
+{{< figure src="2263909398e4cd104a1d.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
 
 {{< figure src="22631187851f7c3dfeaa.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
 
@@ -50,7 +44,6 @@ Le Paris JUG est ouvert à tous. Utilisez ce moment pour poser vos questions et 
 
 ### Post (blog) sur la présentation
 
-* [Paris JUG Inauguration](https://www.parisjug.org/xwiki/wiki/oldversion/view/Blog/ParisJUGInauguration) (Paris JUG)
 * [Paris a enfin son Java User Group](http://www.programmez.com/actualites.php?id_actu=2728) (Programmez)
 * [Inauguration du Paris Java User Group](http://blog.developpez.com/java?title=inauguration_du_paris_java_user_group) (Developpez.com)
 * [PJUG Paris : Compte-rendu de la réunion de lancement](http://www.touilleur-express.fr/2008/02/13/pjug-paris-compte-rendu-de-la-reunion-de-lancement/) (Le Touilleur Express)

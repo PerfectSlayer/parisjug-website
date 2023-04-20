@@ -1,16 +1,11 @@
 ---
 date: 2008-06-10T19:00:00
-#draft: true
 publishDate: 2008-06-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
 - spring
+- test
 - security
-- jmock
 title: "Soirée Spring"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -43,11 +38,13 @@ et [Jean François Hélie]({{< ref "/speakers/jean-francois-helie.md" >}})
 
 ### 20h00 à 20h30 : Buffet
 
-### 20h30 à 21h30 : Table ronde sur l'ouverture du JCP _La présentation est en anglais_
+### 20h30 à 21h30 : Table ronde sur l'ouverture du JCP
+
+_La présentation est en anglais_
 
 La table ronde est sur le thème de l'ouverture du JCP. Elle est constituée de Spec Leads et d'Expert Members (Guillaume Laforge, Cedric Thomas, Eric Samson et Antonio Goncalves) et modérée par Patrick Curran.
 
-### 21h30 à 22h30 : Les dernières nouveautés Spring «à la source»
+### 21h30 à 22h30 : Les dernières nouveautés Spring « à la source »
 
 Présentation de Spring et des projets associés (Spring Security, Spring Webflow, Spring Batch, Spring WS, etc… et aussi Apache, Tomcat, ActiveMQ).
 

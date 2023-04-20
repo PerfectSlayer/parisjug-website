@@ -1,15 +1,9 @@
 ---
 date: 2008-07-08T19:00:00
-#draft: true
 publishDate: 2008-07-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- flex
-- mda
-- web 2.0
+- design
 title: "MDA et Flex"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

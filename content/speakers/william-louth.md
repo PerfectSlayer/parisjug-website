@@ -1,6 +1,5 @@
 ---
 title: "William Louth"
-twitter: "autoletics"
 ---
 
 William Louth is the CTO at JINSPIRED BV and the product architect of
