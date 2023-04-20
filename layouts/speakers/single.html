@@ -1,13 +1,14 @@
 {{ define "main" }}
 <main class="main" role="main">
 	<article class="post">
-        {{- if .Params.twitter }}
-        {{- $profileUrl := .Params.twitter | printf "%s%s" "https://unavatar.io/twitter/" }}
-        {{- $originalImage := resources.GetRemote $profileUrl }}
-        {{- $image := $originalImage.Resize "128x128" }}
-        <a href="https://twitter.com/{{ .Params.twitter }}" title="{{ .Title }} Twitter profile" target="_blank">
-            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile avatar" alt="{{ .Title }} profile picture">
-        </a>
+        {{- if and .Params.twitter .Site.Params.Twitter }}
+			{{- $twitterApiHeaders := dict "authorization" .Site.Params.Twitter }}
+			{{- $twitterUser := getJSON "https://api.twitter.com/1.1/users/show.json?screen_name=" .Params.twitter $twitterApiHeaders }}
+			{{- $originalImage := resources.GetRemote (replace $twitterUser.profile_image_url_https "_normal" "") }}
+			{{- $image := $originalImage.Resize "128x128" }}
+		<a href="https://twitter.com/{{ .Params.twitter }}" title="{{ .Title }} Twitter profile" target="_blank">
+			<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="speaker-profile avatar" alt="{{ .Title }} profile picture">
+		</a>
         {{- end }}
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
