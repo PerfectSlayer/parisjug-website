@@ -120,21 +120,25 @@ figure.sponsor-svg-logo img {
     max-width: 600px;
     max-height: 300px;
 }
-figure.sponsor-p-svg-logo {
+
+/* Clean up start */
+figure.sponsor-platinium-logo {
     text-align: center;
 }
-figure.sponsor-p-svg-logo img {
+figure.sponsor-platinum-logo img {
     text-align: center;
     max-width: 600px;
     max-height: 300px;
 }
-figure.sponsor-g-svg-logo {
+figure.sponsor-gold-logo {
     text-align: center;
 }
-figure.sponsor-g-svg-logo img {
+figure.sponsor-gols-logo img {
     max-width: 300px;
     max-height: 150px;
 }
+/* Clean up end */
+
 /*
  * Sidebar.
  */

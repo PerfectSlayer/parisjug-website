@@ -4,6 +4,7 @@ date: 2010-06-08T19:00:00
 publishDate: 2015-05-03
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- jee
 - performances
 title: "Soirée Holly Cummins"
 #videos:

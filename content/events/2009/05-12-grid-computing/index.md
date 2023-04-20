@@ -1,18 +1,9 @@
 ---
 date: 2009-05-12T19:00:00
-#draft: true
 publishDate: 2009-05-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- grid computing
-- cache
-- networks
-- data grid
-- 
+- cloud 
 title: "Soirée Grid Computing"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -59,7 +50,9 @@ Le concept de data grid s'est popularisé avec les services Google Big Table ou 
 
 * Qu'est-ce qu'une grille de donnée ? Comment ça marche ?
 
-Intervenants : Erwan Alliaume, Jean-Michel Bea et Cyrille Le Clerc
+Par [Erwan Alliaume]({{< ref "/speakers/erwan-alliaume.md" >}}), 
+[Jean-Michel Bea]({{< ref "/speakers/jean-michel-bea.md" >}}), 
+et [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}})
 
 ### 20h30 à 21h : Buffet offert par la société Zero Turnaround
 
@@ -78,8 +71,8 @@ Les grilles de données vont-elles remplacer les base de donneés traditionnelle
 
 Data Grid, Grid Computing, Cloud Computing et eXtreme Transaction Processing (XTP) sont fréquement associés. Comment positionner Data Grid par rapport à ces technologies ? Quels positionnement ont les acteurs de cet univers ? Amazon S3&EC2 ? Coherence ? Gigaspace ? Google App engine & Big Table ? Grid Gain ? Terracotta ? Websphere eXtreme Scale ? Et les mainframes dans tous ça ? ;-)
 
-Par [Erwan Alliaume]({{< ref "/speakers/erwan-alliaume.md" >}}),
-[Jean-Michel Bea]({{< ref "/speakers/jean-michel-bea.md" >}})
+Par [Erwan Alliaume]({{< ref "/speakers/erwan-alliaume.md" >}}), 
+[Jean-Michel Bea]({{< ref "/speakers/jean-michel-bea.md" >}}), 
 et [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}})
 
 ### 21h35 à 22h05 : "How to stop waiting for build/deploy and enjoy coding again" - Also known as "Watching the logs roll by" _Présentation en anglais_
@@ -90,7 +83,7 @@ In this talk, Jevgeni Kabanov will highlight three key techniques that you can s
 
 After this talk, you will leave with a clear idea of at least three ways to reduce your turnaround, and measurably save your team at least an hour per day.
 
-Par [Jevgeni Kabanov]({{< ref "/speakers/jevgeni-kabanov.md" >}}),
+Par [Jevgeni Kabanov]({{< ref "/speakers/jevgeni-kabanov.md" >}})
 
 ### 22h30 à ... : 3ème mi-temps des juggers au [Falstaff](https://goo.gl/maps/NSxajnfvVtjHuggeA)
 

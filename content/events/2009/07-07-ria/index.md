@@ -1,16 +1,9 @@
 ---
 date: 2009-07-07T19:00:00
-#draft: true
 publishDate: 2009-07-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- flex
-- javafx
-- ria
+- jee
 title: "Soirée RIA"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

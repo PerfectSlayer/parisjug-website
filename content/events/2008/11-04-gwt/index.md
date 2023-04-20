@@ -1,22 +1,8 @@
 ---
 date: 2008-11-04T19:00:00
-#draft: true
 publishDate: 2008-11-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- GWT
-- Javascript
-- Ajax
-- browser
-- standard
-- Gears
-- Flex
-- Silverlight
-- RIA
 title: "Soirée GWT"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

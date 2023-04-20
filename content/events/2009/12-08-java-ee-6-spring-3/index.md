@@ -4,11 +4,8 @@ date: 2009-12-08T19:00:00
 publishDate: 2009-12-01
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
+- jee
 - spring
-- java EE
-- ejb
-- standard
 title: "Soirée Java EE 6 et Spring 3.0"
 #videos: 
 #- https://www.youtube.com/watch?v=xxxx

@@ -1,18 +1,9 @@
 ---
 date: 2009-06-09T19:00:00
-#draft: true
 publishDate: 2009-06-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - java
-- annotation
-- generics
-- semantics
-- api
-- concurrency
 title: "Soirée Java Avancé"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

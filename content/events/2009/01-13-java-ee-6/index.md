@@ -1,16 +1,9 @@
 ---
 date: 2009-01-13T19:00:00
-#draft: true
 publishDate: 2009-01-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- groovy
-- script
-- grails
+- jee
 title: "Soirée Java EE 6"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

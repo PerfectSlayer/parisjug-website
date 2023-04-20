@@ -1,16 +1,8 @@
 ---
 date: 2009-04-14T19:00:00
-#draft: true
 publishDate: 2009-04-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- scrum
-- agile
-- xp
 title: "Soirée Scrum"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

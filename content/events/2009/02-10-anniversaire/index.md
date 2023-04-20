@@ -1,19 +1,9 @@
 ---
 date: 2009-01-13T19:00:00
-#draft: true
 publishDate: 2009-01-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
 - anniversary
-- parisjug
-- parleys
-- groovy
-- script
-- grails
 title: "Fête anniversaire du Paris JUG"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

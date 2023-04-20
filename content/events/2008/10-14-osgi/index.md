@@ -1,16 +1,9 @@
 ---
 date: 2008-10-14T19:00:00
-#draft: true
 publishDate: 2008-10-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - java
-- osgi
-- jcp
-- client / server
 title: "Soirée OSGi"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -47,8 +40,7 @@ title: "Soirée OSGi"
 * La gouvernance de l'OSGI Alliance et les relations avec le JCP
 * Les champs d'applications d'hier, d'aujourd'hui et demain (Enterprise Expert Group)
 
-Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}})
-et [Nicolas Griso]({{< ref "/speakers/nicolas-griso.md" >}})
+Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}}) et [Nicolas Griso]({{< ref "/speakers/nicolas-griso.md" >}})
 
 ### 20h30 à 21h : Buffet
 
@@ -61,12 +53,10 @@ Côté serveur :
 
 * OSGI en socle des middlewares : Websphere, Weblogic, Glassfish et ServiceMix 4
 * OSGI pour l'informatique de gestion :
-
   * pour les ESB/EAI : OSGI comme technologie d'assemblage là où JavaEE n'a pas légiféré
   * pour les applications Web en alternative au standard .war de Java EE
 
-Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}})
-et [Nicolas Griso]({{< ref "/speakers/nicolas-griso.md" >}})
+Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}}) et [Nicolas Griso]({{< ref "/speakers/nicolas-griso.md" >}})
 
 ### 22h à ... : 3ème mi-temps des juggers :-)
 

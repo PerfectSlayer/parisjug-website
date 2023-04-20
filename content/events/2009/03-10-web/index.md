@@ -1,17 +1,8 @@
 ---
 date: 2009-03-10T19:00:00
-#draft: true
 publishDate: 2009-03-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- w3c
-- wicket
-- semantics
-- html
 title: "Soirée Web"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -56,7 +47,7 @@ et [Carl Azoury]({{< ref "/speakers/carl-azoury.md" >}})
 
 ### 20h30 à 21h : Pause
 
-### 21h à 22h :  Les technologies du web sémantique
+### 21h à 22h : Les technologies du web sémantique
 
 L'expression « Web sémantique » apparaît pour la première fois sous la plume de Tim Berners-Lee, un des créateurs du Web, dans un document de prospectives du W3C datant de septembre 1998. Le Web sémantique constitue, d'après ce document, une partie du Web vu comme un média universel pour partager de l'information, des données et de la connaissance.
 

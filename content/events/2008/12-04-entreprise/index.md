@@ -6,7 +6,7 @@ publishDate: 2008-12-01
 tags:
 - java
 - scoop
-- enterprise
+- jee
 - society
 title: "JUG2B - Ma petite entreprise ne connaît pas la crise"
 #videos: 

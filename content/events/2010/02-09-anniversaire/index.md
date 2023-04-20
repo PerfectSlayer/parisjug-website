@@ -1,13 +1,9 @@
 ---
 date: 2010-02-09T19:00:00
-#draft: true
 publishDate: 2015-03-05
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- anniversaire
+- anniversary
 title: "2ème anniversaire du Paris JUG"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 

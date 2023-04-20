@@ -1,16 +1,11 @@
 ---
 date: 2008-09-11T19:00:00
-#draft: true
 publishDate: 2008-09-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - java
 - spring
 - security
-- jmock
 title: "JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -34,7 +29,7 @@ Nous verrons, comme John Gray a pu le constater entre les femmes et les hommes, 
 Nous présenterons également une partie des résultats de mes travaux de recherche menés lors des panels JAVA qui réunissent des Juggers et des commerciaux en leur demandant de parler « vrai » en utilisant des techniques de transmission orale.
 
 Par [Thierry Lienhardt]({{< ref "/speakers/thierry-lienhardt.md" >}})
-thierry-leinhardt.md
+
 ### 21h00 à 22h00 : Buffet 
 
 ### Sponsors de l'évènement
