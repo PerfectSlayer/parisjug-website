@@ -1,37 +1,15 @@
 ---
 date: 2008-12-04T19:00:00
-#draft: true
 publishDate: 2008-12-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- scoop
-- jee
-- society
 title: "JUG2B - Ma petite entreprise ne connaît pas la crise"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
 
-
-{{< figure src="DSCF4548.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4561.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4562.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4570.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4575.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4577.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Jeudi 4 décembre 2008
 * Dans [les locaux de Port Parallèle]({{< ref "/location/PortParallele.md" >}})
-<!-- Photos - 26 participants -->
+* 26 participants
 
 ## Détails
 
@@ -71,6 +49,10 @@ Loïc Dosseur : Depuis 10 ans dans le financement de la création - reprise d'en
 {{< figure src="/img/sponsors/2008/valtech50.png" alt="Valtech" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

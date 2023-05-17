@@ -12,7 +12,7 @@ title: "JUG2B - Les Juggers viennent de Mars et les commerciaux de Venus"
 
 * Mardi 11 septembre 2008
 * Dans [les locaux de Port Parallèle]({{< ref "/location/PortParallele.md" >}})
-<!-- Photos - 26 participants -->
+* 26 participants
 
 ## Détails
 
@@ -39,3 +39,7 @@ Par [Thierry Lienhardt]({{< ref "/speakers/thierry-lienhardt.md" >}})
 {{< figure src="/img/sponsors/2008/valtech50.png" alt="Valtech" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}

@@ -7,21 +7,10 @@ title: "Qu'est-ce que le Paris JUG ?"
 
 ## Date et lieu
 
-{{< figure src="pj20080212001Small.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="2263909398e4cd104a1d.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="22631187851f7c3dfeaa.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="2263119577589fce7716.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="22639085380236307fdb.jpg" alt="Création du Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 12 février 2008
 * Dans les locaux de Port Parallèle
 * Dans [les locaux de Port Parallèle]({{< ref "/location/PortParallele.md" >}})
-<!-- Photos - 65 participants -->
+* 65 participants
 
 ## Détails
 
@@ -41,6 +30,11 @@ Le Paris JUG est ouvert à tous. Utilisez ce moment pour poser vos questions et 
 ### 20h30 : Buffet offert par la société Aneo
 
 [{{< figure src="/img/sponsors/2008/aneo25.png" alt="Aneo" class="sponsor-svg-logo" >}}](http://www.aneo.fr/)
+
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

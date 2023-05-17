@@ -7,23 +7,6 @@ title: "Soirée GWT"
 
 ## Date et lieu
 
-
-{{< figure src="DSCF4459.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4466.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4467.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4471.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4472.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4480.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4489.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF44762.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
 * Mardi 4 novembre 2008
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 185 participants
@@ -51,6 +34,10 @@ Dans cette présentation, nous expliquerons comment, grâce aux nouveautés appo
 Par [Jérôme Louvel]({{< ref "/speakers/jerome-louvel.md" >}})
 
 ### 22h à ... : 3ème mi-temps des juggers :-)
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Sponsors de l'évènement
 

@@ -8,24 +8,6 @@ title: "Soirée OSGi"
 
 ## Date et lieu
 
-
-{{< figure src="DSCF4409.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4414.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4419.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4420.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4426.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4427.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4428.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4436.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Mardi 14 octobre 2008
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 172 participants
@@ -69,6 +51,10 @@ Par [Cyrille Le Clerc]({{< ref "/speakers/cyrille-le-clerc.md" >}}) et [Nicolas 
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/springSource25.png" alt="Spring Source" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/objetDirect25.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

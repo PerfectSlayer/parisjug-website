@@ -8,31 +8,6 @@ title: "MDA et Flex"
 
 ## Date et lieu
 
-{{< figure src="DSCF3467.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3473.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3477.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3478.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3494.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3496.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3517.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3529.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3540.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3543.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3555.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3565.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Mardi 8 juillet 2008
 * Dans [les locaux de la Fiapp]({{< ref "/location/fiap.md" >}})
 * 146 participants
@@ -81,6 +56,10 @@ Par [James Ward]({{< ref "/speakers/james-ward.md" >}})
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/springSource25.png" alt="Spring Source" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/objetDirect25.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

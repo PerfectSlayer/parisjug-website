@@ -8,18 +8,7 @@ title: "Selenium"
 
 ## Date et lieu
 
-{{< figure src="pj20080311006Small.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="24521836512f2bc25a87.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="245218123556e524de98.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="2452179699e7808cafda.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
-* Mardi 11 mars 2008
-* Dans [les locaux de Port Parallèle]({{< ref "/location/PortParallele.md" >}})
-<!-- Photos - 50 participants -->
+* 50 participants
 
 ## Détails
 
@@ -40,6 +29,10 @@ Par [Zouheir Cadi]({{< ref "/speakers/zouheir-cadi.md" >}})
 Le Paris JUG est ouvert à tous. Utilisez ce moment pour poser vos questions et nous faire part de vos suggestions.
 
 ### 20h45 : Buffet
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Sponsors de l'évènement
 

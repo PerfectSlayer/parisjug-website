@@ -7,16 +7,6 @@ title: "Soirée JCP (Java Community Process)"
 
 ## Date et lieu
 
-{{< figure src="DSCF2950.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2964.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2972.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2978.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2979.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
 * Mardi 21 mai 2008
 * Dans [les locaux de Espace Lancelot]({{< ref "/location/espacelancelot.md" >}})
 * 21 participants
@@ -52,6 +42,10 @@ La table ronde est sur le thème de l'ouverture du JCP. Elle est constituée de 
 {{< figure src="/img/sponsors/2008/valtech50.png" alt="Valtech" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

@@ -9,26 +9,6 @@ title: "Soirée JBoss"
 
 ## Date et lieu
 
-
-{{< figure src="DSCF4511.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4515.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4516.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4519.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4522.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4540.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4541.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4544.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4547.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Mardi 2 décembre 2008
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 210 participants
@@ -66,6 +46,10 @@ Par [Malik Saheb]({{< ref "/speakers/malik-saheb.md" >}})
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/springSource25.png" alt="Spring Source" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/objetDirect25.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

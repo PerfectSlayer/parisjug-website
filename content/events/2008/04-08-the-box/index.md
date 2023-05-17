@@ -9,21 +9,9 @@ title: "The Box"
 
 ## Date et lieu
 
-
-{{< figure src="2401767454f0a1d0f02b.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="2401769364faabf28d90.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="2401769872c78dd2003b.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="24017670200cddd1cfae.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="2401767872900b8b3cc3.jpg" alt="Présentation" class="sponsor-svg-logo" >}}
-
 * Mardi 8 avril 2008
 * Dans [les locaux de Espace Lancelot]({{< ref "/location/espacelancelot.md" >}})
 <!-- Photos - 84 participants -->
-
 
 ## Détails
 
@@ -55,6 +43,10 @@ Le Paris JUG est ouvert à tous. Utilisez ce moment pour poser vos questions et 
 ### 20h30 : Buffet offert par la société jaxio
 
 [{{< figure src="/img/sponsors/2008/jaxio25.png" alt="jaxio" class="sponsor-svg-logo" >}}](http://www.jaxio.fr/)
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Sponsors de l'évènement
 

@@ -8,28 +8,6 @@ title: "Soirée Groovy"
 
 ## Date et lieu
 
-
-{{< figure src="DSCF4234.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4240.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4251.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4253.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4258.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4267.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4270.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4273.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4277.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4280.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Mardi 9 septembre 2008
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 148 participants
@@ -69,6 +47,10 @@ Par [Fabrice Robini]({{< ref "/speakers/fabrice-robini.md" >}})
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/springSource25.png" alt="Spring Source" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/objetDirect25.png" alt="Objet Direct" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

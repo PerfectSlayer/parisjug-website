@@ -8,17 +8,6 @@ title: "Productivité des développements Java & Maven à la demande"
 
 ## Date et lieu
 
-
-{{< figure src="DSCF2859.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2873.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2884.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2893.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF2895.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
 * Mardi 13 mai 2008
 * Dans [les locaux de Espace Lancelot]({{< ref "/location/espacelancelot.md" >}})
 * 86 participants
@@ -64,6 +53,9 @@ Par [Arnaud Héritier]({{< ref "/speakers/arnaud-heritier.md" >}})
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
 
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

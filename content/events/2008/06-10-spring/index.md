@@ -10,17 +10,6 @@ title: "Soirée Spring"
 
 ## Date et lieu
 
-{{< figure src="DSCF3060.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3071.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3078.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3085.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3090.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-
 * Mardi 10 juin 2008
 * Dans [les locaux de la Fiapp]({{< ref "/location/fiap.md" >}})
 * 146 participants
@@ -56,6 +45,7 @@ et [Michaël Isvy]({{< ref "/speakers/michael-isvy.md" >}})
 
 ### 22h30 à 23h30 : Quartier libre :-)
 
+
 ### Sponsors de l'évènement
 
 {{< figure src="/img/sponsors/2008/xebia50.png" alt="Xebia" class="sponsor-svg-logo" >}}
@@ -63,6 +53,10 @@ et [Michaël Isvy]({{< ref "/speakers/michael-isvy.md" >}})
 {{< figure src="/img/sponsors/2008/valtech50.png" alt="Valtech" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 
