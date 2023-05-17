@@ -1,3 +1,307 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32f773eba2cb814d6af85d2449585e7b0b1eb3d55c3ee8630abfe57b9980aaca
-size 19085
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+                                    <title>3e anniversaire du Paris JUG (28/02/2011) (Meeting.20110228) - XWiki</title>
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <link rel="shortcut icon" href="/xwiki/resources/icons/xwiki/favicon.ico" />
+        <link rel="icon" href="/xwiki/resources/icons/xwiki/favicon16.png" type="image/png" />
+        <link rel="icon" href="/xwiki/resources/icons/xwiki/favicon.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/xwiki/resources/icons/xwiki/favicon144.png" />
+                <meta http-equiv="Content-Script-Type" content="text/javascript" />
+                        <meta http-equiv="imagetoolbar" content="no"/>
+                                <link rel="canonical" href="/xwiki/wiki/oldversion/view/Meeting/20110228" />
+                            <meta name="document" content="Meeting.20110228"/>
+    <meta name="wiki" content="oldversion"/>
+    <meta name="space" content="Meeting"/>
+    <meta name="page" content="20110228"/>
+    <meta name="version" content="3.1"/>
+    <meta name="restURL" content="/xwiki/rest/wikis/oldversion/spaces/Meeting/pages/20110228"/>
+    <meta name="form_token" content="G3TX8jZg6kgDOtJCF2TLhw"/>
+                <meta name="gwt:property" content="locale=en" />
+                <meta name="revisit-after" content="7 days" />
+<meta name="description" content="3e anniversaire du Paris JUG (28/02/2011)" />
+<meta name="keywords" content="wiki" />
+<meta name="distribution" content="GLOBAL" />
+<meta name="rating" content="General" />
+<meta name="author" content="Charles Sabourdin" />
+<meta http-equiv="reply-to" content="" />
+<meta name="language" content="en" />
+<link rel="alternate" type="application/rss+xml" title="Wiki Feed RSS" href="/xwiki/wiki/oldversion/view/Main/WebRss?xpage=rdf" />
+<link rel="alternate" type="application/rss+xml" title="Blog RSS Feed" href="/xwiki/wiki/oldversion/view/Blog/GlobalBlogRss?xpage=plain" />
+
+                
+                
+                                                                                                
+<link href="/xwiki/wiki/oldversion/skin/skins/flamingo/style.css?skin=XWiki.DefaultSkin&#38;colorTheme=oldversion%3AFlamingoThemes.FlamingoDefaultTheme" rel="stylesheet" type="text/css" media="all" />
+<link href="/xwiki/wiki/oldversion/skin/skins/flamingo/print.css?skin=XWiki.DefaultSkin&#38;colorTheme=oldversion%3AFlamingoThemes.FlamingoDefaultTheme" rel="stylesheet" type="text/css" media="print" />
+        <!--[if IE]>
+  <link href="/xwiki/wiki/oldversion/skin/skins/flamingo/ie%2Dall.css?skin=XWiki.DefaultSkin&#38;colorTheme=oldversion%3AFlamingoThemes.FlamingoDefaultTheme" rel="stylesheet" type="text/css" />
+<![endif]-->
+    
+    <link rel='stylesheet' type='text/css' href='/xwiki/wiki/oldversion/skin/resources/css/xwiki%2Dmin.css?colorTheme=FlamingoThemes.FlamingoDefaultTheme&amp;language=en'/><link rel='stylesheet' type='text/css' href='/xwiki/wiki/oldversion/skin/resources/uicomponents/search/searchSuggest.css'/>
+    <link rel='stylesheet' type='text/css' href='/xwiki/wiki/oldversion/ssx/AnnotationCode/Style?language=en'/><link rel='stylesheet' type='text/css' href='/xwiki/wiki/oldversion/ssx/AnnotationCode/Settings?language=en'/>
+
+                                                                                                                                                                                                                                                        
+    <script type='text/javascript' src='/xwiki/resources/js/amd/require.js'></script>
+<script type='text/javascript' src='/xwiki/resources/js/prototype/prototype.js'></script>
+<script type='text/javascript' src='/xwiki/wiki/oldversion/skin/resources/js/scriptaculous/effects.js' defer='defer'></script>
+<script type='text/javascript' src='/xwiki/wiki/oldversion/skin/resources/js/xwiki/xwiki%2Dmin.js?defer=false&amp;language=en'></script>
+<script type='text/javascript' src='/xwiki/wiki/oldversion/skin/resources/uicomponents/search/searchSuggest.js?h=1943377122' defer='defer'></script>
+
+    <script type='text/javascript' src='/xwiki/wiki/oldversion/jsx/XWiki/GoogleAnalyticsCode?language=en' defer='defer'></script>
+<script type='text/javascript' src='/xwiki/wiki/oldversion/jsx/AnnotationCode/Script?language=en' defer='defer'></script>
+<script type='text/javascript' src='/xwiki/wiki/oldversion/jsx/AnnotationCode/Settings?language=en' defer='defer'></script>
+
+
+<script type="text/javascript" src="/xwiki/resources/js/xwiki/compatibility.js" defer="defer"></script>
+<script type="text/javascript" src="/xwiki/resources/js/xwiki/markerScript.js" defer="defer"></script>
+<!--[if lt IE 9]>
+    <script src="/xwiki/wiki/oldversion/webjars/resources/path?value=html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script type="text/javascript" src="/xwiki/wiki/oldversion/webjars/resources/path?value=respond/1.4.2/dest/respond.min.js" defer="defer"></script>
+<![endif]-->
+<script type="text/javascript">
+// <![CDATA[
+require.config({
+  paths: {
+    'jquery': '/xwiki/wiki/oldversion/webjars/resources/path?value=jquery/1.11.1/jquery.min.js',
+    'bootstrap': '/xwiki/wiki/oldversion/webjars/resources/path?value=bootstrap/3.2.0/js/bootstrap.min.js'
+  },
+  shim: {
+    'bootstrap' : ['jquery']
+  },
+  map: {
+    '*': {
+      'jquery': 'jQueryNoConflict'
+    },
+    'jQueryNoConflict': {
+      'jquery': 'jquery'
+    },
+  }
+});
+define('jQueryNoConflict', ['jquery'], function ($) {
+    return $.noConflict();
+});
+if (Prototype.BrowserFeatures.ElementExtensions) {
+  require(['jquery', 'bootstrap'], function ($) {
+    // Fix incompatibilities between BootStrap and Prototype
+    var disablePrototypeJS = function (method, pluginsToDisable) {
+      var handler = function (event) {
+        event.target[method] = undefined;
+        setTimeout(function () {
+            delete event.target[method];
+        }, 0);
+      };
+      pluginsToDisable.each(function (plugin) { 
+          $(window).on(method + '.bs.' + plugin, handler); 
+      });
+    },
+    pluginsToDisable = ['collapse', 'dropdown', 'modal', 'tooltip'];
+    disablePrototypeJS('show', pluginsToDisable);
+    disablePrototypeJS('hide', pluginsToDisable);
+  });
+}
+XWiki.webapppath = "xwiki/";
+XWiki.servletpath = "wiki/oldversion/";
+XWiki.contextPath = "/xwiki";
+XWiki.mainWiki = "xwiki";
+XWiki.currentWiki = "oldversion";
+XWiki.currentSpace = "Meeting";
+XWiki.currentPage = "20110228";
+XWiki.editor = "";
+XWiki.viewer = "";
+XWiki.contextaction = "download";
+XWiki.docisnew = false;
+XWiki.docsyntax = "xwiki/2.0";
+XWiki.docvariant = "";
+XWiki.blacklistedSpaces = [ "Import","Panels","Scheduler","Stats","XAppClasses","XAppSheets","XAppTemplates","XWiki","WatchCode","WatchSheets","XApp","WatchAdmin","Watch","ColorThemes","AnnotationCode" ];
+XWiki.hasEdit = false;
+XWiki.hasProgramming = false;
+XWiki.hasBackupPackImportRights = false;
+XWiki.hasRenderer = true;
+window.docviewurl = "/xwiki/wiki/oldversion/view/Meeting/20110228";
+window.docediturl = "/xwiki/wiki/oldversion/edit/Meeting/20110228";
+window.docsaveurl = "/xwiki/wiki/oldversion/save/Meeting/20110228";
+window.docgeturl = "/xwiki/wiki/oldversion/get/Meeting/20110228";
+// ]]>
+</script>
+
+  </head>
+  <body id="body" class="skin-flamingo wiki-oldversion space-Meeting downloadbody  content panel-left-width-Medium panel-right-width-Medium">
+<div id="xwikimaincontainer">
+<div id="xwikimaincontainerinner">
+
+  <div id="menuview">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+      <div class="navbar navbar-default actionmenu">
+    <div class="container-fluid">
+            <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#xwikimainmenu">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+                      <div id="companylogo">
+  <a href="/xwiki/wiki/oldversion/view/Main/" title="Home" rel="home" class="navbar-brand">
+    <img src="/xwiki/wiki/oldversion/skin/XWiki/DefaultSkin/LogoBJCP_black_2015_0150x0060.png" alt="Wiki Logo"/>
+  </a>
+</div>
+
+              </div>
+            <div class="collapse navbar-collapse" id="xwikimainmenu">
+    
+          <ul class="nav navbar-nav navbar-right">
+        <form class="navbar-form navbar-left globalsearch" role="search" action="/xwiki/wiki/oldversion/view/Main/Search">
+    <div class="input-group">
+      <input type="text" name="text" class="form-control" placeholder="search..." id="headerglobalsearchinput" />
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">
+          <span class="glyphicon glyphicon-search"></span><span class="sr-only">Go</span>
+        </button>
+      </span>
+    </div>
+  </form>
+
+      
+              <li class=""><a href="/xwiki/wiki/oldversion/login/XWiki/XWikiLogin?xredirect=%2Fxwiki%2Fwiki%2Foldversion%2Fdownload%2FMeeting%2F20110228%2Foffice_code.pdf" id="tmLogin" title="Log-in" > Log-in</a></li>
+        <li class=""><a href="/xwiki/wiki/oldversion/register/XWiki/Register" id="tmRegister" title="Register" > Register</a></li>
+
+      </ul>
+    
+          <ul class="nav navbar-nav">
+      <li class="divider"></li>
+            <li class="dropdown text-left" id="tmMainWiki">
+    <a href="/xwiki/bin/view/Main/" class="dropdown-toggle " data-toggle="dropdown" title="Home"><span class="glyphicon glyphicon-home"></span>  Home <b class="caret"></b></a>
+    <ul class="dropdown-menu">
+            <li class=""><a href="/xwiki/bin/view/Main/"  title="Go to Wiki" ><span class="glyphicon glyphicon-arrow-right"></span> Go to Wiki</a></li>
+                          <li class="divider"></li>
+        <li class=""><a href="/xwiki/bin/view/WikiManager/" id="tmWikiIndex" title="Wiki Index" ><span class="glyphicon glyphicon-list"></span> Wiki Index</a></li>
+                  <li class=""><a href="/xwiki/bin/view/Main/AllDocs" id="tmWikiDocumentIndex" title="Document Index" ><span class="glyphicon glyphicon-book"></span> Document Index</a></li>
+                          <li class=""><a href="/xwiki/bin/view/Main/UserDirectory" id="tmMainUserIndex" title="User Index" ><span class="glyphicon glyphicon-user"></span> User Index</a></li>
+            </ul>
+  </li>
+
+              <li class="divider"></li>
+                  <li class="dropdown text-left" id="tmWiki">
+    <a href="/xwiki/wiki/oldversion/view/Main/" class="dropdown-toggle " data-toggle="dropdown" title="Wiki: Paris Jug Web Site"><span class="glyphicon glyphicon-globe"></span>  Paris Jug Web Site <b class="caret"></b></a>
+    <ul class="dropdown-menu">
+                <li class=""><a href="/xwiki/wiki/oldversion/view/Main/"  title="Go to Wiki" ><span class="glyphicon glyphicon-arrow-right"></span> Go to Wiki</a></li>
+                                                        <li class=""><a href="/xwiki/wiki/oldversion/view/Main/AllDocs" id="tmWikiDocumentIndex" title="Document Index" ><span class="glyphicon glyphicon-book"></span> Document Index</a></li>
+                          </ul>
+  </li>
+  
+        <li class="divider"></li>
+        <li class="dropdown text-left" id="tmSpace">
+    <a href="/xwiki/wiki/oldversion/view/Meeting/" class="dropdown-toggle " data-toggle="dropdown" title="Space: Meeting"><span class="glyphicon glyphicon-folder-open"></span>  Meeting <b class="caret"></b></a>
+    <ul class="dropdown-menu">
+            <li class=""><a href="/xwiki/wiki/oldversion/view/Meeting/"  title="Go to Space" ><span class="glyphicon glyphicon-arrow-right"></span> Go to Space</a></li>
+                                <li class="divider"></li>
+          <li class=""><a href="/xwiki/wiki/oldversion/view/Main/SpaceIndex?space=Meeting" id="tmSpaceDocumentIndex" title="Document Index" ><span class="glyphicon glyphicon-book"></span> Document Index</a></li>
+                  </ul>
+  </li>
+
+        <li class="divider"></li>
+          <li class=""><a href="/xwiki/wiki/oldversion/view/Meeting/20110228" id="tmPage" title="Page: 20110228" ><span class="glyphicon glyphicon-file"></span> 20110228</a></li>
+
+      
+      </ul>
+    
+          </div>    </div>   </div>
+
+  </div>
+ <div id="headerglobal">
+  <div id="globallinks">
+  </div>   <div class="clearfloats"></div>
+  </div> 
+
+
+<div class="content" id="contentcontainer">
+<div id="contentcontainerinner">
+<div class="leftsidecolumns">
+  <div id="contentcolumn"> 
+<div class="main layoutsubsection">
+<div id="mainContentArea">
+      <div class="centered panel panel-default xwikimessage">
+     <div class="panel-heading">
+      <h3 class="panel-title">Error</h3>
+     </div>
+     <div class="panel-body">
+      <p class="xwikimessage">The attachment does not exist.</p>
+  
+        </div>
+    </div>
+<div class="clearfloats"></div>
+</div></div>    </div><div id="leftPanels" class="panels left panel-width-Medium">
+      <div class="panel expanded PanelEvent"><h1 class="xwikipaneltitle">Evènements partenaires</h1><div class="xwikipanelcontents"><center>
+<span class="wikiexternallink"><a href="https://hack-commit-pu.sh/"><img src="https://www.parisjug.org/xwiki/wiki/oldversion/download/Panels/PanelEvent/white_logo_wide.png" alt="hack-commit-push" width="250"/></a></span>
+</center></div></div>
+        <div class="panel expanded QuickLinks"><h1 class="xwikipaneltitle">3e anniversaire du Paris JUG (28/02/2011) (Meeting.20110228) - XWiki</h1><div class="xwikipanelcontents"><ul><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/">Accueil</a></span></li></ul><hr/><p>&nbsp;</p><ul><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Meeting/Next">Prochaines rencontres</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Meeting/Previous">Rencontres precedentes</a></span></li></ul><hr/><ul><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/About">Qu'est-ce que le ParisJUG</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/MakeAPresentation">Faire une presentation</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Speaker/">Les speakers</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/About">Mailing list</a></span></li></ul><hr/><ul><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors">Sponsors</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Partenaires">Partenaires</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Donation">Donation</a></span></li><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/MarketingMaterial">Elements Marketing</a></span></li></ul><hr/><ul><li><span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/ContactUs">Nous contacter</a></span></li></ul></div></div>
+  </div>
+
+  </div><div id="rightPanels" class="panels right panel-width-Medium">
+      
+        <div class="panel expanded PanelSponsors"><h1 class="xwikipaneltitle">Sponsors Platinium</h1><div class="xwikipanelcontents"><table>
+<tbody><tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#renault%2Ddigital"><img alt="renault-digital" src="/xwiki/wiki/oldversion/download/Main/Sponsors/renault%2Ddigital.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#sciam"><img alt="sciam" src="/xwiki/wiki/oldversion/download/Main/Sponsors/sciam.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#mirakl"><img alt="mirakl" src="/xwiki/wiki/oldversion/download/Main/Sponsors/mirakl.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#agorapulse"><img alt="agorapulse" src="/xwiki/wiki/oldversion/download/Main/Sponsors/agorapulse.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#redhat"><img alt="Redhat" src="/xwiki/wiki/oldversion/download/Main/Sponsors/Logo%2DRedHat%2DB%2DColor%2DRGB.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#oxiane"><img alt="Oxiane" src="/xwiki/wiki/oldversion/download/Main/Sponsors/oxiane.svg?width=180" width="180px"></img></a></span>
+</td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#softeam"><img alt="Softeam" src="/xwiki/wiki/oldversion/download/Main/Sponsors/softeam.svg?width=180" width="180px"></img></a></span></td></tr>
+<tr style="">
+<td style="padding:0px;border:none;text-align:center">
+<span class="wikilink"><a href="/xwiki/wiki/oldversion/view/Main/Sponsors#microsoft"><img alt="microsoft" src="/xwiki/wiki/oldversion/download/Main/Sponsors/microsoft.svg?width=180" width="180px"></img></a></span></td></tr></tbody></table></div></div>
+        <p/>
+        <div class="panel expanded PanelPartners"><h1 class="xwikipaneltitle">Partenaires</h1><div class="xwikipanelcontents"><table>
+<tbody><tr style="">
+<td style="padding:0px;border:none;text-align:center"><span class="wikiexternallink"><a href="http://www.jetbrains.com"><img alt="JetBrains" src="/xwiki/wiki/oldversion/download/Main/Sponsors/logo_jetbrains.svg?width=120" width="120px"></img></a></span></td></tr>
+</tbody></table></div></div>
+  </div>
+
+<div class="clearfloats"></div>
+  </div></div><div id="footerglobal">
+  <div id="xwikilicence">This wiki is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons 2.0</a> license</div>
+          <div id="xwikiplatformversion">XWiki Enterprise 6.2.4 - <a onclick="openURL('http://enterprise.xwiki.org/xwiki/bin/view/Main/Documentation', '_blank'); return false;" href="http://www.xwiki.org/xwiki/bin/view/Main/Documentation">Documentation</a></div>
+</div>
+
+</div></div></body>
+</html>
