@@ -16,30 +16,6 @@ title: "Soirée JSF 2.0 - Servlet 3.0"
 
 ## Date et lieu
 
-
-{{< figure src="0DSCF85112.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8518.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8522.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8537.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8554.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8564.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8567.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8572.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8573.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8590.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8617.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 13 octobre 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 
@@ -92,6 +68,10 @@ Par [Rémy Maucherat]({{< ref "/speakers/remy-maucherat.md" >}})
 
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

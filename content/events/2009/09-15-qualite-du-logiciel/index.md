@@ -17,18 +17,6 @@ title: "Soirée Qualité du logiciel"
 
 ## Date et lieu
 
-
-{{< figure src="0DSCF82662.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8271.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8294.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8299.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8302.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 15 septembre 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 
@@ -98,6 +86,10 @@ Par [Fabrice Bellingard]({{< ref "/speakers/fabrice-bellingard.md" >}})
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/pyxis40.png" alt="Pyxis" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

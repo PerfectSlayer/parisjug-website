@@ -17,25 +17,6 @@ title: "Soirée Google"
 
 ## Date et lieu
 
-{{< figure src="pj20091110.jpg" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8643.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8655.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8658.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8665.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8671.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8684.JPG" alt="Soirée" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8689.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8700.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 10 novembre 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 
@@ -92,6 +73,10 @@ Par [Didier Girard]({{< ref "/speakers/didier-girard.md" >}})
 
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

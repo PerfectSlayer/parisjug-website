@@ -8,19 +8,6 @@ title: "Soirée RIA"
 
 ## Date et lieu
 
-{{< figure src="0DSCF77082.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF7731.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF7738.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF7743.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF7781.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF7788.JPG" alt="Soirée Paris JUG Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 07 juillet 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 
@@ -71,3 +58,7 @@ Par [Simon Ritter]({{< ref "/speakers/simon-ritter.md" >}})
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/pyxis40.png" alt="Pyxis" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}

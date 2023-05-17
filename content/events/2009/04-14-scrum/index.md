@@ -7,28 +7,6 @@ title: "Soirée Scrum"
 
 ## Date et lieu
 
-
-{{< figure src="pj20090414.jpg" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5422.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5424.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5426.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5445.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5449.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5459.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5472.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5477.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5494.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 14 avril 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 180 participants
@@ -72,9 +50,12 @@ Par [Guillaume Bodet]({{< ref "/speakers/guillaume-bodet.md" >}})
 {{< figure src="/img/sponsors/2009/novediaVision60.png" alt="Novedia Vision" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/sfeir40.png" alt="Sfeir" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/oxiane50.png" alt="OXiane" class="sponsor-p-svg-logo" >}}
-
 {{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 <!-- broken links have been removed during site migration -->

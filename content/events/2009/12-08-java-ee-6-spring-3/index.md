@@ -11,35 +11,6 @@ title: "Soirée Java EE 6 et Spring 3.0"
 #- https://www.youtube.com/watch?v=xxxx
 ---
 
-{{< figure src="JuggyNoel09.jpg" alt="Juggy Joyeux Noël" class="sponsor-svg-logo" >}}
-
-{{< figure src="0DSCF92262.JPG" alt="Soirée" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9228.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9237.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9244.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9251.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9262.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9274.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9275.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9276.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9295.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9309.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9348.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF9354.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 ## Date et lieu
 
 * Mardi 08 décembre 2009
@@ -93,6 +64,10 @@ Intervenants : Michael Isvy, Antonio Goncalves, Julien Dubois?, Alexis Moussine-
 
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

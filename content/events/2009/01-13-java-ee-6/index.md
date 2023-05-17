@@ -8,34 +8,6 @@ title: "Soirée Java EE 6"
 
 ## Date et lieu
 
-
-{{< figure src="PJ20090113.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4870.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4878.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4882.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4884.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4900.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4911.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4919.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4923.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4924.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4927.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4957.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF4958.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 13 janvier 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 210 participants
@@ -72,6 +44,10 @@ Par [Alexis Moussine-Pouchkine]({{< ref "/speakers/alexis-moussine-pouchkine.md"
 {{< figure src="/img/sponsors/2009/oceane25.png" alt="Oceane" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/springSource25.png" alt="Spring Source" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 <!-- broken links have been removed during site migration -->

@@ -8,24 +8,6 @@ title: "Soirée Web"
 ## Date et lieu
 
 
-
-{{< figure src="pj20090310.jpg" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5288.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF523.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5309.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5314.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5321.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5325.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF5342.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 10 mars 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 180 participants
@@ -71,6 +53,10 @@ Avant de débuter cette présentation il serait intéressant de faire un sondage
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-p-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/zenika50.png" alt="Zenika" class="sponsor-p-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 <!-- broken links have been removed during site migration -->

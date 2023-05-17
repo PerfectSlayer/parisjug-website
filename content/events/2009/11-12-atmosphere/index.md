@@ -17,14 +17,6 @@ title: "Soirée Atmosphere"
 
 ## Date et lieu
 
-{{< figure src="DSCF8722.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8728.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8734.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF8736.JPG" alt="Soirée Paris JUG" class="sponsor-svg-logo" >}}
-
 * Jeudi 12 novembre 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 
@@ -65,6 +57,10 @@ Par [Jean Francois Arcand]({{< ref "/speakers/jean-francois-arcand.md" >}})
 
 {{< figure src="/img/sponsors/2009/ibm50.png" alt="IBM" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 

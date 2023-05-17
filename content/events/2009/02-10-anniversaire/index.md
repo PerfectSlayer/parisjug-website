@@ -8,64 +8,6 @@ title: "Fête anniversaire du Paris JUG"
 
 ## Date et lieu
 
-
-{{< figure src="PJ20090210.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0040.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0050.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0060.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0080.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0160.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0200.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0220.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0240.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0260.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0280.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0290.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0300.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0330.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0360.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0440.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0490.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0500.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0640.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0680.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0750.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0770.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0800.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0940.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0970.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-0980.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-1220.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-{{< figure src="PJ20090210-1260.jpg" alt="Anniversaire du Paris JUG" class="sponsor-svg-logo" >}}
-
-
 * Mardi 10 février 2009
 * Dans [les locaux de la Fiap]({{< ref "/location/fiap.md" >}})
 * 210 participants
@@ -157,6 +99,10 @@ Et un grand merci à toute l'équipe de [VitaliZen](http://www.vitalizen.fr/) et
 {{< figure src="/img/sponsors/2009/oceane25.png" alt="Oceane" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/springSource25.png" alt="Spring Source" class="sponsor-g-svg-logo" >}}
 {{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Post (blog) sur la présentation
 <!-- broken links have been removed during site migration -->
