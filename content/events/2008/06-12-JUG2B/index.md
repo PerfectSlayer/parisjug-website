@@ -7,14 +7,6 @@ title: "JUG2B - Meilleurs Développeurs"
 
 ## Date et lieu
 
-{{< figure src="DSCF3092.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3093.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3096.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
-{{< figure src="DSCF3097.JPG" alt="Présentation" class="sponsor-svg-logo" >}}
-
 * Mardi 12 juin 2008
 * Dans [les locaux de Port Parallèle]({{< ref "/location/PortParallele.md" >}})
 * 26 participants
@@ -64,6 +56,10 @@ Par [John Rizzo]({{< ref "/speakers/john-rizzo.md" >}})
 {{< figure src="/img/sponsors/2008/valtech50.png" alt="Valtech" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/bk75.jpg" alt="BK consulting" class="sponsor-svg-logo" >}}
 {{< figure src="/img/sponsors/2008/oceane25.png" alt="Oceane" class="sponsor-svg-logo" >}}
+
+## Feedback
+
+{{< gallery match="gallery/*" >}}
 
 ### Télécharger la présentation
 
