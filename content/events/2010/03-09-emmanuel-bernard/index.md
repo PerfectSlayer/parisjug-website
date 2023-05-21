@@ -1,16 +1,10 @@
 ---
 date: 2010-03-09T19:00:00
-#draft: true
 publishDate: 2015-03-05
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- hibernate
-- apidesign
+- database
 title: "Soirée Emmanuel Bernard"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
-
 
 ## Date et lieu
 

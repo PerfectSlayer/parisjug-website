@@ -1,13 +1,9 @@
 ---
 date: 2010-07-06T19:00:00
-#draft: true
 publishDate: 2015-05-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- nosql
+- jee
 title: "Soirée Adam Bien"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 {{< figure src="Juggyversionete.png" alt="Juggy part en vacances" class="sponsor-gold-svg-logo" >}}

@@ -1,12 +1,9 @@
 ---
 date: 2010-12-10T19:00:00
-#draft: true
 publishDate: 2015-05-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- alternative languages
 title: "Soirée Web et Java"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 {{< figure src="parisjugweb.png" alt="Zenexity" class="sponsor-gold-svg-logo" >}}
@@ -28,7 +25,7 @@ Ruby on Rails, le célèbre framework web, vient de souffler sa sixième bougie 
 
 **Intervenant**  [Christian Blavier]({{< ref "/speakers/christian-blavier.md" >}})
 
-### 20h00 à 20h25 : HTML 5
+### 20h00 à 20h25 : HTML5
 
 Dans cette présentation, nous ferons un bref rappel sur les apports HTML5 & le point sur son support dans les différents navigateurs avant de présenter les bénéfices de son implémentation dans un projet en s'attachant en particulier sur les fonctionnalités suivantes: Mode déconnecté, Cross Window Messaging & Web Workers.
 

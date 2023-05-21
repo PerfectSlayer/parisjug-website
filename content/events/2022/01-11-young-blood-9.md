@@ -12,6 +12,7 @@ videos:
 - https://www.youtube.com/watch?v=-enw8mPc7A8
 - https://www.youtube.com/watch?v=tntVikrSvV8
 ---
+
 ## Date et lieu
 
 * Mardi 11 janvier 2022 à 19h00

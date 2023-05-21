@@ -1,13 +1,9 @@
 ---
 date: 2010-11-09T19:00:00
-#draft: true
 publishDate: 2015-05-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- regles
+- tools
 title: "Les BRMS (Business Rules Management System) ou plus simplement les moteurs de règles"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

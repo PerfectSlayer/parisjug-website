@@ -1,16 +1,12 @@
 ---
 date: 2010-05-11T19:00:00
-#draft: true
 publishDate: 2015-05-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
+- jee
 - git
-- maven
+- tool
 title: "Soirée Share, Build and Deploy"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
-
 
 ## Date et lieu
 

@@ -1,15 +1,11 @@
 --- 
 date: 2010-01-18T19:00:00
-#draft: true
 publishDate: 2015-02-23
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - performance
+- tools
 title: "Soirée Performance"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
-
 
 ## Date et lieu
 

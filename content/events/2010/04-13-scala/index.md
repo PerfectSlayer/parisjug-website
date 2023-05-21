@@ -1,13 +1,9 @@
 ---
 date: 2010-04-13T19:00:00
-#draft: true
 publishDate: 2015-02-23
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- scala
+- alternative languages
 title: "Soirée Scala"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 {{< figure src="newsflashlogo.png" alt="Scala" class="sponsor-gold-svg-logo" >}}
@@ -29,7 +25,7 @@ title: "Soirée Scala"
 
 Scala est un language de programmation statiquement et fortement typé, qui integre, de manière conjointe, des concepts de la programmation fonctionnelle ainsi que ceux de l'orientation objet moderne moderne. Cette présentation vous offrira une introduction à ces concepts tout en mettant en exergue leurs bénéfices tant au niveau micro qu'au niveau de l'architecture. Aucun pré-requis en matière de programmation fonctionnelle ou de typage statique n'est indispensable pour suivre cette présentation.
 
-**Intervenant** : [Sadek Drobi]({{< ref "/speakers/sadek-drobi.md" >}}) 
+Par [Sadek Drobi]({{< ref "/speakers/sadek-drobi.md" >}}) 
 
 ### 20h30 à 21h00 : Buffet
 
@@ -39,7 +35,7 @@ Scala est un language de programmation statiquement et fortement typé, qui inte
 
 Scala est un langage alternatif pour la machine virtuelle Java. Fonctionnel, orienté objet et statiquement typé, ce langage rime avec productivité ! Découvrez ce qu'il faut absolument savoir de Scala, sa philosophie, son outillage, ses frameworks. Familiarisez-vous avec ce langage grâce à des exemples concrets.
 
-**Intervenant** : [Romain Maton]({{< ref "/speakers/romain-maton.md" >}}), [Nicolas Jozwiak]({{< ref "/speakers/nicolas-jozwiak.md" >}})
+Par [Romain Maton]({{< ref "/speakers/romain-maton.md" >}}) et [Nicolas Jozwiak]({{< ref "/speakers/nicolas-jozwiak.md" >}})
 
 
 ### 22h30 à  ... : 3ème mi-temps des juggers au [Vavin](https://www.google.com/maps/dir//48.84398,2.330533/@48.8439685,2.2603067,12z)

@@ -6,7 +6,6 @@ tags:
 title: "2ème anniversaire du Paris JUG"
 ---
 
-
 ## Date et lieu
 
 {{< figure src="juggyanniversaire.jpg" alt="Bon anniversaire Paris JUG !" class="sponsor-gold-svg-logo" >}}
