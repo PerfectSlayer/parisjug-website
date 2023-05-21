@@ -1,8 +1,6 @@
 ---
 date: 2020-01-12T19:00:00
-#draft: true
 publishDate: 2020-01-10
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - ci/cd
 - performance

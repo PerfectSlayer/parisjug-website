@@ -1,13 +1,9 @@
 ---
 date: 2012-06-12T19:00:00
-#draft: true
 publishDate: 2012-06-12
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - jee
 title: "Soirée Serveurs d'applications"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

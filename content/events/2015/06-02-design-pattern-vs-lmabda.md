@@ -1,8 +1,6 @@
 ---
 date: 2015-06-02T19:30:00
-#draft: true
 publishDate: 2016-01-18
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - architecture
 title: "Soirée Design pattern vs lambda"

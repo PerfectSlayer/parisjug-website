@@ -1,12 +1,8 @@
 ---
 date: 2012-10-03T19:00:00
-#draft: true
 publishDate: 2012-10-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 title: "Soirée Richard Stallman"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

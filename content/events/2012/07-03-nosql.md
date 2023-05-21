@@ -1,13 +1,9 @@
 ---
 date: 2012-07-03T19:00:00
-#draft: true
 publishDate: 2012-07-03
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - database
 title: "Soirée NoSQL"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

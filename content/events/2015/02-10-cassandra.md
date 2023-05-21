@@ -1,6 +1,5 @@
 ---
 date: 2015-02-10T19:30:00
-#draft: true
 publishDate: 2016-01-18
 register: "https://goo.gl/ezbpWR"
 tags:

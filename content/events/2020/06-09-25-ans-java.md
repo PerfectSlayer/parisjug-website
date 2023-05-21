@@ -1,8 +1,6 @@
 ---
 date: 2020-06-09T19:00:00
-#draft: true
 publishDate: 2020-06-02
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - anniversary
 title: "Soirée Virtuelle : Fêtons les 25 ans de Java avec nos champions"

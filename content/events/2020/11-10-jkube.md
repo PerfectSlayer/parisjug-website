@@ -1,8 +1,6 @@
 ---
 date: 2020-11-10T19:00:00
-#draft: true
 publishDate: 2020-11-29
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - cloud
 - kubernetes

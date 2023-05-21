@@ -1,8 +1,6 @@
 ---
 date: 2020-05-12T19:00:00
-#draft: true
 publishDate: 2020-05-07
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - cloud
 title: "Soirée Virtuelle : Microsoft Azure, JHipster et Github Codespaces"

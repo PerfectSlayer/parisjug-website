@@ -1,8 +1,6 @@
 ---
 date: 2020-03-10T19:00:00
-#draft: true
 publishDate: 2020-03-04
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - kubernetes
 - spring

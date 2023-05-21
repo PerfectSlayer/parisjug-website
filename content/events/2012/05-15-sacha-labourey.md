@@ -1,12 +1,8 @@
 ---
 date: 2012-05-15T19:00:00
-#draft: true
 publishDate: 2012-05-15
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 title: "Soirée Sacha Labourey"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

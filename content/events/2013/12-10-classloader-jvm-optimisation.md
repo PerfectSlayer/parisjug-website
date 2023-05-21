@@ -1,14 +1,10 @@
 ---
 date: 2013-12-10T19:00:00
-#draft: true
 publishDate: 2013-12-10
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - jee
 - performance
 title: "Soirée Classloaders et JVM optimisation"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

@@ -1,8 +1,6 @@
 ---
 date: 2015-06-23T19:30:00
-#draft: true
 publishDate: 2016-01-18
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - big data
 - jvm

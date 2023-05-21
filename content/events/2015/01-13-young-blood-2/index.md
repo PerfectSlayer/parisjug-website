@@ -1,6 +1,5 @@
 ---
 date: 2015-01-13T19:30:00
-#draft: true
 publishDate: 2016-01-18
 register: "https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638"
 tags:

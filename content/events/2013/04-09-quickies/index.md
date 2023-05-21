@@ -1,12 +1,8 @@
 ---
 date: 2013-04-09T19:00:00
-#draft: true
 publishDate: 2013-04-09
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 title: "Soirée Quickies"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

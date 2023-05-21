@@ -1,8 +1,6 @@
 ---
 date: 2015-12-01T19:30:00
-#draft: true
 publishDate: 2016-01-18
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - database
 title: "Soirée Soirée questions / réponses avec l'équipe Hibernate ORM, Validator, Search..."

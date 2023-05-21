@@ -1,13 +1,9 @@
 ---
 date: 2012-10-09T19:00:00
-#draft: true
 publishDate: 2012-10-09
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- JEE
+- jee
 title: "Soirée Cagatay Civici"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
