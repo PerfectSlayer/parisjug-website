@@ -6,7 +6,6 @@ tags:
 - ci/cd
 - test
 title: "Analyseurs de code et Qualité logicielle avec Sonar"
-##videos:
 ---
 
 ## Date et lieu

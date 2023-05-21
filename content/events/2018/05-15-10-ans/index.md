@@ -6,7 +6,6 @@ tags:
 - functional programming
 - reactive programming
 title: "Anniversaire du Paris JUG : 10 ans"
-##videos:
 ---
 
 ## Date et lieu

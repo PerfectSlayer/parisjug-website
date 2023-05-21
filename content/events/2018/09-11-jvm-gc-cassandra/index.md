@@ -5,7 +5,6 @@ tags:
 - database
 - performance
 title: "Quelle JVM et Garbage Collector choisir et Le futur d'Apache Cassandra"
-##videos:
 ---
 
 ## Date et lieu
