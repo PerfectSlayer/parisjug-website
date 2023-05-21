@@ -3,15 +3,18 @@ date: 2015-01-13T19:30:00
 publishDate: 2016-01-18
 register: "https://www.eventbrite.fr/e/billets-soiree-young-blood-ii-15060592638"
 tags:
-  - young blood
+- functional programming
+- java
+- spring
+- young blood
 title: "Soirée Young blood II"
 videos:
-  - https://www.youtube.com/watch?v=ObdwEuA2Ffw
-  - https://www.youtube.com/watch?v=rWeWhvQnyVg
-  - https://www.youtube.com/watch?v=eqlXdPrWZX0
-  - https://www.youtube.com/watch?v=MRd0JZtnAWU
-  - https://www.youtube.com/watch?v=C69gK7mhqXk
-  - https://www.youtube.com/watch?v=Cskt4qtNeEI
+- https://www.youtube.com/watch?v=ObdwEuA2Ffw
+- https://www.youtube.com/watch?v=rWeWhvQnyVg
+- https://www.youtube.com/watch?v=eqlXdPrWZX0
+- https://www.youtube.com/watch?v=MRd0JZtnAWU
+- https://www.youtube.com/watch?v=C69gK7mhqXk
+- https://www.youtube.com/watch?v=Cskt4qtNeEI
 ---
 
 ## Date et lieu

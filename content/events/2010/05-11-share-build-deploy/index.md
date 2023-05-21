@@ -4,7 +4,7 @@ publishDate: 2015-05-03
 tags:
 - jee
 - git
-- tool
+- tools
 title: "Soirée Share, Build and Deploy"
 ---
 

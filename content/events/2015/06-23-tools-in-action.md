@@ -3,9 +3,11 @@ date: 2015-06-23T19:30:00
 publishDate: 2016-01-18
 tags:
 - big data
+- ci/cd
 - jvm
 - performance
 - tools
+- test
 title: "Soirée Tools In Action"
 # videos:
 #   - https://www.youtube.com/watch?v=xxxxxxx

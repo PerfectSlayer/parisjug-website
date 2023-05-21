@@ -2,9 +2,9 @@
 date: 2015-05-12T19:30:00
 publishDate: 2016-01-18
 tags:
+- ai
 - big data
 - cloud
-- ai
 title: "Soirée Java/Azure"
 videos:
 - https://www.youtube.com/watch?v=Yb0tAyHh4Kk

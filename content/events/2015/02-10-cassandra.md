@@ -3,7 +3,7 @@ date: 2015-02-10T19:30:00
 publishDate: 2016-01-18
 register: "https://goo.gl/ezbpWR"
 tags:
-  - database
+- database
 title: "Soirée Cassandra"
 # videos:
 #   - https://www.youtube.com/watch?v=xxxxxxx
