@@ -2,6 +2,7 @@
 date: 2013-12-10T19:00:00
 publishDate: 2013-12-10
 tags:
+- java
 - jee
 - performance
 title: "Soirée Classloaders et JVM optimisation"

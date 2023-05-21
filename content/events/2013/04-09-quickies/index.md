@@ -2,6 +2,9 @@
 date: 2013-04-09T19:00:00
 publishDate: 2013-04-09
 tags:
+- alternative languages
+- jee
+- tools
 title: "Soirée Quickies"
 ---
 

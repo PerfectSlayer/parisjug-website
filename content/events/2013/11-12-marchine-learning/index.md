@@ -2,7 +2,7 @@
 date: 2013-11-12T19:00:00
 publishDate: 2013-11-12
 tags:
-- machine learning
+- ai
 title: "Soirée Machine Learning 101"
 ---
 

@@ -4,7 +4,7 @@ publishDate: 2016-01-18
 tags:
 - big data
 - cloud
-- machine learning
+- ai
 title: "Soirée Java/Azure"
 videos:
 - https://www.youtube.com/watch?v=Yb0tAyHh4Kk

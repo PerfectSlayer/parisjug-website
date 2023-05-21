@@ -2,6 +2,7 @@
 date: 2010-11-09T19:00:00
 publishDate: 2015-05-03
 tags:
+- ai
 - tools
 title: "Les BRMS (Business Rules Management System) ou plus simplement les moteurs de règles"
 ---

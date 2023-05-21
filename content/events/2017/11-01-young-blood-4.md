@@ -3,7 +3,7 @@ date: 2017-01-10T19:00:00
 publishDate: 2017-01-13
 tags:
 - java
-- machine learning
+- ai
 - performance
 - reactive programming
 - young blood

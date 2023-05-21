@@ -2,7 +2,6 @@
 date: 2013-10-08T19:00:00
 publishDate: 2013-10-08
 tags:
-- camel
 - spring
 title: "Soirée Intégration Java"
 ---
