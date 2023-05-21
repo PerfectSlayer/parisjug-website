@@ -18,7 +18,7 @@ title: "Soirée Java EE 6"
 
 ### 19h30 à 20h30 : Java EE 6
 
-J2EE 1.4, Java EE 5 et bientôt Java EE 6. L'année 2009 coïncide avec la sortie de la nouvelle version de l'Enterprise Edition et de son 10e anniversaire. Mais le J2EE de l'époque ressemble-t-il encore au Java EE d'aujourd'hui? Dans cette session, Antonio Goncalves vous présentera les nouveautés Java EE 6 : un modèle de programmation centré sur les EJBs, un packaging simplifié, une couche de persistance enrichie, une nouvelle API pour les ressources REST, une simplification radicale de la couche web et bien d'autres améliorations qui feront de Java EE 6 la plateforme idéale pour vos applications. Basé sur des standards, s'inspirant de framemeworks open source, utilisant les conteneurs léger, Java EE 6 allie standards, robustesse et solutions éprouvées.
+J2EE 1.4, Java EE 5 et bientôt Java EE 6. L'année 2009 coïncide avec la sortie de la nouvelle version de l'Enterprise Edition et de son 10e anniversaire. Mais le J2EE de l'époque ressemble-t-il encore au Java EE d'aujourd'hui ? Dans cette session, Antonio Goncalves vous présentera les nouveautés Java EE 6 : un modèle de programmation centré sur les EJBs, un packaging simplifié, une couche de persistance enrichie, une nouvelle API pour les ressources REST, une simplification radicale de la couche web et bien d'autres améliorations qui feront de Java EE 6 la plateforme idéale pour vos applications. Basé sur des standards, s'inspirant de framemeworks open source, utilisant les conteneurs léger, Java EE 6 allie standards, robustesse et solutions éprouvées.
 
 Par [Antonio Goncalves]({{< ref "/speakers/antonio-goncalves.md" >}})
 
@@ -34,16 +34,7 @@ Par [Alexis Moussine-Pouchkine]({{< ref "/speakers/alexis-moussine-pouchkine.md"
 
 ### 22h30 à ... : 3ème mi-temps des juggers au [Falstaff](https://goo.gl/maps/NSxajnfvVtjHuggeA)
 
-### Sponsors de l'évènement
-
-{{< figure src="/img/sponsors/2009/xebia50.png" alt="Xebia" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/aneo50.png" alt="Aneo" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/valtech50.png" alt="Valtech" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/zenika50.png" alt="Zenika" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/oceane25.png" alt="Oceane" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/springSource25.png" alt="Spring Source" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
+{{< sponsor-section >}}
 
 ## Feedback
 

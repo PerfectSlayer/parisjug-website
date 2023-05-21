@@ -1,18 +1,9 @@
 ---
 date: 2009-09-15T19:00:00
-#draft: true
 publishDate: 2009-09-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- pmd
-- sonar
-- quality
-- checkstyle
-- findBugs
+- tools
 title: "Soirée Qualité du logiciel"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -31,7 +22,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ### 19h15 à 19h30 : Accueil
 
-### 19h30 à 20h00 : Les frameworks open source
+### 19h30 à 20h00 : Les frameworks Open Source
 
 Le monde Open Source Java proposent de nombreux outils d'analyse de code (PMD, CPD, FindBugs, JDepends, CKJM, JavaNCSS, Crap4J, Emma ...). Ces moulinettes produisent des dizaines de métriques (parfois cryptiques, parfois abstraites, parfois élaborées par des docteurs en informatique, barbus!!).
 

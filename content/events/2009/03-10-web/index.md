@@ -7,7 +7,6 @@ title: "Soirée Web"
 
 ## Date et lieu
 
-
 * Mardi 10 mars 2009
 * Dans [les locaux de la ISEP]({{< ref "/location/isep.md" >}})
 * 180 participants

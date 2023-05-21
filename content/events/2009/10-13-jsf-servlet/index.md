@@ -1,17 +1,9 @@
 ---
 date: 2009-10-13T19:00:00
-#draft: true
 publishDate: 2009-10-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- jsf
-- servlet
-- j2ee
-- api
+- jee
 title: "Soirée JSF 2.0 - Servlet 3.0"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
@@ -28,7 +20,7 @@ L’inscription implique de posséder une adresse mail valide sur laquelle vous 
 
 ## Détails
 
-### 19h30 à  20h25 : JSF 2.0
+### 19h30 à 20h25 : JSF 2.0
 
 JSF ou Java server Faces est LE framework java de présentation web présent dans la version actuelle de Java EE 5. Il le sera également dans la prochaine version de Java EE 6. A cette fin, celui-ci a eu droit à une nouvelle version majeure, et s’est vu dôté de nouvelles fonctionnalités.
 

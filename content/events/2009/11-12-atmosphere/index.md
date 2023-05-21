@@ -1,18 +1,8 @@
 ---
 date: 2009-11-12T19:00:00
-#draft: true
 publishDate: 2009-11-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- servlet
-- atmosphere
-- async
-- jRuby
-- comet
 title: "Soirée Atmosphere"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

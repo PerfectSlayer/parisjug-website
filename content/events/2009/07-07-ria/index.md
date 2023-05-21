@@ -31,7 +31,7 @@ Par [François Le Droff]({{< ref "/speakers/francois-le-droff.md" >}})
 
 ### 20h30 à 21h : Buffet
 
-### 21h à 22h : JavaFX : The Platform for Rich Internet Applications
+### 21h à 22h : JavaFX: The Platform for Rich Internet Applications
 
 The demand continues to grow for rich interactive content, applications, and services that run on a variety of clients. Rich Applications have achieved a new degree of sophistication with requirements to add multimedia and animation. With the JavaFX SDK and the latest updates of Java SE 6 it is possible to incorporate innovative elements of rich client applications into existing Java software with minimum effort, enabling consistent user experiences on the desktop, mobile devices, TV, and other consumer platforms.
 

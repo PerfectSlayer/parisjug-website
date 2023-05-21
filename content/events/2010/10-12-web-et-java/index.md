@@ -4,8 +4,6 @@ date: 2010-12-10T19:00:00
 publishDate: 2015-05-03
 #register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- web 
-- playframework
 title: "Soirée Web et Java"
 #videos:
 #- https://www.youtube.com/watch?v=xxxx

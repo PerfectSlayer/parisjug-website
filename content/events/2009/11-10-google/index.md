@@ -1,18 +1,8 @@
 ---
 date: 2009-10-13T19:00:00
-#draft: true
 publishDate: 2009-10-01
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- java
-- gae
-- google
-- wave
-- gaelyk
-- android
 title: "Soirée Google"
-#videos: 
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

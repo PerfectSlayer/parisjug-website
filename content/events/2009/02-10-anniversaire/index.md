@@ -3,6 +3,7 @@ date: 2009-01-13T19:00:00
 publishDate: 2009-01-01
 tags:
 - anniversary
+- java
 title: "Fête anniversaire du Paris JUG"
 ---
 
@@ -89,16 +90,7 @@ Et un grand merci à toute l'équipe de [VitaliZen](http://www.vitalizen.fr/) et
 
 {{< figure src="/img/sponsors/2009/vitalizen50.jpg" alt="VitaliZen" class="sponsor-p-svg-logo" >}}
 
-### Sponsors de l'évènement
-
-{{< figure src="/img/sponsors/2009/xebia50.png" alt="Xebia" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/aneo50.png" alt="Aneo" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/valtech50.png" alt="Valtech" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/bk75.jpg" alt="BK consulting" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/zenika50.png" alt="Zenika" class="sponsor-p-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/oceane25.png" alt="Oceane" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/springSource25.png" alt="Spring Source" class="sponsor-g-svg-logo" >}}
-{{< figure src="/img/sponsors/2009/objetDirect25.png" alt="Objet Direct" class="sponsor-g-svg-logo" >}}
+{{< sponsor-section >}}
 
 ## Feedback
 
