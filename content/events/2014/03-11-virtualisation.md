@@ -2,6 +2,7 @@
 date: 2014-03-11T19:00:00
 publishDate: 2014-03-04
 tags:
+- cloud
 title: "Introduction à la virtualisation pour les développeurs"
 ---
 

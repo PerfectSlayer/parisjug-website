@@ -3,6 +3,7 @@ date: 2014-03-19T19:00:00
 publishDate: 2014-03-12
 tags:
 - jee
+- test
 title: "Java EE et Wildfly"
 ---
 

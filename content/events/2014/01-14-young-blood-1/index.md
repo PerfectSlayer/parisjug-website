@@ -2,6 +2,8 @@
 date: 2014-01-14T19:30:00
 publishDate: 2014-01-07
 tags:
+- ai
+- tools
 - young blood
 title: "Soirée Young Blood I"
 ---
@@ -57,6 +59,7 @@ Alors embarquez pour un petit tour d'horizon de cette techno, pour vous convainc
 Par Simon Basle
 
 ### 20h20 - Des recommandations au service du business
+
 Le but de cette présentation est d'aborder les systèmes de recommandations du point de vue business.
 
 Que peut apporter un système de recommandations ? Pourquoi le mettre en place ? Que peut-on en attendre ?
