@@ -2,6 +2,7 @@
 date: 2016-03-22T19:00:00
 publishDate: 2016-03-17
 tags:
+- cloud
 - ide
 title: "Soirée Eclipse Che"
 ---

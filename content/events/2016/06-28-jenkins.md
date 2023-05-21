@@ -52,7 +52,7 @@ Par [Adrien Lecharpentier]({{< ref "/speakers/adrien-lecharpentier.md" >}})
 ### 20h30 à 21h00 : Buffet
 
 
-### 21h00 à 21h30 : Jenkins et docker
+### 21h00 à 21h30 : Jenkins et Docker
 
 C'est une surprise !
 

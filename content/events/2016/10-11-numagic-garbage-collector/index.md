@@ -2,6 +2,7 @@
 date: 2016-10-11T19:00:00
 publishDate: 2016-10-03
 tags:
+- architecture
 - performance
 title: "NumaGiC : a garbage collector for Big-Data"
 ---

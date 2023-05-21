@@ -2,9 +2,13 @@
 date: 2016-01-12T19:00:00
 publishDate: 2016-01-05
 tags:
+- cloud
+- devops
+- java
+- test
+- tools
 - young blood
 title: "Young blood III : No Retreat"
-#videos:
 ---
 
 ## Date et lieu
@@ -33,7 +37,6 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 ## Photos
 
-
 {{< flickr id="72157675432872413" img="https://live.staticflickr.com/528/31447028714_5d15fff354_h.jpg" >}}
 
 
@@ -41,7 +44,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 ### 19h15 à 19h30: Accueil
 
-19h30 - Réaliser une bonne recette grâce au concombre
+### 19h30 - Réaliser une bonne recette grâce au concombre
 
 À travers un live-coding, je vais mettre en pratique un exemple de BDD (Behavior Driven Development) avec Cucumber.
 
@@ -51,13 +54,14 @@ Pour aller plus loin j'introduirais comment travailler avec le Métier pour que 
 
 Par Shoun Ichida ([Présentation](ICHIDA-Young Blood 2016.pdf))
 
-
 ### 19h50 - Spock, un framework de test venu d’une autre planète
+
 Les tests unitaires peuvent parfois provoquer de fortes émotions chez le développeur. Heureusement pour nous, Spock nous permet de maitriser ces émotions grâce à la logique et l’expressivité. Durant ce talk, je vous ferait faire un tour d’horizon rapide de Spock et de ses capacités.
 
 Par Xavier Detant
 
-## 20h10 - Une stack logicielle de géolocalisation et geofencing à faible consommation d’énergie pour applications mobiles
+### 20h10 - Une stack logicielle de géolocalisation et geofencing à faible consommation d’énergie pour applications mobiles
+
 En quelques années, la localisation est devenue l’une des données personnelles les plus prisées. Un grand nombre d’applications web et mobile utilisent cette information pour proposer des résultats plus pertinents (sites d’information, réseaux sociaux...) ou se reposent sur les systèmes de géolocalisation des terminaux des utilisateurs pour proposer des fonctionnalités supplémentaires (navigation, réalité augmentée…).
 
 Aujourd’hui, il n’existe pas d’architecture généraliste standard permettant la mise en place simple de ce genre de services, et le développement de telles fonctionnalités en dehors de tout framework nécessite par ailleurs beaucoup de travail tout en soulevant un ensemble de problèmes techniques : diversité des terminaux clients et des méthodes de géolocalisation, précision, consommation énergétique, stockage et exploitation des données géographiques…
@@ -70,11 +74,9 @@ Je terminerai en proposant quelques concepts d’applications mobiles basées su
 
 Par Romain Vernoux
 
-
 ### 20h30 à 21h00 : Buffet Sponsorisé par Innovation-Box
 
 {{< figure src="/img/sponsors/2016/innovation-box.png" alt="InnovationBox" class="sponsor-svg-logo" >}}
-
 
 ### 21h00 - Pour un front plus digeste, saupoudrez de feuilles de thym !!
 
@@ -89,8 +91,8 @@ Le sujet principal de la présentation est Thymeleaf. L'idée est de montrer à 
 
 Par Patrick Allain ([Présentation](thymeleaf.pdf))
 
-
 ### 21h20 - La recette pour déployer des applications microservice avec Ansible
+
 Durant le présentation, je vais exposer une recette pour déployer une architecture micro-service avec Spring Boot hautement disponible avec Ansible, Haproxy et SupervisordLa quicky est composé de trois parties :
 
 - Première partie : La présentation (10 mn) nous allons introduire Ansible et ses concepts (play-book, inventery-file, les modules ) , Haproxy et supervisord.
@@ -99,8 +101,6 @@ Durant le présentation, je vais exposer une recette pour déployer une architec
 Pour le moment le nom n'est pas très accrocheur , mais si la présentation est accepté je vais en trouvé un plus sexy ;)
 
 Par Walid Chergui
-
-
 
 ### 21h40 - Java Agent en Action
 
@@ -116,9 +116,7 @@ Nous parlerons ici de son utilisation au sein de projets Java même s'il s'est d
 
 Par Fabrice Sznajderman ([Présentation](SBT-parisJug2016.pdf))
 
-
 ### 22h20 - Résultats
-
 
 ### 22h10 à ...
 
