@@ -2,7 +2,6 @@
 date: 2008-12-02T19:00:00
 publishDate: 2008-12-01
 tags:
-- cdi
 - jee
 title: "Soirée JBoss"
 ---

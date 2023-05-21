@@ -1,12 +1,9 @@
 ---
 date: 2011-11-08T19:00:00
-#draft: true
 publishDate: 2011-11-08
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
-#tags:
+tags:
+- tools
 title: "Petites Librairies Java"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

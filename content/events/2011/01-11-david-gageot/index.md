@@ -1,13 +1,9 @@
 ---
 date: 2011-01-11T19:00:00
-#draft: true
 publishDate: 2011-01-11
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 - test
 title: "Soirée David Gageot"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

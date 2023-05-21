@@ -1,13 +1,9 @@
 ---
 date: 2011-06-14T19:00:00
-#draft: true
 publishDate: 2011-06-14
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- cdi
+- jee
 title: "Evening with Pete Muir"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

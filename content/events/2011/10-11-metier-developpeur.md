@@ -1,12 +1,8 @@
 ---
 date: 2011-10-11T19:00:00
-#draft: true
 publishDate: 2011-10-11
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 title: "Le métier de développeur"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

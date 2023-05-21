@@ -1,12 +1,8 @@
 ---
 date: 2011-09-13T19:00:00
-#draft: true
 publishDate: 2011-09-13
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
 title: "Retrospective Challenge USI"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu

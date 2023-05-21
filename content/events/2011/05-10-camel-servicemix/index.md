@@ -1,13 +1,9 @@
 ---
 date: 2011-05-10T19:00:00
-#draft: true
 publishDate: 2011-05-10
-#register: "https://eventbrite.fr/tickets-external?eid=xxxx"
 tags:
-- camel
+- tools
 title: "Soirée Camel et ServiceMix"
-#videos:
-#- https://www.youtube.com/watch?v=xxxx
 ---
 
 ## Date et lieu
