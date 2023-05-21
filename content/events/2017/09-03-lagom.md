@@ -4,7 +4,7 @@ publishDate: 2017-03-15
 tags:
 - java
 title: "Soirée Lagom (Adopt OpenJDK en parallèle)"
-##videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -29,7 +29,7 @@ Les inscriptions seront ouvertes le jeudi précédent l'évènement. Suivez auss
 
 ### 19h30 - Lagom 1
 
-Microservices, CQRS, Event sourcing, Réactif… Ces termes ont fait le buzz il y a un an déjà. Qu’en est il aujourd’hui? Quelles sont les bonnes pratiques à mettre en oeuvre pour bâtir son système? Comment démarrer?
+Microservices, CQRS, Event sourcing, Réactif… Ces termes ont fait le buzz il y a un an déjà. Qu’en est il aujourd’hui ? Quelles sont les bonnes pratiques à mettre en oeuvre pour bâtir son système ? Comment démarrer ?
 
 Connaissez-vous Lagom ? Ce framework va vous guider dans la mise en place d’une architecture de type microservices, CQRS/Event sourcing et bien plus encore. Au-delà de ça, Lagom place la productivité du développeur au centre des attentions.
 Javaiste ou scalaiste êtes vous prêt à relever le défi ?
@@ -51,9 +51,7 @@ Le premier objectif sera de la faire fonctionner avec un minimum d'effort en mod
 
 Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
-
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h00 - Lagom 2ème partie
 

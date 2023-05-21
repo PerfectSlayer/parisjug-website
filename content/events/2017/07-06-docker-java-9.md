@@ -4,7 +4,7 @@ publishDate: 2017-06-17
 tags:
 - java
 title: "Docker et Java 9"
-##videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -36,13 +36,11 @@ Par [Jean-Christophe Sirot]({{< ref "/speakers/jean-christophe-sirot.md" >}}) et
 
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h00 - Java 9 modulo les modules
 
 Le sujet principal de Java 9 est le support de la modularité mais Java 9 propose aussi de nombreuses autres fonctionnalités. Ce talk a pour but de faire une revue des principales d’entre-elles en attendant la sortie de Java 9 : support de standards, nouvelles API, évolutions dans certaines API, mises à jour des outils du JDK et améliorations de la JVM.
 
 Par [Jean-Michel Doudoux]({{< ref "/speakers/jean-michel-doudoux.md" >}})
-
 
 ### 22h00 à ...
 

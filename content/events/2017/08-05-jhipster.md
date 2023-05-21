@@ -3,7 +3,7 @@ date: 2017-05-09T19:00:00
 publishDate: 2017-05-13
 tags:
 title: "Soirée JHipster"
-##videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -44,7 +44,6 @@ Générer visuellement son application avec le JHipster Domain Language, par Mat
 Par [Mathieu Abou Aichi]({{< ref "/speakers/mathieu-abou-aichi.md" >}})
 
 ### 20h45 à 21h15 : Buffet
-
 
 ### 21h15 - Docker et JHipster
 

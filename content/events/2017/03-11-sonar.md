@@ -2,7 +2,9 @@
 date: 2017-11-14T19:00:00
 publishDate: 2017-10-24
 tags:
+- cloud
 - ci/cd
+- test
 title: "Analyseurs de code et Qualité logicielle avec Sonar"
 ##videos:
 ---

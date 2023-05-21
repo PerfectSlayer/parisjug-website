@@ -4,7 +4,7 @@ publishDate: 2017-03-02
 tags:
 - java
 title: "Java is going nuts (JDK 9 - Jigsaw)"
-##videos:
+#videos:
 ---
 
 ## Date et lieu
@@ -32,7 +32,6 @@ Bon alors c'est quoi jigsaw, je commencerai par rappeler pourquoi Java a besoin 
 Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 à 21h00 : Buffet
-
 
 ### 21h15 - Docker et JHipster
 

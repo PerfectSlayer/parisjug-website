@@ -32,7 +32,6 @@ Par [David Delabassee]({{< ref "/speakers/xavier-bourguignon.md" >}}) et [Freddy
 
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h15 - Parlons un peu ensemble
 
 En conclusion, nous allons faire le point sur les annonces faites à JavaOne comme par exemple EE4J, le projet au sein de la Fondation Eclipse qui va accueillir le développement de la plateforme Java EE. Répondre à des questions telles que la convergence (ou pas) de MicroProfile.IO et de Java EE, etc...
