@@ -1,6 +1,6 @@
 ---
 date: 2017-11-14T19:00:00
-publishDate: 2017-10-24
+publishDate: 2017-11-07
 tags:
 - cloud
 - ci/cd

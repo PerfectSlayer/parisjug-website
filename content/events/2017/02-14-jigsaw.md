@@ -1,10 +1,9 @@
 ---
 date: 2017-02-14T19:00:00
-publishDate: 2017-03-02
+publishDate: 2017-02-07
 tags:
 - java
 title: "Java is going nuts (JDK 9 - Jigsaw)"
-#videos:
 ---
 
 ## Date et lieu

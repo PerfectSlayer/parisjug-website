@@ -1,10 +1,9 @@
 ---
 date: 2017-03-14T19:00:00
-publishDate: 2017-03-15
+publishDate: 2017-03-07
 tags:
 - java
 title: "Soirée Lagom (Adopt OpenJDK en parallèle)"
-#videos:
 ---
 
 ## Date et lieu

@@ -1,9 +1,8 @@
 ---
 date: 2017-06-29T19:00:00
-publishDate: 2017-06-30
+publishDate: 2017-06-22
 tags:
 title: "Java dans Raspberry 3"
-##videos:
 ---
 
 ## Date et lieu
@@ -32,7 +31,6 @@ Par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
-
 ### 21h00 - Comment s'amuser avec des RP3 et des projets Apache
 
 Vous pouvez faire beaucoup avec des RPI3 et des projets ASF. D'un objet connecté à Internet à une petite application serveur. - Une demo HPPT/2 avec Tomcat.
@@ -41,7 +39,6 @@ Vous pouvez faire beaucoup avec des RPI3 et des projets ASF. D'un objet connect�
 - Et plein d'autre trucs.
 
 Par [Jean-Frederic Clere]({{< ref "/speakers/jean-frederic-clere.md" >}})
-
 
 ### 22h00 à ...
 

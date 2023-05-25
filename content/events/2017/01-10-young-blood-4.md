@@ -1,6 +1,6 @@
 ---
 date: 2017-01-10T19:00:00
-publishDate: 2017-01-13
+publishDate: 2017-01-03
 tags:
 - ai
 - java
@@ -8,7 +8,6 @@ tags:
 - reactive programming
 - young blood
 title: "Young blood IV : Aftermath"
-#videos:
 ---
 
 ## Date et lieu
