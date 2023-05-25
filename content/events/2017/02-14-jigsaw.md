@@ -32,12 +32,6 @@ Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
 
 ### 20h30 à 21h00 : Buffet
 
-### 21h15 - Docker et JHipster
-
-Devops facile avec Docker et JHipster par Pascal Grimaud.
-
-Par [Pascal Grimaud]({{< ref "/speakers/pascal-grimaud.md" >}})
-
 ### 21h00 - Suite & Adopt a JSR
 
 Par [Rémi Forax]({{< ref "/speakers/remi-forax.md" >}})
