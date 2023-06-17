@@ -2,6 +2,8 @@
 date: 2019-05-14T19:00:00
 publishDate: 2019-05-08
 tags:
+- cloud
+- kafka
 title: "Quarkus ... Supersonic Subatomic Java"
 #videos:
 ---

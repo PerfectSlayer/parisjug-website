@@ -4,7 +4,6 @@ publishDate: 2016-01-18
 tags:
 - big data
 - ci/cd
-- jvm
 - performance
 - tools
 - test

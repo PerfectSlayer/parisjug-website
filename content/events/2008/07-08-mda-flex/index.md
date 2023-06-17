@@ -2,7 +2,7 @@
 date: 2008-07-08T19:00:00
 publishDate: 2008-07-01
 tags:
-- design
+- architecture
 title: "MDA et Flex"
 ---
 

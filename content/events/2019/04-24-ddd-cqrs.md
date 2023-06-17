@@ -2,6 +2,11 @@
 date: 2019-04-24T19:00:00
 publishDate: 2019-04-18
 tags:
+- architecture
+- database
+- cloud
+- kafka
+- kubernetes
 title: "(D)DDD and CQ(R)S to Cloud Architectures"
 #videos:
 ---

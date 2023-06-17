@@ -3,7 +3,6 @@ date: 2022-05-10T19:30:00
 publishDate: 2022-05-03
 tags:
 - cloud
-- micronaut
 - tools
 register: "https://eventbrite.fr/tickets-external?eid=329566721937&ref=etckt"
 title: "Soirée Micronaut"

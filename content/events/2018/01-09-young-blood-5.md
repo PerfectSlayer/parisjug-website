@@ -2,7 +2,6 @@
 date: 2018-01-09T19:00:00
 publishDate: 2018-01-02
 tags:
-- accessibility
 - alternative languages
 - architecture
 - functional programming

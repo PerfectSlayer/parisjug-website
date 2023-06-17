@@ -3,6 +3,7 @@ date: 2015-03-10T19:30:00
 publishDate: 2016-01-18
 tags:
 - big data
+- kafka
 - reactive programming
 title: "Soirée Rx Java & Kafka"
 videos:
