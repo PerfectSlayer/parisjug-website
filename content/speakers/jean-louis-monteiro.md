@@ -1,6 +1,6 @@
 ---
 title: "Jean-Louis Monteiro"
-twitter: "@jlouismonteiro"
+twitter: "jlouismonteiro"
 ---
 
 Architecte Logiciel senior, spécialisé en Java / JEE et passionné par

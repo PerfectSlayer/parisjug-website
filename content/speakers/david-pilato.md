@@ -1,6 +1,6 @@
 ---
 title: "David Pilato"
-twitter: "@dadoonet"
+twitter: "dadoonet"
 ---
 
 Depuis 2013, David Pilato est développeur et évangéliste chez

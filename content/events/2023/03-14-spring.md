@@ -9,6 +9,7 @@ videos:
 - https://www.youtube.com/watch?v=5aZtF5stYeU
 - https://www.youtube.com/watch?v=1-O4i7AvFPc
 ---
+
 ## Date et lieu
 
 * Mardi 14 Mars 2023 à 19h00

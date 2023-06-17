@@ -1,6 +1,6 @@
 ---
 title: "Venkat Subramaniam"
-twitter: "@venkat_s"
+twitter: "venkat_s"
 ---
 
 Dr. Venkat Subramaniam is an award-winning author, founder of Agile
