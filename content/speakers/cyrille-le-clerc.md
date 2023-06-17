@@ -1,13 +1,9 @@
 ---
-title: "Cyrille Leclerc"
+title: "Cyrille Le clerc"
 twitter: "cyrilleleclerc"
 ---
 
-Cyrille est Architecte Solutions chez CloudBees avec plus de 15 années
-d’expérience sur les technologies Java. Il est arrivé chez CloudBees en
-venant de Xebia où il était CTO et architecte. Adopteur précoce du
-modèle “You Build It, You run It”, Cyrille a naturellement embrassé la
-culture DevOps, le Continuous Delivery et le Cloud.  
-Cyrille est très actif dans la communauté Java en tant que créateur du
-projet Open Source embedded-jmxtrans et que speaker dans des
-conférences.
+Cyrille est Product Director chez Grafana Labs en charge de l’observabilité applicative.
+Avant de rejoindre Grafana, il a été product manager chez Elastic également sur l’observabilité et chez CloudBees sur Jenkins et le Continuous Delivery.
+Sa passion pour l’Open Source s’étend en dehors des heures de travail en étant le créateur et mainteneur du [Jenkins OpenTelemetry Plugin](https://github.com/jenkinsci/opentelemetry-plugin) et la [Maven OpenTelemetry Extension](https://github.com/open-telemetry/opentelemetry-java-contrib/tree/main/maven-extension).
+Il y a bien longtemps, Cyrille a aussi participé au premier Paris JUG pour devenir un fidèle des 3èmes mi-temps du JUG mais c’est une longue histoire que nous pourrons discuter à la 3ème mi-temps!
