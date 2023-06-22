@@ -35,6 +35,8 @@ jobs:
             ${{ runner.os }}-hugomod
 
       - name: Build
+        env:
+          HUGO_PARAMS_TWITTER: ${{ secrets.TWITTER_TOKEN }}
         run: hugo --minify --baseURL https://${{ vars.DOMAIN }}
 
       - name: Deploy

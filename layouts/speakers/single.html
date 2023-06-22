@@ -2,7 +2,7 @@
 <main class="main" role="main">
 	<article class="post">
         {{- if and .Params.twitter .Site.Params.Twitter }}
-			{{- $twitterApiHeaders := dict "authorization" .Site.Params.Twitter }}
+			{{- $twitterApiHeaders := dict "authorization" (printf "%s%s" "Bearer " .Site.Params.Twitter) }}
 			{{- $twitterUser := getJSON "https://api.twitter.com/1.1/users/show.json?screen_name=" .Params.twitter $twitterApiHeaders }}
 			{{- $originalImage := resources.GetRemote (replace $twitterUser.profile_image_url_https "_normal" "") }}
 			{{- $image := $originalImage.Resize "128x128" }}
