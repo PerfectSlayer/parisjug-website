@@ -9,7 +9,7 @@ title: "Soirée OpenTelemetry"
 videos:
 - https://www.youtube.com/watch?v=nDBiXpWCL-k
 - https://www.youtube.com/watch?v=ghXeqF2VaFs
-- https://www.youtube.com/watch?v=ghXeqF2VaFs
+- https://www.youtube.com/watch?v=fiK4m26XBnw
 ---
 
 ## Date et lieu
